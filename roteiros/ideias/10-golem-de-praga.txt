@@ -1,0 +1,81 @@
+[SOM: vento baixo numa viela de pedra, e passos pesados que se aproximam]
+
+[B-ROLL: viela escura do antigo bairro judeu de Praga, névoa baixa, uma figura de barro ao fundo, sem rosto definido]
+
+Em Praga, uma criatura de barro obedecia a ordens, não falava e podia ser desligada apagando uma única letra. Muita gente chama o Golem de a primeira inteligência artificial da história, e a ideia é sedutora. Neste vídeo você vai ver de onde essa lenda realmente vem, por que a história ligada a Praga é bem mais recente do que parece, quem a transformou em literatura e em computador, e por que, mesmo assim, o Golem pode ser a melhor imagem que temos para o problema de controlar o que a gente cria.
+
+[TELA: O Golem de Praga · lenda ou primeira IA?]
+
+[SAÍDA: o espectador acha que será só um vídeo de lenda | a promessa de ligar a história a um problema de hoje, o controle do que criamos, aparece logo no início]
+
+A origem é mais antiga do que Praga. No Talmude, no tratado Sanhedrin, página sessenta e cinco, há uma passagem curta em que o sábio Rava cria um homem e o envia ao rabino Zeira. Zeira fala com a criatura, e ela não responde, e então ele diz que ela foi feita pelos sábios e deve voltar ao seu pó. O texto não explica por que Rava a criou nem por que Zeira a desfez, e a tradição posterior associa essa criação ao Sefer Yetzirah, o Livro da Formação. É uma criatura que parece gente e não pensa como gente.
+
+[B-ROLL: página de manuscrito hebraico com letras iluminadas, uma mão apontando uma linha]
+
+[TELA: Talmude · Sanhedrin 65b · a criatura que não responde]
+
+As receitas mais antigas para fazer um golem aparecem em textos medievais, como as de Eleazar de Worms, que viveu entre o fim do século doze e o começo do século treze. É nessa literatura que surge a famosa letra que desliga a criatura: a palavra emet, que em hebraico quer dizer verdade, era escrita na testa dela, e quando se apagava a primeira letra, o aleph, sobrava a palavra met, que quer dizer morto. Esse detalhe não está no Talmude, e aparece séculos depois dele.
+
+[QUEBRA: a letra aleph brilha na testa de uma figura de barro e é apagada, restando a palavra “met”]
+
+Então chegamos a Praga. A lenda liga o Golem ao rabino Judá Loew ben Bezalel, o Maharal, uma figura histórica do século dezesseis, que morreu em Praga em dezessete de setembro de mil seiscentos e nove. A data de nascimento dele é incerta, e as fontes variam entre mil quinhentos e doze e mil quinhentos e vinte e seis. O que está documentado é uma audiência dele com o imperador Rodolfo Segundo, em vinte e três de fevereiro de mil quinhentos e noventa e dois, cujo assunto, segundo relatos, teria sido o misticismo judaico, embora a finalidade da conversa não seja conhecida. Um golem não aparece nesse registro.
+
+[B-ROLL: gravura de Praga no tempo de Rodolfo Segundo, o castelo, a ponte e o bairro judeu]
+
+[TELA: Maharal · morre em 1609 · audiência com Rodolfo II em 1592]
+
+As histórias que ligam o Golem ao Maharal aparecem impressas muito depois da morte dele. Na década de mil oitocentos e quarenta, vários autores publicaram versões: Gustav Philippson e Franz Klutschak em mil oitocentos e quarenta e um, Adam Tendlau em mil oitocentos e quarenta e dois, e em mil oitocentos e quarenta e sete uma versão de Leopold Weisel, na coletânea Sippurim, de Wolf Pascheles, que um artigo na Jewish Quarterly Review considera quase canônica. Em mil novecentos e nove, o rabino Yudl Rosenberg publicou um livro que se dizia o relato de uma testemunha, o genro do Maharal, e que estudiosos reconhecem como uma falsificação literária. Gershom Scholem, o grande historiador do misticismo judaico, concluiu que o manuscrito não continha lendas antigas, e sim ficção moderna.
+
+[B-ROLL: capa de livro antigo, uma rua de Praga em gravura do século dezenove, a cidade vista da ponte]
+
+[TELA: 1841 a 1847 · versões literárias · 1909 · livro de Rosenberg]
+
+Há outra leitura, que merece respeito. O estudioso Shnayer Leiman analisou as evidências do ponto de vista da tradição ortodoxa, e há comunidades que acreditam que o Maharal criou mesmo um golem. A maior parte dos historiadores, porém, considera a ligação tardia. As duas posições existem, e este vídeo segue o que os documentos permitem afirmar.
+
+[SAÍDA: bloco de datas e nomes | a linha do tempo na tela e a ideia de que a história é bem mais jovem do que parece mantêm a curiosidade]
+
+[TEASER]
+
+Mas a história não acaba aí, porque essa lenda tardia fez algo que as antigas nunca fizeram: deu origem a uma palavra que usamos todos os dias, e a um debate que está no centro da inteligência artificial. Já chego lá.
+
+[SOM: silêncio de dois segundos e uma nota de corda]
+
+Na versão popular, o rabino cria o Golem para proteger a comunidade judaica de Praga. A criatura obedece ao pé da letra, e certo dia, sem uma ordem nova, sai do controle, e o rabino precisa apagar a letra da testa para desfazê-la. Na versão de Rosenberg, a ameaça contra a qual o Golem protege é a calúnia do sangue, a acusação falsa, repetida na Europa durante séculos, de que judeus usariam sangue de crianças em rituais, e que provocou perseguições e mortes. Isso ajuda a entender por que a história pegou: ela é a fantasia de um povo perseguido que sonha com um protetor.
+
+[B-ROLL: ilustração de um romance antigo, uma figura de barro entre casas altas]
+
+Em mil novecentos e treze, o escritor Gustav Meyrink começou a publicar O Golem em capítulos, na revista Die Weißen Blätter, e o romance saiu em livro em mil novecentos e quinze. Foi a obra que levou a figura para a literatura moderna, com uma Praga de becos, sonhos e uma criatura que aparece e some.
+
+Em mil novecentos e vinte, o dramaturgo tcheco Karel Čapek publicou a peça R.U.R., que estreou em dois de janeiro de mil novecentos e vinte e um, com um grupo amador em Hradec Králové, e dias depois, em vinte e cinco de janeiro, no Teatro Nacional de Praga. Nela, trabalhadores artificiais fabricados para servir se rebelam, e é ali que a palavra robô entra em circulação. Segundo o próprio Čapek, em um texto de mil novecentos e trinta e três, a palavra foi sugerida por seu irmão Josef, a partir de robota, que em tcheco quer dizer trabalho forçado. Alguns comentaristas aproximam a peça da lenda do Golem, e essa ligação é uma interpretação, não um fato documentado.
+
+[TELA: R.U.R. · 1920 · robô vem de “robota”, trabalho forçado]
+
+[B-ROLL: palco de teatro antigo, figuras de metal em fila, luz amarela de lampião]
+
+O encontro entre o Golem e as máquinas ficou mais direto em meados do século vinte. Em mil novecentos e sessenta e quatro, o matemático Norbert Wiener, criador da cibernética, publicou o livro Deus e Golem S.A., sobre como a cibernética toca a religião. E em dezessete de junho de mil novecentos e sessenta e cinco, ao inaugurar o novo computador do Instituto Weizmann, em Israel, o estudioso Gershom Scholem chamou a máquina de Golem de Rehovot, e sugeriu o nome Golem Aleph. Segundo o relato da Biblioteca Nacional de Israel, ele disse duvidar que o Golem de Praga pudesse corrigir os próprios erros, ao contrário da máquina nova, que parecia capaz de aprender, e terminou brincando que o instituto deveria financiar um Instituto de Demonologia e Magia Experimentais.
+
+[B-ROLL: computador de grande porte dos anos mil novecentos e sessenta, fitas girando, cientistas de jaleco]
+
+[QUEBRA: o computador antigo e a figura de barro lado a lado, com um interruptor aparecendo entre os dois]
+
+Então o Golem foi a primeira inteligência artificial? Quem diz que sim aponta que a criatura é uma obra humana que executa ordens sozinha e pode fugir do controle, o que lembra os debates atuais sobre sistemas que cumprem instruções ao pé da letra e falham de maneiras imprevistas. Quem diz que não lembra que o Golem não aprende, não raciocina e não decide: é uma ferramenta que obedece, e as inteligências artificiais atuais aprendem com dados e produzem respostas que ninguém escreveu linha por linha. As duas leituras têm razão em parte.
+
+Esse medo de uma criatura que obedece demais é antigo. Em mil setecentos e noventa e sete, Goethe escreveu a balada O Aprendiz de Feiticeiro, em que vassouras enfeitiçadas não param de carregar água porque o aprendiz não sabe a palavra que as desfaz. Em mil novecentos e quarenta e dois, o escritor Isaac Asimov apresentou as três leis da robótica, regras escritas justamente para impedir que uma máquina obedeça de um modo que faça mal. E hoje os pesquisadores chamam de alinhamento a dificuldade de garantir que um sistema faça o que queremos, e não apenas o que pedimos. É isso que a lenda ilustra há séculos.
+
+[TELA: Goethe, 1797 · Asimov, 1942 · alinhamento: o que queremos, não só o que pedimos]
+
+[SOM: nota longa e grave]
+
+A minha tese é que o Golem não é a primeira inteligência artificial, e sim a primeira grande história sobre o problema de controlar o que criamos. O que a lenda pergunta não é se a máquina pensa. Ela pergunta quem responde quando uma criatura feita para obedecer causa um dano, e se o criador sempre vai ter a letra que a desliga. Essa é a pergunta que as empresas, os governos e cada um de nós deveríamos fazer antes de entregar mais decisões a sistemas que não conseguimos ler por dentro.
+
+Por isso a lenda continua útil: não como história de tecnologia, e sim como um espelho em que cada época vê o seu próprio medo de perder o controle.
+
+[B-ROLL: a mão do rabino se aproximando da testa da criatura, e a imagem esmaece para uma tela com um botão de desligar]
+
+[TELA: quem tem a letra que desliga?]
+
+[SAÍDA: final abstrato | a imagem da letra que desliga e a pergunta direta dão ao espectador uma pergunta para levar]
+
+No próximo vídeo, vamos conhecer um dos nomes mais mal contados do ocultismo: Aleister Crowley, e o que a filosofia dele, chamada Thelema, diz de verdade.
+
+[TELA: próximo vídeo: Aleister Crowley sem mitos]

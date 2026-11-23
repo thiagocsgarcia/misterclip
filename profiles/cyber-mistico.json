@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "base_model": "flux1-schnell-fp8",
+  "lora": null,
+  "params": {
+    "width": 1344,
+    "height": 768,
+    "steps": 4,
+    "cfg": 1.0,
+    "sampler": "euler",
+    "scheduler": "simple",
+    "seed": "per_scene_random"
+  },
+  "negative_prompt": "",
+  "negative_note": "FLUX schnell ignora prompt negativo; restrições vão no prompt positivo.",
+  "motion": {
+    "default": "ken_burns",
+    "animated_ratio": 0.35,
+    "clip_engine": "ltx"
+  },
+  "id": "cyber-mistico",
+  "name": "Cyber-místico",
+  "description": "Geometria sagrada fundida a circuitos, dourado e azul elétrico sobre preto. Tecnologia e futurismo.",
+  "style_prompt": "cyber-mystical digital art, sacred geometry fused with glowing circuitry, luminous gold and electric blue on black background, neon light trails, futuristic occult, ultra detailed",
+  "style_note": "Cores explícitas no prompt para evitar verde néon indesejado (visto no teste).",
+  "finishing": {
+    "grade": "high_contrast",
+    "grain": 0.05,
+    "vignette": 0.2,
+    "transition": "glow_dissolve"
+  },
+  "captions": {
+    "font": "mono",
+    "color": "#E8C766",
+    "position": "bottom"
+  },
+  "preview": "previews/cyber-mistico.jpg"
+}

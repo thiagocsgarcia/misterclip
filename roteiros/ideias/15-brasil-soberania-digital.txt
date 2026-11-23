@@ -1,0 +1,73 @@
+[SOM: ruído de obra distante, guindastes e vento do litoral, com um grave baixo por baixo]
+
+[B-ROLL: vista aérea de uma zona industrial no litoral do Ceará, terreno plano, guindastes e fileiras de estacas]
+
+Em Pecém, no litoral do Ceará, começou a ser construído um dos maiores data centers já anunciados no Brasil. Quase todo mundo pergunta quanto dinheiro está entrando, e quase ninguém pergunta quem poderá mexer nas informações que vão morar ali dentro. Neste vídeo você vai ver a diferença entre ter um prédio no país e ter o controle do que há dentro dele, e por que essa diferença decide se o Brasil é dono da própria era digital ou apenas o seu endereço.
+
+[TELA: um prédio no Brasil ≠ dados sob controle do Brasil]
+
+[SAÍDA: o espectador acha que o tema é só economia ou tecnologia | a pergunta sobre quem mexe nas informações transforma o assunto em algo pessoal, e a promessa de uma diferença clara aparece no primeiro minuto]
+
+Vamos começar pelas palavras, porque soberania digital virou um termo que cada pessoa usa de um jeito. Para este vídeo, ela é a capacidade de um país decidir sobre os seus dados e sobre as tecnologias de que depende. Isso se divide em três perguntas. A primeira é onde as informações ficam guardadas, o lugar físico. A segunda é qual lei manda nelas, e isso nem sempre é a lei do lugar onde elas ficam. E a terceira é quem controla as chaves de acesso, o software e os chips por dentro do prédio. Um data center pode responder bem à primeira pergunta e mal às outras duas.
+
+[B-ROLL: três camadas se acendendo uma a uma sobre um mapa do Brasil: “lugar”, “lei”, “chaves”]
+
+[TELA: onde · qual lei · quem tem as chaves]
+
+Agora os fatos do caso de Pecém, com as fontes e com um aviso, porque os números variam muito. Em comunicado, a própria TikTok disse que o seu primeiro data center na América Latina terá investimento estimado em mais de duzentos bilhões de reais ao longo dos anos, dos quais cento e oito bilhões em equipamentos de alta tecnologia até dois mil e trinta e cinco. Outras reportagens falam em cerca de cinquenta bilhões de reais na primeira fase, e a agência Reuters citou algo perto de nove bilhões de dólares. Os valores diferem porque medem coisas diferentes, a fase inicial e o projeto completo. Segundo as reportagens, a obra é feita pela Omnia, a energia renovável vem da Casa dos Ventos e a operação deve começar em dois mil e vinte e sete, com consumo de energia perto de trezentos megawatts.
+
+[B-ROLL: painel de números sobre fundo escuro, três valores diferentes em barras de tamanhos diferentes]
+
+[TELA: de 50 a mais de 200 bilhões de reais · dependendo da fase · fontes: TikTok, Reuters e imprensa · coleta em novembro de 2026]
+
+[QUEBRA: o som para e uma única linha aparece: “mais de um prédio, nenhuma resposta”]
+
+O governo também quis atrair esse tipo de investimento. Em dois mil e vinte e seis foi sancionada a lei que criou o Redata, o regime especial de tributação para data centers. Segundo escritórios de advocacia que analisaram o texto, ele suspende impostos federais sobre equipamentos, e uma estimativa citada na imprensa diz que isso pode reduzir em até trinta por cento o custo inicial de um novo data center. Em troca, as empresas assumem compromissos, como destinar dois por cento do valor dos bens comprados com o benefício a pesquisa e inovação e manter parte da capacidade de computação para o mercado brasileiro. Quem não cumpre precisa pagar os impostos suspensos, com juros e multa.
+
+[B-ROLL: documento com carimbo e uma balança de dois pratos, um com “isenção” e outro com “compromissos”]
+
+[TELA: Redata · lei de 2026 · impostos suspensos em troca de compromissos]
+
+[SAÍDA: trecho jurídico e tributário | a imagem da balança e a ideia de troca mantêm o assunto concreto]
+
+[TEASER]
+
+Mas a pergunta que decide tudo ainda não apareceu, e ela não está na lei do Redata. É esta: quando as informações estão num prédio brasileiro que pertence a uma empresa estrangeira, de quem é a palavra final? Vou chegar nela já, depois de mostrar os dois lados.
+
+[SOM: um acorde que sobe e para de repente]
+
+O primeiro lado diz que abrir a porta é a única saída realista. O Brasil tem energia limpa em abundância, um mercado enorme e uma mão de obra qualificada, mas não fabrica chips avançados e não tem, sozinho, o dinheiro para construir essa capacidade na velocidade que o mundo exige. Os defensores dessa visão lembram que obras desse tamanho geram empregos, atraem fornecedores e deixam infraestrutura. Segundo essa leitura, recusar o capital estrangeiro seria ficar para trás, e o que importa é negociar bem as condições.
+
+[B-ROLL: linhas de transmissão de energia eólica ao pôr do sol, depois uma fábrica automatizada]
+
+O segundo lado diz que a pergunta sobre a lei é decisiva. Os Estados Unidos têm, desde dois mil e dezoito, uma lei chamada Cloud Act, que permite a autoridades americanas exigir dados guardados por empresas americanas mesmo quando eles estão em servidores fora do país. Quem critica a dependência vê aí um risco: um prédio no Brasil, de uma empresa sob outra jurisdição, pode ficar exposto a ordens de outro país. Também apontam o consumo de energia e de água, e questionam se isenções fiscais para poucas empresas gigantes trazem retorno proporcional. Os dois lados têm argumentos sérios, e a melhor resposta provavelmente está no meio.
+
+[QUEBRA: tela dividida ao meio, uma metade com “abrir” e a outra com “proteger”, e uma linha fina no centro]
+
+[TELA: Cloud Act, 2018 · empresas americanas podem ser obrigadas a entregar dados guardados fora dos Estados Unidos]
+
+E o que o próprio governo brasileiro faz com os seus dados? Segundo o Serpro, a Nuvem de Governo opera em dois data centers da própria estatal, em Brasília e em São Paulo, e a meta divulgada é que vinte por cento da administração federal rode em nuvens de governo até o fim do atual mandato. Mas as reportagens mostram que esse modelo não exclui provedores estrangeiros: o próprio catálogo de serviços usa tecnologias de empresas como Amazon, Google, Huawei e Oracle, e o governo diz que a chamada Nuvem Brasileira não vai substituir as nuvens comerciais, apenas oferecer uma alternativa a mais. Em dois mil e vinte e seis o governo abriu uma escuta com o mercado para desenhar essa alternativa.
+
+[B-ROLL: sala de servidores de uma estatal, com a bandeira do Brasil discreta no canto]
+
+[TELA: Nuvem de Governo · Serpro · Brasília e São Paulo · meta de 20% da administração federal]
+
+A regulação da própria inteligência artificial também está no meio do caminho. O projeto conhecido como PL dois mil trezentos e trinta e oito foi aprovado pelo Senado em dezembro de dois mil e vinte e quatro e, até o fim de outubro de dois mil e vinte e seis, ainda aguardava o parecer do relator na Câmara dos Deputados. Em outras palavras, o país está construindo os prédios antes de decidir as regras do jogo.
+
+[SAÍDA: bloco de nomes de leis e siglas | cada sigla entra com uma frase simples e a data, e a ideia de construir antes de ter regras traz tensão]
+
+[SOM: silêncio de um segundo]
+
+A minha tese é que soberania digital não é uma coisa que se tem ou não se tem, e sim uma lista de perguntas que se responde a cada contrato. Onde ficam os dados? Sob qual lei? Quem tem as chaves? Quem fabrica os chips e escreve o software? E quem pode desligar o sistema, e em que condições? Um país pode ter ótimas respostas para algumas e péssimas para outras, e é nisso que o Brasil está hoje: com energia limpa, uma boa capacidade pública de nuvem e um grande mercado, e com dependência de chips, de software e dos modelos de grandes empresas estrangeiras.
+
+[B-ROLL: uma lista de cinco perguntas aparecendo na tela, e quatro delas com um ponto de interrogação piscando]
+
+[TELA: onde · sob qual lei · quem tem as chaves · quem faz os chips · quem pode desligar]
+
+Isso muda a pergunta do começo. Em vez de perguntar se o Brasil deve ou não aceitar um data center estrangeiro, vale perguntar o que o país exige em troca: dados de cidadãos sob jurisdição brasileira, capacidade reservada para o mercado interno, transparência sobre energia e água, e formação de gente para operar o que for construído. Uma obra que entrega só o prédio deixa o país com o endereço. Uma obra que entrega também a capacidade de decidir dá ao país um lugar à mesa.
+
+[B-ROLL: o terreno de Pecém visto de cima, agora com a lista de exigências sobreposta como uma planta]
+
+E essa pergunta, a de quem decide o que é real quando tudo passa por sistemas que não vemos, é muito mais antiga do que parece. No próximo vídeo, vamos a uma tradição de quase dois mil anos que dizia que o mundo inteiro é uma prisão feita por quem nunca vimos, e que um filme de mil novecentos e noventa e nove transformou em ficção científica: o gnosticismo e a Matrix.
+
+[TELA: próximo vídeo: Gnosticismo e Matrix: o mundo é uma prisão?]

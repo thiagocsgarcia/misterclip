@@ -1,0 +1,57 @@
+[SOM: uma voz sussurrada que se repete em eco e vira o som de teclas]
+
+[B-ROLL: um cursor piscando sobre fundo escuro, e ao fundo, em sobreposição, letras hebraicas e hieróglifos flutuando]
+
+Quando um juiz diz que você está casado, você está. Quando um programador digita uma linha de código, uma máquina obedece. E quando você escreve um pedido para uma inteligência artificial, uma imagem ou um texto aparece. Em todos esses casos, uma frase não descreve o mundo: ela muda o mundo. Neste vídeo você vai ver de onde vem essa ideia, em que ponto o prompt se parece com um feitiço, em que ponto ele não se parece nada, e por que essa diferença importa para a sua segurança.
+
+[TELA: Prompt é feitiço? · a linguagem que cria coisas]
+
+[SAÍDA: o espectador pode achar que o assunto é só metáfora | o gancho começa por exemplos que ele já vive, o casamento e o código, e promete a diferença prática no fim]
+
+Antes de falar de magia, vamos a uma ideia que a filosofia chama de linguagem performativa. O filósofo britânico John Langshaw Austin deu, em mil novecentos e cinquenta e cinco, as conferências que viraram o livro Como Fazer Coisas com Palavras, publicado depois da morte dele, em mil novecentos e sessenta e dois. A tese é simples e forte: existem frases que não afirmam nada verdadeiro nem falso, e sim realizam uma ação. Eu vos declaro marido e mulher, eu prometo, eu batizo este navio. Para essas frases funcionarem, não basta falar: é preciso que a pessoa certa, na situação certa, com os rituais certos, diga as palavras. Se qualquer um disser eu vos declaro casados na rua, nada acontece. A palavra tem poder, mas esse poder depende de uma convenção e de uma autoridade.
+
+[B-ROLL: martelo de juiz, aliança sobre um papel assinado, uma garrafa de champanhe batendo no casco de um navio]
+
+[TELA: J. L. Austin · Como Fazer Coisas com Palavras · 1962]
+
+Agora as tradições antigas. No livro do Gênesis, a criação começa com uma frase: e disse Deus, haja luz, e houve luz. No Evangelho de João, a abertura diz que no princípio era o Verbo, tradução da palavra grega logos, que também significa razão. No Egito antigo, um texto conhecido como a Teologia de Mênfis, gravado na chamada Pedra de Shabaka, que está no Museu Britânico, conta que o deus Ptah criou as coisas pelo pensamento do coração e pela palavra da língua. E os egípcios chamavam de heka a força que fazia a magia funcionar, e que tinha na fala um dos seus instrumentos. Em quatro tradições diferentes aparece a mesma intuição: a fala não só descreve, também faz. Essas são leituras de especialistas de cada tradição, e aqui eu só aponto a semelhança, sem dizer que são a mesma coisa.
+
+[QUEBRA: corte seco para uma tela preta com uma única linha de texto, que se completa sozinha]
+
+[SOM: três toques de sino e o clique de uma tecla]
+
+[TEASER]
+
+Mas o ponto central ainda não apareceu: há uma diferença entre o feitiço e o código que decide quem pode se proteger e quem pode ser enganado. Já chego nela.
+
+Na computação, essa mesma ideia ficou literal. Um programa é um texto que, ao ser lido por um interpretador, faz algo acontecer. Os programadores usam, por brincadeira, o vocabulário da magia: chamam de encantamento um comando obscuro que ninguém entende bem, de mago quem domina um sistema, e de daemon um processo que roda em segundo plano, nome que vem de um demônio imaginado pelo físico James Clerk Maxwell. O famoso livro de ciência da computação Estrutura e Interpretação de Programas, conhecido como o livro do mago por causa da capa, diz, num trecho muito citado, que o programador conjura os espíritos do computador com seus feitiços. A metáfora é bonita, mas há uma diferença decisiva: o computador obedece sempre da mesma forma. O feitiço depende da fé, da autoridade e do rito. O código depende só de uma regra exata, que a máquina cumpre ou não cumpre.
+
+[B-ROLL: a capa do livro com um mago, e ao lado um terminal com linhas de código verdes]
+
+[TELA: o livro do mago · Abelson e Sussman · conjurar os espíritos do computador]
+
+[SAÍDA: salto de filosofia, religião e computação | cada salto vem com uma imagem forte e termina na mesma ideia, a de que uma frase pode fazer algo]
+
+E o prompt? Ele está no meio do caminho, e é isso que o torna estranho. Um prompt é escrito em linguagem comum, como um pedido, e não em código exato. O modelo responde de forma probabilística: a mesma frase pode gerar respostas diferentes. Na parte dele que lembra o feitiço, o resultado depende de como a pessoa diz, de sutilezas que ninguém controla por completo. Na parte que lembra o código, o resultado depende de uma máquina que segue regras, mesmo que elas sejam enormes e difíceis de enxergar. Resumindo: o prompt tem a fluidez da palavra e a execução da máquina.
+
+Essa mistura tem uma consequência prática, e é a que eu prometi. Se o poder de uma frase depende de quem a lê, então outra pessoa pode escrever frases que a máquina lê como ordem. É o que se chama de injeção de prompt: um texto escondido numa página, num e-mail ou num documento, que o sistema interpreta como instrução. A organização OWASP, que reúne especialistas em segurança, coloca a injeção de prompt no topo da lista dos principais riscos de aplicações com modelos de linguagem. Em termos de feitiço, é como se alguém pudesse escrever, no meio de um livro, uma fórmula que o leitor cumpre sem perceber. Por isso, o cuidado de quem usa agentes de inteligência artificial é o mesmo de quem abre um arquivo desconhecido: não entregar chaves e senhas a um sistema que obedece a qualquer texto que leia.
+
+[B-ROLL: um e-mail com um parágrafo em branco que, ao ser destacado, revela linhas ocultas]
+
+[TELA: injeção de prompt · OWASP · risco número um em aplicações com modelos de linguagem]
+
+Vejamos dois lados. Os entusiastas dizem que, pela primeira vez, qualquer pessoa pode criar com palavras, sem aprender uma linguagem de programação, e que isso é mesmo uma forma de magia democrática. Os críticos respondem que a metáfora esconde o fato de que a máquina não entende o que você quer, ela calcula o que costuma vir depois, e que chamar isso de feitiço faz as pessoas esperarem um poder e uma segurança que não existem. Os dois estão apontando algo verdadeiro: a facilidade é real, e o risco também.
+
+[QUEBRA: duas mãos digitando, uma delas passa lentamente a ser uma mão de pedra, antiga]
+
+Eu penso que a pergunta prompt é feitiço só vale a pena se a gente a responder com precisão. Em um feitiço, o poder está em quem fala. No código, está na máquina que executa. No prompt, está em uma relação entre as duas, e essa relação é nova. Quem entende isso consegue usar a ferramenta sem ilusão: sabe que a frase não tem poder próprio, que o resultado vem do modelo e que, se outra pessoa conseguir escrever na conversa, ela também manda. É a velha lição de Austin, com uma reviravolta: a palavra só funciona se houver convenção e autoridade, e agora a autoridade é um sistema treinado por empresas.
+
+[SOM: silêncio de um segundo e o último toque de sino]
+
+Se você quiser ver o lado simbólico dessa ideia, o vídeo sobre O Mago mostra a carta do tarô e a definição de magia de Aleister Crowley, e o vídeo sobre o Golem mostra uma palavra que dá vida ao barro. Aqui o foco foi outro: o que muda quando a palavra encontra uma máquina.
+
+[B-ROLL: uma folha em branco e uma caneta, e um cursor piscando ao lado]
+
+No próximo vídeo, levamos a pergunta mais longe: e se tudo isso, a luz, o código e a própria realidade, fosse também uma linha escrita por alguém? A hipótese da simulação, de Platão ao Vale do Silício.
+
+[TELA: próximo vídeo: Hipótese da simulação, de Platão ao Vale do Silício]

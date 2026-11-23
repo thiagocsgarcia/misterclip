@@ -1,0 +1,67 @@
+[SOM: aplausos curtos de um evento oficial, que se apagam num zumbido grave]
+
+[B-ROLL: sala da Casa Branca com cadeiras e microfones, fotografia em tom frio, ninguém identificável em primeiro plano]
+
+Em janeiro de dois mil e vinte e cinco, três empresários anunciaram na Casa Branca um projeto de quinhentos bilhões de dólares. Era para construir centros de dados de inteligência artificial. Um quarto homem, que não estava lá, escreveu na rede social dele que eles não tinham aquele dinheiro. Os quatro se conhecem, já foram sócios, aliados e adversários, e é essa teia que vamos desmontar. Neste vídeo você vai ver o que cada um controla de fato, onde um depende do outro, e por que a resposta à pergunta quem manda no Vale do Silício muda conforme a camada que você olha.
+
+[TELA: Stargate · janeiro de 2025 · “até 500 bilhões de dólares”]
+
+[SAÍDA: o espectador espera uma lista de bilionários e fofoca | a promessa de mostrar camadas de poder e dependências, com fonte, aparece no primeiro minuto]
+
+Vamos começar pelo anúncio. O projeto se chamava Stargate. Segundo a imprensa da época, ele reunia a OpenAI, de Sam Altman, a japonesa SoftBank, de Masayoshi Son, e a Oracle, de Larry Ellison, com a promessa de investir até quinhentos bilhões de dólares em quatro anos. O homem que estava fora da foto era Elon Musk, que escreveu na rede X, segundo as reportagens, que a SoftBank tinha bem menos dinheiro assegurado do que se dizia. Atenção a um detalhe: Musk foi um dos fundadores da OpenAI, em dois mil e quinze, ao lado de Altman. Ou seja, o crítico do projeto é um ex-sócio de quem o apresentava. Guarde isso, porque é o fio da história.
+
+[B-ROLL: linha do tempo simples: 2015 fundação da OpenAI, 2018 saída de Musk, 2025 Stargate]
+
+[TELA: Musk e Altman: sócios em 2015, adversários depois]
+
+Para saber quem manda, precisamos separar o que cada um controla. Primeiro, o dinheiro novo. A OpenAI, de Altman, levantou, segundo reportagens, uma rodada de cento e vinte e dois bilhões de dólares em março de dois mil e vinte e seis, que a avaliou em cerca de oitocentos e cinquenta bilhões. Depois da reorganização de outubro de dois mil e vinte e cinco, a Microsoft aparece com cerca de vinte e sete por cento da empresa, segundo as mesmas fontes. Altman é o rosto e o presidente-executivo, e o poder dele é o de quem comanda o produto que o mundo conhece. Mas esse poder já foi testado: em novembro de dois mil e vinte e três, o conselho da própria OpenAI o demitiu, e ele voltou cinco dias depois, depois de uma revolta de funcionários e de investidores.
+
+[B-ROLL: a fachada de um prédio de escritórios, uma única janela acesa à noite]
+
+[QUEBRA: corte seco para uma lista de cifras que sobe e para: 852 bilhões · 27%]
+
+Segundo, a infraestrutura. Larry Ellison fundou a Oracle em mil novecentos e setenta e sete, e a empresa dele virou, na era da inteligência artificial, a dona de muitos dos prédios onde os modelos rodam. Segundo o Wall Street Journal, em dois mil e vinte e cinco a OpenAI assinou com a Oracle um contrato de capacidade na casa de trezentos bilhões de dólares ao longo de vários anos. Isso dá a Ellison um poder diferente do de Altman: se a OpenAI precisa de capacidade, é a Oracle que a entrega. Em janeiro de dois mil e vinte e seis, a imprensa informou que a Oracle ficou com quinze por cento da nova empresa americana do TikTok e que o algoritmo do aplicativo passou a rodar na nuvem dela.
+
+[TELA: Oracle: contrato de cerca de 300 bilhões com a OpenAI · 15% do TikTok nos EUA · fontes: Wall Street Journal e imprensa, 2025 e 2026]
+
+[SOM: um relógio de parede, em contagem lenta]
+
+[TEASER]
+
+Mas aqui entra a parte que quase ninguém conta, e ela muda a resposta. Esse poder de Ellison depende de dinheiro emprestado, e em outubro de dois mil e vinte e seis a CNBC mostrou o que acontece quando os credores começam a olhar de perto. Já chego lá, depois de falar do homem que comanda mais de uma empresa e do investidor que liga os quatro.
+
+[QUEBRA: tela dividida: uma planta de usina e uma planilha com a coluna “dívida” em destaque]
+
+O terceiro tipo de poder é o de quem junta empresas num ecossistema. Elon Musk comanda a Tesla, a SpaceX, a rede X e a xAI. Segundo a Bloomberg, a xAI foi incorporada à SpaceX em fevereiro de dois mil e vinte e seis, e a empresa conjunta abriu o capital em junho. O índice de bilionários da própria Bloomberg o colocava, em vinte de novembro de dois mil e vinte e seis, com uma fortuna de cerca de oitocentos e nove bilhões de dólares, valor que oscila com a bolsa, às vezes em dezenas de bilhões num único dia. O poder de Musk é o de quem controla uma plataforma de comunicação, um foguete e um modelo de inteligência artificial ao mesmo tempo, e isso nenhum dos outros três tem.
+
+[B-ROLL: um foguete sobre a plataforma, um painel com a rede X aberta e um servidor, três janelas lado a lado]
+
+[TELA: Bloomberg: ≈ 809 bilhões de dólares em 20 de novembro de 2026 · oscila no dia]
+
+E a briga entre Musk e Altman tem um capítulo que já foi decidido. Em maio de dois mil e vinte e seis, um júri federal em Oakland julgou o processo em que Musk acusava OpenAI, Altman e o cofundador Greg Brockman, e a decisão, segundo a NBC e a Al Jazeera, foi favorável a eles: os jurados entenderam que o prazo para processar já tinha passado. Note a formulação: o júri não discutiu quem tinha razão sobre o rumo da empresa, discutiu se o processo chegou a tempo. Por isso, quem torce por um lado ou pelo outro não pode usar essa decisão como prova do mérito.
+
+[B-ROLL: fachada de um tribunal federal, pasta de processo sobre uma mesa]
+
+[SAÍDA: trecho jurídico | a imagem do tribunal e a frase “o júri não discutiu quem tinha razão” explicam o veredito sem tomar partido]
+
+O quarto nome é Peter Thiel, e aqui ele entra só como investidor, porque já falamos dele em outros vídeos do canal. O Founders Fund, fundo que ele cofundou, foi, segundo a imprensa, um dos primeiros a apostar na SpaceX, de Musk. E Thiel e Musk já foram sócios no PayPal, nos anos mil novecentos e noventa. Em outras palavras, o que parece uma disputa de quatro é, em parte, uma rede de ex-sócios, de investidores comuns e de contratos que ligam um ao outro.
+
+[B-ROLL: teia de linhas ligando quatro retratos desfocados, cada linha com uma etiqueta: sócio, cliente, investidor, rival]
+
+[TELA: a teia: sócios · clientes · investidores · rivais]
+
+Agora volto à pergunta da dívida. A Oracle, segundo a CNBC, em outubro de dois mil e vinte e seis, aparecia com a nota de crédito no degrau mais baixo do grau de investimento, e analistas se perguntavam se ela conseguiria sustentar a dívida de construção de centros de dados que depende, em grande parte, de um único cliente grande. Em janeiro de dois mil e vinte e seis, detentores de títulos processaram a empresa, alegando que ela não avisou que precisaria de muito mais dinheiro emprestado, segundo o Data Center Dynamics. A Oracle e Ellison não aceitam essa tese, e há investidores que dizem não ver risco. O que importa para a nossa pergunta é a estrutura: o poder de Ellison depende do contrato com a OpenAI, e o contrato só vale se a OpenAI continuar a conseguir dinheiro novo. É a mesma torre do vídeo sobre a bolha da inteligência artificial.
+
+[QUEBRA: a torre de blocos do vídeo anterior aparece por dois segundos, com a base apoiada numa única peça]
+
+Então, quem manda? A minha tese é que no Vale do Silício não manda uma pessoa, manda uma cadeia de dependências. Altman manda no produto, e depende da capacidade de Ellison. Ellison manda na capacidade, e depende do dinheiro que Altman consegue levantar. Musk manda numa plataforma própria, e disputa com os dois o mesmo recurso, os chips e a energia. Thiel manda pouco no dia a dia, e muito na rede de pessoas e de apostas. Cada um é forte numa camada e frágil na camada ao lado, e é por isso que a pergunta de quem manda vira uma pergunta de quem cai se o vizinho cair.
+
+[B-ROLL: quatro peças de dominó em fila, a primeira tremendo]
+
+[SOM: um acorde que sobe e não resolve]
+
+Uma última observação de honestidade: tudo o que mostrei sobre as pessoas vem de reportagens, de documentos públicos e de decisões de tribunal, e não diz nada sobre intenções. Poder concentrado não é, por si só, prova de má-fé, e dizer que uma estrutura é frágil não é dizer que alguém agiu errado. É um retrato do que existe hoje, e ele pode mudar com a próxima rodada de dinheiro.
+
+No próximo vídeo, saímos das pessoas e vamos para os países: a corrida da inteligência artificial entre os Estados Unidos e a China, chamada por muita gente de a nova guerra fria.
+
+[TELA: próximo vídeo: A corrida da IA entre EUA e China]

@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "base_model": "flux1-schnell-fp8",
+  "lora": null,
+  "params": {
+    "width": 1344,
+    "height": 768,
+    "steps": 4,
+    "cfg": 1.0,
+    "sampler": "euler",
+    "scheduler": "simple",
+    "seed": "per_scene_random"
+  },
+  "negative_prompt": "",
+  "negative_note": "FLUX schnell ignora prompt negativo; restrições vão no prompt positivo.",
+  "motion": {
+    "default": "ken_burns",
+    "animated_ratio": 0.35,
+    "clip_engine": "wan"
+  },
+  "id": "pintura-simbolista",
+  "name": "Pintura simbolista",
+  "description": "Óleo onírico à maneira de Blake e Doré, cores terrosas e luz etérea. Filosofia e temas abstratos.",
+  "style_prompt": "symbolist oil painting, dreamlike and haunting atmosphere, in the manner of William Blake and Gustave Dore, rich textured brushwork, muted earthy colors with ethereal light, surreal",
+  "finishing": {
+    "grade": "muted_earth",
+    "grain": 0.2,
+    "vignette": 0.35,
+    "transition": "crossfade"
+  },
+  "captions": {
+    "font": "serif",
+    "color": "#EFE6D2",
+    "position": "bottom"
+  },
+  "preview": "previews/pintura-simbolista.jpg"
+}

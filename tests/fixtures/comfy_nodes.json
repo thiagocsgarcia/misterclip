@@ -1,0 +1,192 @@
+{
+ "CheckpointLoaderSimple": {
+  "required": [
+   "ckpt_name"
+  ],
+  "optional": []
+ },
+ "CLIPTextEncode": {
+  "required": [
+   "clip",
+   "text"
+  ],
+  "optional": []
+ },
+ "ConditioningZeroOut": {
+  "required": [
+   "conditioning"
+  ],
+  "optional": []
+ },
+ "EmptySD3LatentImage": {
+  "required": [
+   "batch_size",
+   "height",
+   "width"
+  ],
+  "optional": []
+ },
+ "KSampler": {
+  "required": [
+   "cfg",
+   "denoise",
+   "latent_image",
+   "model",
+   "negative",
+   "positive",
+   "sampler_name",
+   "scheduler",
+   "seed",
+   "steps"
+  ],
+  "optional": []
+ },
+ "VAEDecode": {
+  "required": [
+   "samples",
+   "vae"
+  ],
+  "optional": []
+ },
+ "SaveImage": {
+  "required": [
+   "filename_prefix",
+   "images"
+  ],
+  "optional": []
+ },
+ "CLIPLoader": {
+  "required": [
+   "clip_name",
+   "type"
+  ],
+  "optional": [
+   "device"
+  ]
+ },
+ "LoadImage": {
+  "required": [
+   "image"
+  ],
+  "optional": []
+ },
+ "ImageScale": {
+  "required": [
+   "crop",
+   "height",
+   "image",
+   "upscale_method",
+   "width"
+  ],
+  "optional": []
+ },
+ "LTXVImgToVideo": {
+  "required": [
+   "batch_size",
+   "height",
+   "image",
+   "length",
+   "negative",
+   "positive",
+   "strength",
+   "vae",
+   "width"
+  ],
+  "optional": []
+ },
+ "LTXVConditioning": {
+  "required": [
+   "frame_rate",
+   "negative",
+   "positive"
+  ],
+  "optional": []
+ },
+ "LTXVScheduler": {
+  "required": [
+   "base_shift",
+   "max_shift",
+   "steps",
+   "stretch",
+   "terminal"
+  ],
+  "optional": [
+   "latent"
+  ]
+ },
+ "KSamplerSelect": {
+  "required": [
+   "sampler_name"
+  ],
+  "optional": []
+ },
+ "SamplerCustom": {
+  "required": [
+   "add_noise",
+   "cfg",
+   "latent_image",
+   "model",
+   "negative",
+   "noise_seed",
+   "positive",
+   "sampler",
+   "sigmas"
+  ],
+  "optional": []
+ },
+ "CreateVideo": {
+  "required": [
+   "fps",
+   "images"
+  ],
+  "optional": [
+   "audio",
+   "bit_depth",
+   "chroma_subsampling",
+   "codec",
+   "color_space"
+  ]
+ },
+ "SaveVideo": {
+  "required": [
+   "filename_prefix",
+   "format",
+   "video"
+  ],
+  "optional": [
+   "codec"
+  ]
+ },
+ "UNETLoader": {
+  "required": [
+   "unet_name",
+   "weight_dtype"
+  ],
+  "optional": []
+ },
+ "VAELoader": {
+  "required": [
+   "vae_name"
+  ],
+  "optional": []
+ },
+ "Wan22ImageToVideoLatent": {
+  "required": [
+   "batch_size",
+   "height",
+   "length",
+   "vae",
+   "width"
+  ],
+  "optional": [
+   "start_image"
+  ]
+ },
+ "ModelSamplingSD3": {
+  "required": [
+   "model",
+   "shift"
+  ],
+  "optional": []
+ }
+}

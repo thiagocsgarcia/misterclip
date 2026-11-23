@@ -1,0 +1,71 @@
+[SOM: um coral grave e abafado, como numa catedral, que se mistura ao zumbido de servidores]
+
+[B-ROLL: um altar de pedra iluminado por luz azul de monitores, sem pessoas, uma câmera lenta em direção a ele]
+
+Em dois mil e dezessete, a revista Wired contou que um ex-engenheiro do Google tinha registrado uma igreja para adorar uma inteligência artificial. O engenheiro era Anthony Levandowski, e a igreja se chamava Caminho do Futuro. Ela é um caso extremo, e quase ninguém no Vale do Silício a levou a sério, mas ela alimenta uma pergunta que muita gente faz meio de brincadeira: o Vale do Silício funciona como uma seita? Neste vídeo você vai ver o que essa metáfora explica, o que ela exagera, e um teste de três perguntas para separar crença de negócio.
+
+[TELA: Caminho do Futuro · Wired, 2017 · uma igreja para “adorar” uma IA]
+
+[SAÍDA: o espectador espera um ataque ao Vale do Silício | a frase “o que a metáfora explica e o que exagera” e o aviso de que é uma metáfora aparecem logo no primeiro minuto]
+
+Vamos primeiro a um aviso sobre as palavras. Seita é um termo carregado, que costuma indicar um grupo fechado que controla seus membros, e eu não vou aplicá-lo a nenhuma pessoa nem a nenhuma empresa. Aqui, seita é uma metáfora analítica, uma lente. A pergunta é se certas crenças e certos hábitos do mundo da tecnologia têm um funcionamento parecido com o de religiões: profetas, dogmas, rituais e hereges. Estudiosos de religião falam em fenômenos quase religiosos, justamente para não dizer que são religiões de verdade.
+
+[B-ROLL: quatro cartas de tarô sem imagem, só com as palavras profeta, dogma, ritual, herege]
+
+[TELA: metáfora analítica · profeta · dogma · ritual · herege]
+
+Os profetas, primeiro. Em dois mil e cinco, o inventor Ray Kurzweil publicou o livro A Singularidade Está Próxima, em que previa a chegada da Singularidade, o momento em que a inteligência das máquinas superaria a humana, para o ano de dois mil e quarenta e cinco. A ideia dele ganhou instituições, como a Universidade da Singularidade, criada em dois mil e oito. A diferença para um profeta antigo é que as previsões têm data, e datas podem ser conferidas. O ponto que a metáfora aponta é o tom: uma promessa de transformação total, tratada com urgência moral.
+
+[B-ROLL: uma linha do tempo com um ponto marcado em dois mil e quarenta e cinco, e uma mão traçando um círculo em volta]
+
+Os dogmas, segundo. Em outubro de dois mil e vinte e três, o investidor Marc Andreessen publicou o Manifesto Tecno-Otimista, um texto que, segundo uma análise republicada pela revista The Economist, usa a expressão nós acreditamos mais de cem vezes. Ele defende que a tecnologia, o mercado e a velocidade resolvem os problemas humanos, e descreve como adversários ideias como a cautela excessiva. O texto é uma tomada de posição pública, e cada um pode concordar ou discordar. O que a metáfora nota é a forma: um credo, em frases curtas, com uma lista de inimigos. Antes dele, o Vale já tinha as suas máximas: o Google adotou o lema não seja mau, em dois mil, e o Facebook, nos primeiros anos, o lema mova-se rápido e quebre coisas.
+
+[TELA: “nós acreditamos” · Manifesto Tecno-Otimista, 2023 · “não seja mau”, Google, 2000 · “mova-se rápido e quebre coisas”, Facebook]
+
+[QUEBRA: corte seco para um telão de apresentação em auditório, uma pessoa de camiseta preta diante de um logotipo, as palmas ao fundo]
+
+Os rituais, terceiro. Existem encontros que cumprem papel de cerimônia na cultura do setor: as conferências de lançamento de produto, os dias de demonstração de empresas nascentes, os retiros de imersão e de desintoxicação digital, e festivais como o Burning Man, frequentado por muitos empreendedores da região. Não há nada de errado em nenhum deles, e a metáfora não diz que há. Ela só observa que eles servem a duas funções que os rituais religiosos também servem: reforçar a identidade do grupo e marcar quem pertence a ele.
+
+[B-ROLL: uma plateia em círculo no escuro, rostos iluminados por telas, ninguém identificável]
+
+[SOM: um relógio de parede, em contagem lenta]
+
+[TEASER]
+
+Os hereges ficam para o fim, e é aí que a metáfora fica mais interessante e também mais perigosa. Já chego lá, depois de um argumento histórico de que a mistura de tecnologia e religião é muito mais velha do que o Vale do Silício.
+
+[QUEBRA: a imagem do altar volta, agora com uma engrenagem de relógio no lugar da cruz]
+
+O historiador David Noble, no livro A Religião da Tecnologia, de mil novecentos e noventa e sete, sustentou que a ambição de aperfeiçoar o ser humano com máquinas tem raízes em ideias religiosas ocidentais de salvação e de transcendência, que atravessam séculos. Já o pesquisador Robert Geraci, no livro IA Apocalíptica, de dois mil e dez, argumenta que parte do discurso sobre inteligência artificial reproduz estruturas de pensamento apocalípticas, com fim do mundo, juízo e redenção. Eu estou resumindo os dois de memória, e vale conferir a tese exata em cada livro. Mas o argumento de conjunto é este: o que parece novo no Vale é uma forma moderna de um impulso antigo.
+
+[B-ROLL: gravura medieval de um alquimista com um forno, e ao lado dela a foto de um laboratório de computação]
+
+[TELA: Noble, 1997 · Geraci, 2010 · a tecnologia como promessa de salvação]
+
+Agora os hereges. No debate sobre inteligência artificial, há quem defenda acelerar o máximo possível, que se autodenomina aceleracionista, e quem defende frear por medo de riscos graves, que os críticos chamam de catastrofistas. Cada lado chama o outro de nomes, e alguns termos, como desacelerar, viram insulto. A metáfora religiosa vê nisso a lógica de herege: quem discorda deixa de ser interlocutor e vira ameaça. É um ponto correto como observação do tom, e eu insisto que ele vale para os dois lados da discussão.
+
+[SAÍDA: trecho de rótulos e termos | a imagem dos dois campos com o mesmo peso mostra que o vídeo não toma partido na disputa]
+
+Agora o argumento forte contra a metáfora, que precisa ser dito sem pressa. Uma seita, no sentido comum, é um grupo fechado, em que sair custa caro e a dissidência é punida. O Vale do Silício é o contrário disso em muitos aspectos: as pessoas trocam de empresa o tempo todo, há concorrência feroz, imprensa crítica, processos, reguladores, presidentes-executivos demitidos pelos próprios conselhos. E há uma segunda objeção, mais séria: chamar uma ideia de religião não refuta a ideia. Se alguém diz que a inteligência artificial pode trazer riscos graves, ou que pode curar doenças, isso precisa ser avaliado com evidência, e não descartado como fé. A metáfora pode virar um atalho preguiçoso para ignorar argumentos.
+
+[B-ROLL: uma porta aberta numa sala de escritório, pessoas entrando e saindo com mochilas]
+
+[QUEBRA: corte seco para um quadro-negro com duas colunas, “explica” e “exagera”, e giz na mão]
+
+Então, o que a metáfora explica? Explica o tom de urgência moral em torno de previsões que ninguém consegue testar, o vocabulário de grupo, e a presença de narrativas de salvação, como a imortalidade digital, e de apocalipse, como o risco existencial. O próprio Caminho do Futuro de Levandowski foi encerrado: segundo o Axios e o TechCrunch, a igreja foi dissolvida no fim de dois mil e vinte, com o fechamento noticiado em fevereiro de dois mil e vinte e um, e o dinheiro que sobrou, cerca de cento e setenta e cinco mil dólares, foi doado a um fundo de defesa de direitos civis. Segundo as reportagens, ele a reabriu em dois mil e vinte e três, e o que existe hoje é incerto.
+
+[TELA: Caminho do Futuro · dissolvida entre 2020 e 2021 · cerca de 175 mil dólares doados à NAACP · reaberta em 2023, segundo reportagens]
+
+E o que ela exagera? Exagera quando trata como fanático quem apenas tem uma opinião de negócio ou de pesquisa, e quando esconde que a maior parte do setor é feita de pessoas comuns, que trabalham, erram e discordam entre si. Por isso proponho o teste de três perguntas. Primeira: a crença aceita dizer em que condição estaria errada? Segunda: sair do grupo custa muito para quem discorda? Terceira: quem paga quando a previsão falha? Onde as três respostas forem não, muito, e os outros, você tem um sinal de religião no sentido ruim da palavra. Onde forem sim, pouco, e os próprios autores, você tem uma aposta de mercado.
+
+[B-ROLL: três placas numa parede, cada uma com uma pergunta, e uma mão marcando um X ou um traço em cada resposta]
+
+[TELA: o teste dos três sinais · 1. aceita estar errada? · 2. sair custa caro? · 3. quem paga se falhar?]
+
+A minha tese é que o Vale do Silício não é uma seita, mas guarda, em alguns cantos, hábitos de crença que valem ser olhados com lupa, porque a forma de uma ideia, profecia, credo, ritual, pode escapar do exame que a mesma ideia mereceria se fosse apresentada como hipótese. A metáfora é útil como pergunta e inútil como acusação. E o teste vale para qualquer grupo, inclusive para os que criticam o Vale.
+
+[SOM: nota longa que se afasta]
+
+No próximo vídeo, uma palavra ainda mais pesada: tecnofascismo. Existe esse conceito? O que ele explica, o que ele exagera, e por que é um termo que exige muito cuidado.
+
+[TELA: próximo vídeo: Tecnofascismo existe?]

@@ -1,0 +1,61 @@
+[SOM: pulso grave e regular, como um coração de máquina, que acelera devagar]
+
+[B-ROLL: gráfico de uma curva que sobe cada vez mais depressa sobre fundo escuro, e por trás, o vitral de uma catedral]
+
+Em mil novecentos e noventa e três, um escritor previu que em trinta anos teríamos os meios de criar uma inteligência sobre-humana. Ele também disse que a era humana terminaria pouco depois, e batizou esse momento com uma palavra de física: singularidade. Já se passaram mais de trinta anos, e essa palavra virou algo que se parece, em vários pontos, com uma religião. Neste vídeo você vai ver o que a previsão realmente dizia, quem a transformou em profecia, e por que um canal que estuda tradições religiosas se interessa tanto por uma ideia que nasceu entre engenheiros.
+
+[TELA: Singularidade · a religião dos engenheiros]
+
+[SAÍDA: o espectador acha que o vídeo vai zombar de quem acredita em IA | a promessa de mostrar a previsão original e os argumentos dos dois lados aparece logo no começo]
+
+Comecemos pelo que foi dito, com a fonte. O escritor se chama Vernor Vinge, que além de autor de ficção científica era matemático e professor de computação. Em mil novecentos e noventa e três, ele apresentou um ensaio chamado A Chegada da Singularidade Tecnológica. A frase mais citada é a que fala em trinta anos, e ele a acompanhou de uma ressalva: disse que ficaria surpreso se o evento acontecesse antes de dois mil e cinco ou depois de dois mil e trinta. A ideia por trás era mais antiga. Em mil novecentos e sessenta e cinco, o matemático britânico Irving John Good escreveu sobre uma explosão de inteligência: se uma máquina fosse um pouco mais inteligente que nós, ela poderia projetar máquinas melhores, e essas projetariam outras ainda melhores, num ciclo que se aceleraria sozinho. Good chamou a primeira máquina ultrainteligente de a última invenção que o ser humano precisaria fazer.
+
+[B-ROLL: páginas amareladas de um artigo científico dos anos sessenta, depois a capa de um ensaio com a data de mil novecentos e noventa e três]
+
+[TELA: 1965 · Good · explosão de inteligência | 1993 · Vinge · singularidade]
+
+A palavra vem da física. No centro de um buraco negro, as equações que usamos deixam de funcionar, e é a esse ponto de ruptura que o termo se refere. Vinge o usou como imagem: depois de uma inteligência maior que a nossa, os nossos modelos do futuro deixariam de servir. Ele também listou caminhos possíveis até lá, e não só o de uma máquina que acorda: computadores que se tornam inteligentes, redes que ganham consciência, interfaces que ligam o cérebro à máquina e melhorias biológicas da própria espécie. E o escritor Stanislaw Ulam, em um texto de mil novecentos e cinquenta e oito, atribuiu a John von Neumann uma conversa sobre o progresso se aproximando de algo como uma singularidade essencial na história humana, o que mostra que a ideia circulava entre matemáticos antes de ganhar o nome.
+
+Repare no que há de comum nas duas frases. Uma é uma previsão com data, e a outra é uma promessa de que, depois de certo ponto, o mundo não será mais compreensível. A parte técnica é discutível, e discutiremos. A parte que interessa a este canal é a segunda.
+
+[QUEBRA: corte seco para uma estação de metrô lotada e, em silêncio, uma tela mostrando um número de contagem regressiva]
+
+Quem levou a ideia ao grande público foi o inventor e escritor Ray Kurzweil. Em dois mil e cinco, no livro A Singularidade Está Próxima, ele propôs que máquinas teriam inteligência de nível humano por volta de dois mil e vinte e nove, e que a fusão entre humanos e máquinas, a singularidade, viria em dois mil e quarenta e cinco. Em dois mil e vinte e quatro, ele reafirmou o essencial no livro A Singularidade Está Mais Perto, e diz ter acertado a maioria das suas previsões anteriores, um balanço que outros analistas discutem, porque o resultado depende de como se mede cada acerto. O argumento de Kurzweil é que a tecnologia avança em curva exponencial, o que ele chama de lei dos retornos acelerados: cada avanço torna o seguinte mais rápido. E a promessa que acompanha a data é enorme: derrotar doenças, estender a vida indefinidamente e, em alguns textos dele, transferir a mente para outros suportes.
+
+Agora pare e leia essa lista como um estudioso de religiões leria. Há uma profecia com data. Há um evento que divide a história em antes e depois. Há uma salvação, que é a vitória sobre a morte. Há uma promessa de que, para quem se prepara, o mundo se torna incompreensivelmente melhor. Foi por isso que críticos apelidaram a ideia, com ironia, de arrebatamento dos nerds, uma brincadeira com a palavra que designa, em algumas tradições cristãs, a subida dos fiéis aos céus.
+
+[B-ROLL: gravura medieval de pessoas subindo aos céus, sobreposta a uma interface de computador]
+
+[TELA: profecia · evento · salvação · fé]
+
+[TEASER]
+
+Mas a história fica mais estranha quando a fé deixa de ser metáfora e vira papelada. Já vamos chegar a um engenheiro que registrou uma igreja para adorar uma inteligência artificial, e à pergunta que isso levanta sobre o que, exatamente, estamos prevendo.
+
+[SOM: sino curto e depois silêncio]
+
+O engenheiro é Anthony Levandowski, conhecido por ter trabalhado em carros autônomos. Em dois mil e dezessete, a revista Wired contou que ele havia criado uma organização chamada Way of the Future, o Caminho do Futuro. Segundo reportagens da época, os documentos entregues às autoridades americanas descreviam o objetivo de realizar, aceitar e adorar uma divindade baseada em inteligência artificial desenvolvida com hardware e software. Em fevereiro de dois mil e vinte e um, o site TechCrunch noticiou que a organização tinha sido dissolvida ao fim de dois mil e vinte. E em novembro de dois mil e vinte e três, a Bloomberg informou que Levandowski estava reiniciando o projeto. Vale o cuidado de dizer que a organização existiu mais em papéis e em manchetes do que em templos, e que não há como saber quantos fiéis ela teve. Mas o fato de existir já diz algo sobre o clima intelectual de uma parte do Vale do Silício.
+
+[B-ROLL: documento de registro de uma organização, com um carimbo, e uma sala vazia com cadeiras em círculo]
+
+[TELA: 2017 · Way of the Future · 2021 · dissolvida · 2023 · reiniciada · fontes: Wired, TechCrunch, Bloomberg]
+
+[SAÍDA: trecho que pode soar como zombaria de uma pessoa | o texto se limita ao que está nos registros e nas reportagens, sem avaliar a pessoa]
+
+Existe um campo de estudo para isso. O pesquisador de religião Robert Geraci, no livro Apocalyptic AI, de dois mil e dez, argumentou que a ideia de transcender o corpo por meio da tecnologia tem raízes na tradição apocalíptica judaica e cristã, ainda que apareça em linguagem de ciência. Em palavras simples: a pessoa que fala em fazer o upload da mente talvez esteja contando, sem saber, uma história muito antiga sobre ressurreição.
+
+Agora o outro lado, que merece o mesmo espaço. Os defensores da singularidade respondem que ter linguagem religiosa não torna a previsão falsa. Notam que as inteligências artificiais de hoje fazem coisas que, vinte anos atrás, a maioria dos especialistas considerava distantes, e que Kurzweil acertou algumas previsões de tecnologia. E dizem que levar a possibilidade a sério é prudência, não fé: se uma tecnologia puder mudar tudo, vale se preparar antes.
+
+Os céticos respondem de outro modo. Primeiro, previsões com data costumam falhar, e a história do assunto tem muitas: Good achava provável uma máquina ultrainteligente ainda no século vinte. Segundo, uma curva exponencial costuma virar, mais adiante, uma curva em S, porque cada tecnologia encontra limites de energia, de dados ou de custo. Terceiro, a palavra inteligência esconde muita coisa: uma máquina pode superar o ser humano em tarefas específicas sem ter o tipo de entendimento que a profecia pressupõe.
+
+[B-ROLL: duas curvas sobre o mesmo gráfico, uma que sobe sem parar e outra que sobe e se achata]
+
+[QUEBRA: a tela se divide em duas, uma com a palavra “previsão”, outra com a palavra “fé”]
+
+A minha tese é que a singularidade é, ao mesmo tempo, uma pergunta técnica e uma narrativa religiosa, e que a maior parte da confusão nasce de misturar as duas. Uma previsão tem data e critério: dá para dizer, em dois mil e quarenta e cinco, se ela se cumpriu ou não. Uma fé tem sentido: ela diz o que a vida significa e para onde a história vai, e não se refuta com um calendário. Quem trata a singularidade só como previsão fica surpreso quando as datas falham, e quem a trata só como fé não percebe que há riscos reais a discutir. A atitude mais honesta é separar as duas perguntas e responder cada uma com seus próprios critérios.
+
+[B-ROLL: uma balança com um relógio de um lado e um vitral do outro]
+
+No próximo vídeo, voltamos quase novecentos anos no tempo, a uma ordem de monges guerreiros que dizem ter sido a primeira multinacional da Europa, e a um tesouro que a história nunca encontrou.
+
+[TELA: próximo vídeo: Templários]

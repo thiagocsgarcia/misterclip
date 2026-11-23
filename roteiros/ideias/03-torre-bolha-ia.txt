@@ -1,0 +1,75 @@
+[SOM: trovão distante e um acorde que desaba]
+
+[B-ROLL: a carta da Torre do tarô, o raio atingindo o topo, duas figuras caindo]
+
+Uma carta do tarô mostra uma torre sendo atingida por um raio, com duas pessoas caindo de cima dela. Hoje, as maiores empresas de tecnologia do mundo estão construindo uma torre parecida, feita de chips, cabos e usinas de dados, e algumas das instituições financeiras mais sérias do planeta já avisaram que essa torre pode ter um andar frágil. Neste vídeo você vai ver quanto dinheiro existe nessa construção, de onde ele vem e o que a história de outras bolhas ensina sobre o que costuma acontecer depois, sem prometer previsão nenhuma.
+
+[TELA: A Torre · a bolha da IA]
+
+[SAÍDA: o espectador espera uma previsão de colapso | a promessa de “sem previsão” e de números com fonte aparece já no primeiro minuto]
+
+A Torre é a carta número dezesseis do tarô. Nas versões clássicas, como o baralho Rider-Waite, publicado em mil novecentos e nove, ela mostra uma construção coroada que perde o topo para um raio. Os intérpretes tradicionais não leem ali um castigo, e sim a queda de uma estrutura construída sobre uma premissa falsa, com a revelação do que estava embaixo. É uma imagem útil para uma pergunta financeira, desde que a gente lembre que é uma metáfora, e que ela não prevê nada.
+
+[B-ROLL: data center visto de cima à noite, fileiras de luzes, caminhões e guindastes]
+
+Vamos aos números, sempre com a fonte e a data. Em outubro de dois mil e vinte e seis, na temporada de resultados do terceiro trimestre, a Amazon manteve a previsão de cerca de duzentos e vinte bilhões de dólares em investimentos no ano, a Alphabet manteve a faixa de cento e noventa e cinco a duzentos e cinco bilhões, e a Meta estreitou a dela para entre cento e trinta e cinco e cento e quarenta e cinco bilhões. A Microsoft, contando por ano civil, fala em cerca de cento e setenta bilhões. Somando as quatro, segundo levantamentos de analistas, o total de dois mil e vinte e seis fica entre setecentos e vinte e setecentos e quarenta bilhões de dólares, e a própria Alphabet disse que o gasto deve crescer de forma significativa em dois mil e vinte e sete. O banco UBS calculou que três delas, Amazon, Alphabet e Microsoft, vão gastar em investimentos cerca de cento e dois por cento da receita que ganham com serviços de nuvem. Em português claro, estão investindo mais do que a área que usa esses investimentos fatura hoje. Isso não é, por si só, um sinal de erro, porque empresas investem à frente da receita quando acreditam que a demanda vai crescer, mas aumenta o tamanho da aposta.
+
+[TELA: 2026 · investimento estimado: de 720 a 740 bilhões de dólares · fonte: levantamentos de analistas e UBS]
+
+[QUEBRA: o número cresce na tela até ocupar tudo, e some]
+
+Parte desse dinheiro tem um desenho curioso. Em setembro de dois mil e vinte e cinco, a Nvidia e a OpenAI anunciaram uma carta de intenção em que a Nvidia investiria até cem bilhões de dólares conforme a OpenAI instalasse capacidade, usando chips da própria Nvidia. Analistas chamam esse tipo de arranjo de financiamento circular, porque o dinheiro volta para quem o aplicou. Em fevereiro de dois mil e vinte e seis, o presidente da Nvidia, Jensen Huang, afirmou que aquilo nunca foi um compromisso firme e que o investimento seria feito um passo de cada vez, e reportagens do Wall Street Journal citadas pela Fortune falaram em dúvidas dentro da própria Nvidia. O acordo, portanto, ainda era mais promessa do que contrato.
+
+[B-ROLL: diagrama simples de setas em círculo entre Nvidia, OpenAI e nuvem]
+
+Há também a questão de quem paga. Até pouco tempo, essas empresas bancavam quase tudo com o próprio lucro. Segundo análises de mercado e reportagens da Fortune, isso mudou: a emissão de títulos de dívida pelas cinco maiores saltou de cerca de vinte e oito bilhões de dólares por ano, entre dois mil e vinte e dois mil e vinte e quatro, para cerca de cento e vinte e um bilhões em dois mil e vinte e cinco e para cerca de cento e cinquenta e nove bilhões só até o fim de maio de dois mil e vinte e seis, e a Alphabet chegou a emitir um título com vencimento em cem anos. A empresa de dados FactSet projeta que o caixa livre da maioria delas fique perto de zero ou negativo neste ano, com exceção de Alphabet e Microsoft. Ou seja, o que antes saía do lucro passou a depender também do mercado de crédito.
+
+[B-ROLL: gráfico de barras de emissão de dívida subindo ano a ano, com uma data de vencimento de cem anos em destaque]
+
+[TELA: títulos emitidos pelas 5 maiores: ~US$ 121 bi em 2025 · ~US$ 159 bi até maio de 2026 · fonte: análises de mercado e Fortune]
+
+[SAÍDA: trecho de finanças com muitos nomes | o diagrama em círculo transforma a explicação em algo que dá para ver]
+
+Os alertas vêm de lugares sérios. Em outubro de dois mil e vinte e cinco, o Comitê de Política Financeira do Banco da Inglaterra disse que, por vários critérios, as avaliações das empresas de tecnologia focadas em inteligência artificial pareciam esticadas, e que o risco de uma correção forte tinha aumentado. Em treze de outubro de dois mil e vinte e seis, o relatório de estabilidade financeira do Fundo Monetário Internacional classificou os riscos como elevados e citou uma correção nos preços de ativos ligados à inteligência artificial entre os principais gatilhos de estresse. O Fundo não diz que isso vai acontecer: descreve um cenário, e reconhece que as empresas centrais da área têm sido lucrativas. Segundo reportagens sobre o relatório, a modelagem do FMI sugere que uma correção moderada, somada a condições financeiras mais apertadas, poderia reduzir o crescimento global em cerca de zero vírgula quatro ponto percentual.
+
+[TELA: FMI · outubro de 2026 · riscos “elevados” · correção de IA entre os gatilhos]
+
+E o próprio Sam Altman, presidente da OpenAI, disse a jornalistas, em agosto de dois mil e vinte e cinco, que na opinião dele os investidores como um todo estão empolgados demais com a inteligência artificial, e que alguém vai perder uma quantia enorme de dinheiro. Na mesma conversa, afirmou acreditar que, no conjunto, a tecnologia será um grande ganho para a sociedade. Ou seja, até quem está no centro da história separa as duas coisas: a tecnologia pode ser real e o preço pode estar exagerado.
+
+Há ainda dois custos que aparecem menos nas manchetes. O primeiro é a vida útil dos equipamentos. Os chips que treinam e rodam esses sistemas ficam obsoletos, e várias empresas registram na contabilidade que os servidores duram entre cinco e seis anos. Se na prática eles perderem valor mais depressa, o custo real da aposta aparece mais cedo do que os balanços indicam, e é por isso que analistas discutem essa conta com tanta atenção.
+
+[B-ROLL: prateleiras de servidores com luzes piscando, uma fileira apagando uma a uma]
+
+O segundo custo é a energia. A Agência Internacional de Energia estimou, em um relatório de dois mil e vinte e cinco, que o consumo de eletricidade dos centros de dados no mundo deve chegar a perto de novecentos e quarenta e cinco terawatts-hora até dois mil e trinta, mais que o dobro do nível de dois mil e vinte e quatro. Construir usinas e linhas de transmissão leva anos, e isso significa que o ritmo da construção depende também de coisas que o dinheiro compra mais devagar do que compra chips.
+
+[TELA: centros de dados: de cerca de 415 para cerca de 945 TWh até 2030 · fonte: Agência Internacional de Energia]
+
+[TEASER]
+
+Mas a pergunta mais importante ainda não apareceu. A história mostra que, quando uma bolha estoura, a tecnologia costuma sobreviver, e o que muda é quem fica com a conta. Vamos ver como isso aconteceu mais de uma vez.
+
+[SOM: pausa de dois segundos e um relógio antigo]
+
+Entre mil novecentos e noventa e cinco e março de dois mil, o índice Nasdaq, que reúne empresas de tecnologia, subiu enormemente, e depois, até outubro de dois mil e dois, caiu cerca de setenta e oito por cento, segundo os dados históricos do índice. A internet não acabou, mas muita gente perdeu dinheiro. Nas empresas de telecomunicações da época, a corrida para construir redes deixou nos Estados Unidos uma quantidade enorme de cabos de fibra óptica sem uso por anos, e esse excesso depois ajudou a baratear a banda larga que sustentou as empresas que vieram em seguida. Algo parecido já tinha acontecido com as ferrovias britânicas na década de mil oitocentos e quarenta, que arruinaram investidores e deixaram trilhos que serviram à economia por mais de um século.
+
+[B-ROLL: gráfico de linha do Nasdaq de mil novecentos e noventa e cinco a dois mil e dois, subida e queda]
+
+[TELA: Nasdaq · março de 2000 a outubro de 2002 · queda de cerca de 78%]
+
+Existe também o outro lado, e ele merece espaço. O banco Goldman Sachs argumentou que o ciclo atual é fundamentalmente mais saudável do que as bolhas do passado. Do outro lado, uma pesquisa do MIT divulgada em dois mil e vinte e cinco, que teve a metodologia criticada, concluiu que a grande maioria dos projetos-piloto de inteligência artificial nas empresas ainda não mostrava impacto claro no resultado financeiro. E há um terceiro dado a favor de quem está tranquilo: a maioria dessas empresas tem nota de crédito entre A e AA e continua lucrativa, porque o investimento em equipamentos é contabilizado ao longo dos anos. A verdade provável mora entre os lados: a tecnologia é real, e o preço que se paga por ela pode estar alto demais.
+
+[QUEBRA: duas imagens lado a lado: uma fábrica automatizada e um painel vazio de relatórios]
+
+Para organizar, há três cenários, e nenhum é previsão. No cenário de ajuste lento, a receita cresce e alcança o investimento aos poucos, e o mercado esfria sem quebra. No cenário de correção forte, os preços caem de repente, algumas empresas quebram e o investimento esfria por alguns anos, como aconteceu depois de dois mil e dois. E no cenário otimista, a demanda cresce mais rápido do que a construção e a conta fecha. Ninguém de fora sabe qual deles vai acontecer, e quem diz que sabe está vendendo alguma coisa.
+
+[TELA: ajuste lento · correção forte · conta que fecha]
+
+[SAÍDA: cenários abstratos | cada cenário entra com um ícone e um exemplo do passado, e a frase final devolve a dúvida ao espectador]
+
+A minha tese é que a Torre não conta a história de um fim, e sim a de uma estrutura que cresceu mais depressa do que o seu alicerce. O raio, nas bolhas anteriores, não destruiu a tecnologia: destruiu a certeza de que ela valia qualquer preço. Quem assiste a este vídeo não deve tirar daqui nenhuma recomendação de investimento, porque isso não é o que o canal faz. O que o canal faz é perguntar quem paga a conta quando uma torre desse tamanho balança, e a resposta, na história, muitas vezes inclui gente que nunca esteve lá dentro: poupadores, fundos de pensão e trabalhadores.
+
+[B-ROLL: a torre da carta, agora feita de servidores, com uma rachadura de luz]
+
+No próximo vídeo, uma ideia que sugere que o problema talvez não seja uma bolha, e sim uma mudança no modo como o poder funciona: o tecnofeudalismo, tese do economista Yanis Varoufakis.
+
+[TELA: próximo vídeo: Tecnofeudalismo]

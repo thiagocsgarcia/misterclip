@@ -1,0 +1,69 @@
+[SOM: cursor piscando em ritmo lento, depois um acorde suave de sintetizador]
+
+[B-ROLL: mãos sobre um teclado em sala escura, um texto surgindo palavra por palavra numa tela]
+
+Você digita uma frase numa caixa de texto, e uma máquina responde com um texto, uma imagem ou um programa inteiro. Há milhares de anos, a humanidade descreve algo parecido com uma palavra: magia. Neste vídeo você vai ver em que ponto essa comparação é só um trocadilho, e em que ponto ela diz algo incômodo sobre a forma como usamos essas máquinas, e por que, em dois mil e vinte e dois, uma frase de cinco palavras fez um modelo de linguagem acertar quatro vezes mais contas do que antes.
+
+[TELA: O Mago · o prompt é uma forma de magia?]
+
+[SAÍDA: o espectador acha que é uma comparação vazia | o número de quatro vezes mais acerto aparece já na abertura e promete uma prova]
+
+Começo pela carta. O Mago é a primeira carta dos arcanos maiores do tarô. No baralho Rider-Waite, publicado em mil novecentos e nove, ele aparece de pé diante de uma mesa, com uma mão levantada para o céu segurando uma varinha e a outra apontando para a terra, e sobre a mesa estão os símbolos dos quatro naipes: copa, espada, moeda e bastão. Acima da cabeça dele flutua o símbolo do infinito. Os intérpretes costumam ler a carta assim: tudo de que você precisa já está sobre a mesa, e o que falta é a vontade de usar as ferramentas na ordem certa. Guarde essa imagem de uma mesa com ferramentas.
+
+[B-ROLL: a carta do Mago em estilo de gravura, a varinha para o alto e a mão apontando para baixo, depois a mesa com os quatro símbolos]
+
+[TELA: Rider-Waite · 1909 · carta I]
+
+Agora a ideia de magia. Aleister Crowley, no livro Magick em Teoria e Prática, publicado em volume em mil novecentos e vinte e nove, a definiu como a ciência e a arte de fazer uma mudança acontecer em conformidade com a vontade. Repare no que essa definição pede: uma intenção, uma fórmula e um efeito. Antes dele, a palavra abracadabra aparece, segundo as fontes, num texto do segundo século de Serenus Sammonicus, como uma fórmula escrita contra a febre, e ninguém sabe ao certo de onde ela vem. E, em mil novecentos e setenta e três, o escritor Arthur C. Clarke deu a essa conversa a sua forma mais citada: qualquer tecnologia suficientemente avançada é indistinguível da magia.
+
+Essa ligação entre palavra e efeito é muito mais velha do que Crowley. No Egito antigo, segundo egiptólogos, a magia se chamava heka e era vista como uma força que os próprios deuses usavam, e o feitiço funcionava pela combinação de uma fala, um gesto e um objeto. Quem recitava a fórmula errada, ou na hora errada, não obtinha o efeito. Repare como isso soa familiar: o resultado depende de usar as palavras certas, na ordem certa, no contexto certo. Peça a uma máquina escreva sobre o Egito e você recebe um texto genérico, que serve a todos e a ninguém. Peça explique em três parágrafos, para um estudante de quinze anos, por que a Tábua de Esmeralda foi atribuída a Hermes, e o resultado muda. Parte da diferença é só clareza, e parte tem a ver com a forma como o modelo foi treinado.
+
+[B-ROLL: papiro egípcio com hieróglifos, uma mão desenhando um símbolo, depois uma tela com dois pedidos lado a lado]
+
+[TELA: heka · fala + gesto + objeto]
+
+[QUEBRA: corte para uma sala de pesquisa com quadro branco, e o som de uma caneta riscando]
+
+[SOM: acorde grave que sustenta]
+
+Só que a comparação deixa de ser poesia quando entram os experimentos. Em dois mil e vinte e dois, uma equipe liderada por Takeshi Kojima publicou um artigo mostrando que bastava acrescentar a frase em inglês Let's think step by step, algo como pensemos passo a passo, ao fim de uma pergunta para o modelo passar a raciocinar etapa por etapa. Num teste de aritmética chamado MultiArith, a taxa de acerto do modelo InstructGPT subiu de dezessete vírgula sete por cento para setenta e oito vírgula sete por cento. É um número real, publicado em congresso científico, e vem de uma frase que parece uma fórmula.
+
+[B-ROLL: duas colunas de acerto lado a lado, dezessete por cento e setenta e oito por cento, crescendo]
+
+[TELA: Kojima e outros, 2022 · de 17,7% a 78,7% · fonte: NeurIPS]
+
+[SAÍDA: trecho de números técnicos | o contraste entre as duas colunas e a frase curta que a causa devolvem o interesse]
+
+E há mais. Em dois mil e vinte e três, pesquisadores da Microsoft e de universidades, num artigo chamado EmotionPrompt, testaram frases de apelo emocional acrescentadas ao pedido, do tipo isto é muito importante para a minha carreira. Em quarenta e cinco tarefas, com vários modelos, eles relataram melhora de desempenho, e em alguns testes a melhora foi grande. Ninguém acha que a máquina se importa com a sua carreira. O que o resultado mostra é que o texto que entra altera o que sai de maneiras que nem sempre sabemos explicar, e é aí que a figura do ritual começa a fazer sentido.
+
+[TEASER]
+
+O que acontece quando o feitiço sai do controle? Existe uma história de mais de duzentos anos que descreve esse risco com uma precisão incômoda, e ela envolve uma vassoura.
+
+[SOM: respingos de água e um relógio que acelera]
+
+Em mil setecentos e noventa e sete, Goethe escreveu o poema O Aprendiz de Feiticeiro. Um aprendiz, sozinho na casa do mestre, usa uma fórmula para encantar uma vassoura e mandá-la buscar água. A vassoura obedece, e obedece sem parar, até a casa inundar. O aprendiz não conhece a palavra que desfaz o feitiço, parte a vassoura ao meio com um machado, e as duas metades viram duas vassouras trabalhando em dobro. O poema foi impresso no ano seguinte, no almanaque das musas de Schiller. O que ele conta é simples: a vassoura fez exatamente o que foi pedido, e esse é o problema.
+
+[B-ROLL: gravura de uma vassoura carregando baldes, a água subindo pelo chão de um laboratório]
+
+[TELA: Goethe · 1797 · O Aprendiz de Feiticeiro]
+
+A imagem é tão boa que o matemático Norbert Wiener, criador da cibernética, usou essa história para alertar sobre máquinas que cumprem o que pedimos, e não o que queremos, quando escreveu sobre as consequências da automação. A lição continua atual: quando o pedido é vago, a obediência literal pode se virar contra quem pediu. Quem trabalha com modelos de linguagem conhece a versão moderna, a resposta confiante e errada que os pesquisadores chamam de alucinação.
+
+[QUEBRA: a tela escurece e uma única frase aparece: a vassoura cumpriu o pedido]
+
+Mas aqui é preciso separar a comparação da realidade, porque ela tem limites sérios. Na magia, a vontade age direto sobre o mundo. Num modelo de linguagem, o texto que você digita é uma entrada para um sistema estatístico treinado com uma quantidade enorme de texto, e o efeito passa por um mecanismo que pode ser medido, testado e corrigido. Os pesquisadores relatam também que pequenas mudanças de redação podem alterar bastante o resultado, o que ajuda a explicar por que tanta gente guarda fórmulas de pedido como se fossem receitas de grimório, e nem sempre elas funcionam em outro modelo ou em outra versão.
+
+[B-ROLL: caderno cheio de anotações de pedidos, algumas riscadas, ao lado de um gráfico simples de teste]
+
+Existem dois olhares sobre isso, e os dois têm razão em parte. Para quem trabalha no campo, o ato de escrever pedidos bons é um ofício, com método, teste e medição, e se parece mais com engenharia do que com feitiçaria. Para os críticos, a cultura de fórmulas copiadas e compartilhadas funciona como um ritual popular, em que a frase da moda circula sem ser testada. As duas leituras podem ser verdadeiras ao mesmo tempo, dependendo de quem escreve e de como verifica.
+
+[SAÍDA: seção de comparação abstrata | os dois olhares entram lado a lado, com um exemplo concreto de cada um]
+
+A minha tese é que o perigo não está em as máquinas serem mágicas, e sim em usarmos pensamento mágico com elas. O pensamento mágico é a crença de que a fórmula funciona sem que a gente entenda por quê, e de que a resposta tem autoridade só porque saiu bem escrita. O Mago do tarô é um bom contraponto: ele só tem poder porque conhece cada ferramenta da mesa e sabe o que cada uma faz. Quem digita sem saber o que há na mesa não é mago. É o aprendiz, e a vassoura já está a caminho.
+
+[SOM: a água para de correr e fica um silêncio de um segundo]
+
+No próximo vídeo, um monge que fez da memória e da imaginação um sistema inteiro de pensamento, que misturou filosofia, hermetismo e a ideia de um universo infinito, e que pagou com a vida por isso: Giordano Bruno.
+
+[TELA: próximo vídeo: Giordano Bruno]

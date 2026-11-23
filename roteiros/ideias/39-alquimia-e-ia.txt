@@ -1,0 +1,63 @@
+[SOM: aplausos de auditório diminuindo até o silêncio, depois um zumbido de computador]
+
+[B-ROLL: palco de congresso visto da plateia, um homem de pé com um troféu na mão, telas ao fundo]
+
+Em dois mil e dezessete, um pesquisador subiu num palco e disse que a inteligência artificial tinha virado alquimia. No dia seguinte, um dos nomes mais respeitados da área respondeu que a comparação era um insulto. Neste vídeo você vai ver por que os dois tinham razão em parte, em que a pedra filosofal se parece com a máquina que pensa, e em que ela é o oposto.
+
+[TELA: Alquimia e IA: a pedra filosofal das máquinas que pensam]
+
+[SAÍDA: o espectador acha que é só uma metáfora de marketing | o caso real do palco e da resposta do dia seguinte promete uma discussão com dois lados]
+
+A cena aconteceu em dezembro de dois mil e dezessete, no congresso NIPS, um dos maiores de aprendizado de máquina. Ali Rahimi recebia, ao lado de Ben Recht, um prêmio por um artigo de dois mil e sete, e aproveitou o discurso para dizer que o aprendizado de máquina tinha virado alquimia. Segundo as reportagens da época, ele falava de um campo que acumula truques que funcionam na prática, sem que se entenda bem por quê. No dia seguinte, Yann LeCun, um dos pioneiros do aprendizado profundo, publicou uma resposta em que chamou a comparação de insultuosa e errada. O argumento dele era que, na história da engenharia, os objetos quase sempre vieram antes da teoria que os explica.
+
+[B-ROLL: duas fotografias lado a lado de um laboratório de computação e de um laboratório antigo, com frascos]
+
+[TELA: dezembro de 2017 · Rahimi × LeCun]
+
+Os dois lados são fáceis de entender, e a história tem exemplos para os dois. A máquina a vapor funcionava no começo do século dezoito, e a teoria física que a explica, a termodinâmica, só foi construída no século seguinte. Ou seja, funcionar antes de entender é normal, e foi assim que muita tecnologia nasceu. Mas Rahimi tocava num ponto real: quando você não entende por que um sistema acerta, também não entende por que ele erra, e isso importa quando o sistema decide algo na vida de alguém.
+
+[QUEBRA: corte seco para uma máquina a vapor antiga em movimento, depois para um servidor com luzes piscando]
+
+Vamos então ao que a comparação tem de mais interessante. A alquimia, como vimos no vídeo sobre o que os alquimistas buscavam, prometia três coisas: transformar um metal em outro, produzir um elixir da vida e achar a pedra filosofal, o agente que faria as duas coisas. A promessa central era a de uma matéria comum se tornar algo extraordinário. Agora olhe para a indústria de chips. O silício que alimenta os computadores vem, em grande parte, de areia de quartzo, e o que sai das fábricas, depois de dezenas de etapas, é a matéria que pensa, ou que parece pensar. Não é ouro, mas a ideia de que a matéria comum vira algo valioso por um processo sofisticado é a mesma.
+
+[B-ROLL: areia escorrendo entre os dedos, depois um disco de silício brilhando sob luz azul]
+
+[TELA: areia de quartzo → silício → chip]
+
+E a promessa da pedra filosofal, a de um objeto que resolve tudo, também tem eco. As empresas de inteligência artificial costumam apresentar a tecnologia como algo que pode ajudar a resolver problemas de ciência e de saúde, e parte dos investidores trata isso como uma espécie de chave para todos os mercados. Quem leu o vídeo sobre a Torre e a bolha da IA reconhece o tom: reis financiavam alquimistas porque queriam ouro, e hoje o dinheiro vai para os laboratórios porque se espera um retorno grande. A comparação não prova que a promessa é falsa. Mostra apenas que a história já viu esse tipo de aposta, e que ela costuma gerar descobertas reais junto com muita expectativa.
+
+[B-ROLL: gravura de um rei visitando um laboratório de alquimista, com bolsas de moedas sobre a mesa]
+
+[TEASER]
+
+Mas a semelhança mais incômoda ainda não apareceu, e ela não tem a ver com dinheiro, e sim com uma criatura que os alquimistas tentaram fazer e que a literatura nunca esqueceu.
+
+[SOM: um gotejar lento e um coração batendo ao longe]
+
+Segundo uma tradição que se atribui a Paracelso, médico e alquimista do século dezesseis, num texto de mil quinhentos e trinta e sete, seria possível fazer um ser humano em miniatura, o homúnculo, dentro de um frasco, a partir de matérias que se fermentam. No Fausto de Goethe, publicado depois da morte do autor, em mil oitocentos e trinta e dois, o assistente Wagner cria um homúnculo num frasco de vidro, e essa criatura é só luz e inteligência, sem corpo. E em mil oitocentos e dezoito, Mary Shelley escreveu Frankenstein, em que o jovem Victor começa seus estudos lendo Cornelius Agrippa, Paracelso e Alberto Magno, três autores da tradição alquímica, e sonha em achar o elixir da vida. Ou seja, a criatura artificial entrou na literatura vinda do laboratório do alquimista antes de vir da engenharia.
+
+[B-ROLL: um frasco de vidro com uma luz pulsando dentro, em um laboratório antigo]
+
+[TELA: Paracelso · Goethe, 1832 · Mary Shelley, 1818]
+
+Agora volte à tela do seu computador. Um assistente de conversa é, em certo sentido, um homúnculo: uma inteligência sem corpo, feita de matéria comum e de uma receita que poucos sabem explicar por inteiro. E aqui entra a semelhança mais incômoda. Os textos alquímicos eram difíceis de ler de propósito, e os historiadores William Newman e Lawrence Principe afirmam que isso fazia parte do ofício. Um modelo de linguagem é difícil de entender por outro motivo: ele tem bilhões de parâmetros, e ninguém consegue acompanhar o caminho exato que leva de uma pergunta a uma resposta. A opacidade é diferente, e o efeito é parecido, porque em ambos os casos o resultado funciona, mas a explicação fica incompleta.
+
+[QUEBRA: texto de manuscrito alquímico se dissolve numa grade de números em movimento]
+
+Existe um campo de pesquisa que tenta resolver isso, chamado interpretabilidade, e ele é o equivalente moderno do momento em que a alquimia virou química. Os pesquisadores tentam abrir o sistema e ver quais partes se ativam e por quê, e já obtiveram resultados parciais. Mas ainda estamos longe de uma teoria que explique esses sistemas como a química explica uma reação. Por isso a comparação de Rahimi, mesmo incômoda, aponta para uma tarefa real.
+
+[SAÍDA: trecho técnico sobre opacidade | a imagem do manuscrito virando números e a palavra “química” como destino mantêm o fio]
+
+O lado de LeCun também tem peso. A alquimia, segundo a história da ciência, deixou herança, porque as técnicas de destilação e de preparo de substâncias nasceram em oficinas de alquimistas, e muitos dos que a praticaram foram bons experimentadores. A passagem para a química moderna aconteceu quando se passou a medir com cuidado, repetir os testes e explicar os resultados. A pergunta que a comparação deixa no ar é se a inteligência artificial vai fazer a mesma passagem, de uma prática de truques que funcionam para uma ciência que explica.
+
+[B-ROLL: uma balança de precisão antiga ao lado de um painel de testes com gráficos]
+
+A minha tese é que a inteligência artificial é a nova alquimia no melhor e no pior sentido. No melhor, porque é uma prática empírica poderosa, que descobre coisas úteis antes de saber explicá-las. No pior, porque mistura promessas totais, muito dinheiro e uma opacidade que protege erros. A alquimia deixou de ser alquimia quando passou a se submeter à medição e à explicação, e o que decide o futuro da inteligência artificial não é a promessa da pedra filosofal, e sim se ela aceitará esse mesmo teste. Este vídeo não é uma previsão sobre empresas nem um conselho de investimento: é um convite a olhar a tecnologia com a mesma pergunta dos bons alquimistas, a de o que realmente acontece dentro do frasco.
+
+[SOM: o gotejar do começo, agora mais calmo]
+
+[B-ROLL: um frasco de vidro iluminado, e dentro dele a imagem de um circuito se transformando em uma folha]
+
+No próximo vídeo, voltamos ao começo de tudo: o Corpus Hermeticum, e como um livro atribuído a um sábio egípcio conquistou a Renascença europeia.
+
+[TELA: próximo vídeo: O Corpus Hermeticum, como um livro egípcio conquistou a Renascença]

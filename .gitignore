@@ -1,0 +1,11 @@
+data/
+__pycache__/
+*.pyc
+.pytest_cache/
+token.txt
+.env
+*.env
+teste-clipes/
+teste-estilos/
+teste-real/
+teste-voz/

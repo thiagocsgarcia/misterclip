@@ -1,0 +1,63 @@
+[SOM: martelo de juiz, uma batida seca, depois silêncio]
+
+[B-ROLL: fachada de um tribunal federal à noite, janelas acesas]
+
+Um júri levou menos de duas horas para decidir uma briga de bilhões entre Elon Musk e Sam Altman. Foi em maio de dois mil e vinte e seis, e quase todo mundo quis saber quem ganhou. Mas a pergunta que este vídeo faz é outra: o que essa disputa mostra sobre quem pode dizer que uma empresa de inteligência artificial trabalha para a humanidade, e o que acontece quando a promessa e o dinheiro entram em choque.
+
+[TELA: Musk × Altman × OpenAI · só o que está nos autos e nas declarações públicas]
+
+[SAÍDA: o espectador espera fofoca de bilionário | o gancho promete a pergunta de governança e o vídeo diz já no começo que só usa registro público e as duas versões]
+
+Primeiro, o começo. A OpenAI nasceu em dezembro de dois mil e quinze como um laboratório de pesquisa sem fins lucrativos, criado por um grupo que incluía Sam Altman e Elon Musk, com a promessa pública de desenvolver inteligência artificial em benefício de toda a humanidade. Musk deixou o conselho em dois mil e dezoito. A OpenAI sustenta que isso aconteceu depois que ele não conseguiu mais controle sobre a organização, e Musk sustenta que ela se afastou da missão original. Em dois mil e dezenove, a OpenAI criou uma estrutura com um braço de lucro limitado, e a Microsoft passou a investir bilhões. Em novembro de dois mil e vinte e três, o conselho demitiu Altman e, poucos dias depois, ele voltou ao cargo.
+
+[B-ROLL: linha do tempo simples: dois mil e quinze, dois mil e dezoito, dois mil e dezenove, dois mil e vinte e três]
+
+[TELA: 2015 · fundação · 2019 · lucro limitado · 2023 · demissão e volta de Altman]
+
+Essa demissão merece uma pausa, porque ela mostra o problema da governança em ação. Em dezessete de novembro de dois mil e vinte e três, o conselho informou, em um comunicado curto, que Altman não tinha sido consistentemente sincero com os conselheiros, o que atrapalhava o trabalho deles. O comunicado não deu detalhes, e a falta de explicação alimentou todo tipo de boato. Em poucos dias, centenas de funcionários, na faixa de setecentos a quase oitocentos, conforme a reportagem, ameaçaram sair se o conselho não voltasse atrás. Em vinte e um de novembro, a OpenAI anunciou um acordo para reintegrar Altman e trocar o conselho. A lição é desconfortável para os dois lados: o conselho tinha, no papel, o poder de demitir o presidente, e na prática não conseguiu mantê-lo.
+
+[B-ROLL: uma sala de reuniões vazia, cadeiras empurradas para trás, luz de fim de tarde]
+
+[TELA: 17 de novembro de 2023 · demissão · 21 de novembro · volta de Altman e novo conselho]
+
+O processo veio depois. Musk processou a OpenAI em dois mil e vinte e quatro, e o caso foi para um tribunal federal da Califórnia, sob a juíza Yvonne Gonzalez Rogers. Os pontos que chegaram ao julgamento foram três: quebra de confiança de uma instituição de caridade e enriquecimento sem causa, contra a OpenAI, Altman e o presidente da empresa, Greg Brockman, e cumplicidade, contra a Microsoft. Musk pediu até cento e trinta e quatro bilhões de dólares em indenização, a saída de Altman do conselho e a anulação da reorganização da empresa feita em dois mil e vinte e cinco. O julgamento começou no fim de abril de dois mil e vinte e seis.
+
+Antes do julgamento, houve um lance que mostra o tamanho da disputa. Em fevereiro de dois mil e vinte e cinco, Musk e um grupo de investidores, junto com a empresa de inteligência artificial dele, a xAI, ofereceram noventa e sete bilhões e quatrocentos milhões de dólares pela organização sem fins lucrativos que controla a OpenAI. O conselho recusou por unanimidade. O presidente do conselho, Bret Taylor, disse que a OpenAI não estava à venda, e Altman respondeu em público, em tom de brincadeira, que aceitaria comprar o Twitter por nove bilhões e setecentos e quarenta milhões, se Musk quisesse.
+
+[B-ROLL: documentos com carimbo de arquivo sendo folheados, uma mão marcando um trecho]
+
+[TELA: fevereiro de 2025 · oferta de US$ 97,4 bilhões · recusada por unanimidade]
+
+[QUEBRA: corte seco para uma balança de dois pratos, em que um prato é um coração e o outro uma pilha de moedas]
+
+[TEASER]
+
+A decisão do júri não respondeu à pergunta de fundo. E a reorganização que Musk queria desfazer pode ser o ponto mais importante de toda a história. Já chego nela.
+
+[SOM: relógio de parede, três segundos]
+
+Em dezoito de maio de dois mil e vinte e seis, os jurados concluíram que as alegações de Musk tinham sido apresentadas tarde demais: o prazo legal para processar já havia passado. O júri tinha papel consultivo, e a juíza adotou a conclusão como decisão do tribunal e rejeitou os pedidos, inclusive o que envolvia a Microsoft. Segundo a imprensa, os jurados deliberaram por menos de duas horas. Musk chamou o resultado de tecnicalidade de calendário e de péssimo precedente, e o advogado dele respondeu em uma palavra: apelação. A OpenAI e a Microsoft celebraram a decisão, e os advogados da OpenAI descreveram a ação como uma construção feita depois dos fatos. Um ponto importante: o veredicto foi sobre o prazo, e não sobre se a promessa original foi traída.
+
+[B-ROLL: câmera lenta numa folha de calendário sendo arrancada]
+
+[TELA: 18 de maio de 2026 · prazo vencido · pedidos rejeitados]
+
+Agora, a reorganização. Em vinte e oito de outubro de dois mil e vinte e cinco, a OpenAI concluiu uma mudança de estrutura. A parte com fins lucrativos virou uma empresa de benefício público, a OpenAI Group, controlada por uma fundação sem fins lucrativos, a OpenAI Foundation, que pode nomear e remover os membros do conselho da empresa. Segundo a imprensa, a fundação ficou com cerca de vinte e seis por cento, e a Microsoft com cerca de vinte e sete por cento, avaliados em torno de cento e trinta e cinco bilhões de dólares. As procuradorias-gerais de Delaware e da Califórnia disseram que não se oporiam ao plano. Um crítico, o presidente do grupo Public Citizen, Robert Weissman, disse que o arranjo não garante a independência da fundação, que, na visão dele, serviria aos interesses da empresa.
+
+[B-ROLL: organograma simples: fundação no topo, empresa embaixo, setas para os acionistas]
+
+[SAÍDA: trecho de estrutura societária | o organograma desenhado em tempo real e os percentuais na tela evitam que o espectador se perca]
+
+Vejamos os dois lados com justiça. A visão de Musk é que um laboratório que nasceu com a promessa de servir a humanidade virou uma empresa avaliada em centenas de bilhões, e que quem doou acreditando na missão não imaginava isso. A visão da OpenAI é que desenvolver inteligência artificial de ponta custa muito mais do que doações cobrem, que a estrutura atual mantém uma fundação no controle, e que as queixas de Musk vieram depois que ele perdeu influência sobre a organização, segundo a defesa no julgamento. Altman afirmou em depoimento que teve preocupações com as tentativas de Musk de ganhar mais controle. As duas versões podem conter parte da verdade, e um julgamento sobre prazo não decide qual.
+
+[QUEBRA: duas cadeiras vazias, uma de frente para a outra, uma luz mudando de lado]
+
+Eu penso que o caso revela uma lição que vale para qualquer laboratório de inteligência artificial: missão sem mecanismo é só uma promessa. Palavras como benefício da humanidade ficam bonitas nos documentos de fundação, mas só têm força se houver alguém com poder real de dizer não, e se esse alguém puder ser contestado por quem de fora acompanha. No vídeo sobre O Imperador, vimos como o poder sobre a inteligência artificial se concentra em poucas empresas. Aqui vemos o outro lado: quando essas empresas discutem entre si quem pode falar em nome de todos, o árbitro acaba sendo um calendário.
+
+[B-ROLL: um cadeado aberto sobre uma mesa de conselho]
+
+Nada disso é acusação contra ninguém, e nada aqui diz o que as pessoas pensam por dentro. O que está nos autos e nas declarações públicas mostra um conflito real de interesses, e a pergunta que fica é quem fiscaliza quem. Se o veredicto tivesse sido outro, a dúvida seria a mesma.
+
+No próximo vídeo, vamos voltar quinhentos anos no tempo, a um boticário francês que prometia ver o futuro: Nostradamus, e o que ele realmente escreveu.
+
+[TELA: próximo vídeo: Nostradamus: o que ele escreveu de verdade]

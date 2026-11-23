@@ -1,0 +1,67 @@
+[SOM: uma batida lenta e, por cima, o som de um dedo deslizando sobre vidro]
+
+[B-ROLL: uma fileira de miniaturas de vídeos num celular, uma das miniaturas se destacando e as outras escurecendo]
+
+Em dois mil e dezoito, um executivo do YouTube disse que cerca de setenta por cento do tempo assistido na plataforma vinha das recomendações. Em dois mil e quinze, dois engenheiros da Netflix escreveram que o sistema de recomendação influenciava cerca de oitenta por cento das horas assistidas. Se esses números fazem sentido, quase tudo o que você vê foi escolhido por um sistema que você não enxerga. Neste vídeo você vai ver quem decide como esse sistema escolhe, o que os experimentos mais sérios descobriram quando testaram a ideia de que o algoritmo é o grande culpado, e por que a resposta tem uma surpresa dos dois lados.
+
+[TELA: YouTube ≈ 70% do tempo assistido vem de recomendações (2018) · Netflix ≈ 80% das horas influenciadas (2015)]
+
+[SAÍDA: o espectador espera um vídeo de indignação contra o algoritmo | a promessa de mostrar experimentos com resultados dos dois lados aparece já no primeiro minuto]
+
+Antes de continuar, um cuidado com os dois números. O do YouTube vem de uma fala em dois mil e dezoito e não foi atualizado publicamente, até onde achei. O da Netflix vem de um artigo de dois mil e quinze, e a palavra do artigo é influência sobre a escolha, e não que a recomendação tenha produzido todo aquele consumo. Mesmo com essas ressalvas, eles mostram a escala: o que aparece na primeira fileira da tela vale muito mais do que o que está escondido na busca.
+
+[B-ROLL: uma prateleira de supermercado vista de frente, com os produtos do meio na altura dos olhos e os de baixo na sombra]
+
+Então, quem decide? A resposta curta é que não é uma pessoa e não é uma máquina sozinha. Um sistema de recomendação é um modelo treinado para prever uma coisa, por exemplo, se você vai clicar, quanto tempo vai ficar ou se vai curtir, e depois ele ordena o conteúdo para maximizar essa previsão. Ou seja, o algoritmo otimiza o objetivo que alguém escolheu. A decisão que importa não está no código de ordenar, está na escolha do que medir. Troque a métrica e você troca o que milhões de pessoas veem.
+
+[TELA: o algoritmo não escolhe o objetivo · alguém escolhe o que medir]
+
+Existe um exemplo bem documentado dessa troca. Em janeiro de dois mil e dezoito, Mark Zuckerberg anunciou que o Facebook ia mudar o Feed de Notícias para priorizar o que chamou de interações sociais significativas, com mais posts de amigos e de familiares e menos de páginas e de empresas. Foi uma decisão de métrica, tomada por uma pessoa, e ela mudou o que o feed de bilhões de pessoas mostrava, e quem vivia de publicar na plataforma sentiu na hora.
+
+[B-ROLL: um painel de controle com um único botão grande, e um dedo esperando para girá-lo]
+
+[QUEBRA: corte seco para um laboratório, pessoas diante de telas, uma lousa com a palavra “experimento” sublinhada]
+
+[TEASER]
+
+Agora a pergunta que interessa: quando pesquisadores trocaram o algoritmo de verdade, o que mudou na cabeça das pessoas? A resposta é menos óbvia do que parece, e a pesquisa mais recente, de dois mil e vinte e seis, complica ainda mais o quadro. Já chego lá, depois de mostrar o que se mediu antes.
+
+[SOM: um relógio de parede, em contagem lenta]
+
+Em dois mil e vinte e dois, uma equipe liderada por Ferenc Huszár publicou na revista PNAS um estudo sobre o Twitter, comparando a linha do tempo personalizada com uma cronológica. Eles encontraram que a direita política tradicional era amplificada mais do que a esquerda em seis dos sete países estudados, a exceção sendo a Alemanha. Note o que isso mede e o que não mede: é amplificação, e não prova de intenção de quem desenhou o sistema.
+
+[TELA: Huszár e colegas · PNAS, 2022 · direita tradicional mais amplificada em 6 de 7 países]
+
+Em dois mil e vinte e três, a revista Science publicou os estudos feitos com a colaboração da Meta durante a eleição americana de dois mil e vinte, liderados por Andrew Guess e outros. Num deles, usuários do Facebook passaram três meses com um feed cronológico, sem o ranqueamento por engajamento. O que mudou foi a experiência: eles passaram menos tempo na plataforma, cerca de vinte por cento a menos no Facebook e dez por cento no Instagram. O que não mudou, de forma detectável, foi a polarização e o conhecimento político. Um estudo irmão, na revista Nature, reduziu em cerca de um terço a exposição a fontes que pensam igual, e também não achou efeito nas atitudes medidas, embora tenha diminuído o conteúdo ofensivo.
+
+[B-ROLL: duas linhas do tempo lado a lado, uma desordenada e outra em ordem de horário, com a mesma quantidade de itens]
+
+Isso levou muita gente a dizer que o algoritmo é menos poderoso do que se imagina. Os próprios comentaristas fazem ressalvas: foi uma única eleição, num período curto, e três meses podem não captar efeitos que se acumulam por anos. Mas o dado vale como contrapeso a quem diz que trocar o feed resolve tudo.
+
+[SAÍDA: trecho de estudos e nomes | a imagem das duas linhas do tempo e a frase “o que mudou e o que não mudou” mantêm o foco no resultado]
+
+E aí vem a pesquisa de dois mil e vinte e seis, publicada na Nature, sobre o feed da rede X. Segundo o resumo, usuários ativos nos Estados Unidos foram sorteados para um feed algorítmico ou um cronológico durante sete semanas. Quem passou para o feed algorítmico engajou mais e teve opiniões que se deslocaram para posições mais conservadoras, enquanto a troca no sentido contrário não teve efeito comparável. Eu só li o resumo, e é só um estudo, então trate como indício e não como veredito. Mas ele mostra que o resultado varia com a plataforma, com o período e com o jeito de medir, e que a frase o algoritmo não muda a cabeça de ninguém é tão apressada quanto a frase o algoritmo manipula todo mundo.
+
+[B-ROLL: uma balança de dois pratos, um com a palavra “Facebook, 2023”, outro com “X, 2026”, pendendo para lados diferentes]
+
+[TELA: Facebook e Instagram 2020: sem efeito detectável em 3 meses · X 2025-26: deslocamento em 7 semanas · cada estudo mede coisas diferentes]
+
+O que os governos exigem? Aqui o debate é sobre transparência. Em janeiro de dois mil e vinte e seis, a rede X publicou o código e a arquitetura do seu algoritmo de recomendação para a aba Para Você, numa licença aberta, como reportaram vários veículos. Especialistas debatem o quanto isso mostra de fato, porque pesos e parâmetros podem ter sido omitidos. Na União Europeia, a Comissão multou o X em cento e vinte milhões de euros em cinco de dezembro de dois mil e vinte e cinco, a primeira multa pela Lei de Serviços Digitais, por falhas de transparência, como o selo azul pago, o repositório de anúncios e o acesso de pesquisadores a dados. Os sistemas de recomendação do X não estavam nessa multa, e a Comissão abriu uma nova investigação sobre eles em janeiro de dois mil e vinte e seis. A empresa contesta a multa.
+
+[B-ROLL: uma lupa passando sobre um bloco de código, com trechos tarjados de preto]
+
+[QUEBRA: o bloco de código se dissolve na imagem de uma esfera de cristal, e depois volta]
+
+Há uma imagem antiga que ajuda aqui. Um oráculo, na tradição, dá uma resposta que você não pode auditar, e você decide o quanto confiar. O feed é um oráculo moderno, com uma diferença importante: ele aprende com você, e tira a próxima sorte a partir da sua última. Por isso, a pergunta de quem decide tem sempre duas respostas. Decide a empresa, que escolhe a métrica, e decide você, que alimenta o sistema com cada clique.
+
+[SOM: nota longa que se afasta]
+
+A minha tese é que o poder do algoritmo é real, mas ele é um poder delegado, e a delegação pode ser lida. Quem escolhe a métrica responde pelo resultado, e quem usa a plataforma tem pequenos controles que quase ninguém usa. O que você pode fazer sem esperar lei nenhuma é simples, e eu falo como quem analisa, não como especialista em saúde: preferir o feed cronológico quando o aplicativo oferece, tocar em não tenho interesse quando algo aparece e você não quer mais ver, e buscar o que procura em vez de rolar o que aparece.
+
+[TELA: três controles pequenos · feed cronológico · “não tenho interesse” · busca em vez de rolagem]
+
+[B-ROLL: uma mão escolhendo um item numa estante, em vez de a estante se movendo diante dela]
+
+No próximo vídeo, voltamos à tradição e fazemos uma pergunta de fundo para a série dos arcanos: de onde vem, de verdade, cada uma das vinte e duas cartas maiores do tarô.
+
+[TELA: próximo vídeo: Os 22 arcanos maiores do tarô e a sua origem real]

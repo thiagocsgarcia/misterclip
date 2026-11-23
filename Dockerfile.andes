@@ -1,0 +1,15 @@
+# Nó MisterClip na andes. Reaproveita a imagem validada nos testes (torch cu128 + FFmpeg + gcc).
+# As libs de voz/legenda (Kokoro, faster-whisper) e os modelos entram por volume (ver scripts/deploy-node.sh).
+FROM misterclip-comfy:test
+USER root
+RUN apt-get update && apt-get install -y --no-install-recommends fonts-dejavu-core \
+    && rm -rf /var/lib/apt/lists/*
+RUN pip install --no-cache-dir "fastapi>=0.115,<1" "uvicorn[standard]>=0.30" "pillow>=10.3"
+WORKDIR /app
+COPY app app
+COPY web web
+COPY profiles profiles
+COPY deploy/entrypoint.sh /entrypoint.sh
+RUN chmod +x /entrypoint.sh
+ENTRYPOINT ["/entrypoint.sh"]
+CMD []

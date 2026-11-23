@@ -1,0 +1,67 @@
+[SOM: o teclado de um computador antigo, um tique-taque lento, e depois silêncio]
+
+[B-ROLL: um terminal de computador dos anos sessenta, letras verdes numa tela escura, e uma sala vazia ao fundo]
+
+Em mil novecentos e sessenta e seis, uma secretária do MIT pediu ao chefe que saísse da sala, para falar a sós com um programa. O programa era simples, e ela sabia disso, porque tinha visto o professor construí-lo. Neste vídeo você vai ver por que isso acontece até com quem entende como a máquina funciona, o que a carta dos Enamorados do tarô diz sobre amor e escolha, e que pergunta incômoda a gente costuma esquecer de fazer.
+
+[TELA: Os Enamorados · apaixonar-se por uma máquina]
+
+[SAÍDA: o espectador acha que vai ouvir julgamento ou piada sobre quem conversa com IA | o gancho promete uma história real e uma pergunta honesta, sem apontar o dedo para ninguém]
+
+O professor era Joseph Weizenbaum, e o programa se chamava ELIZA. Ele imitava um psicoterapeuta de um jeito muito simples: reconhecia palavras e devolvia a frase em forma de pergunta. Se você escrevesse que estava triste com a sua mãe, ele perguntava mais sobre a sua família. Segundo relatos da época, a secretária de Weizenbaum, depois de poucas trocas, pediu que ele saísse da sala. O próprio autor ficou alarmado e escreveu, anos depois, que exposições muito curtas a um programa relativamente simples podiam induzir um pensamento muito forte, quase delirante, em pessoas perfeitamente normais. Chamamos hoje de efeito ELIZA essa tendência humana de enxergar compreensão e empatia numa máquina que responde por texto.
+
+[B-ROLL: a tela do programa devolvendo a pergunta “fale mais sobre a sua família”, em letras verdes]
+
+[TELA: 1966 · ELIZA · o efeito ELIZA]
+
+Weizenbaum tirou uma conclusão que incomodou muitos colegas. No livro Poder do Computador e Razão Humana, de mil novecentos e setenta e seis, ele defendeu que há funções, como a de terapeuta, que não deveriam ser entregues a máquinas, mesmo que elas consigam imitá-las, porque exigem algo que a imitação não tem: responsabilidade e cuidado de quem também pode sofrer. Muitos pesquisadores de inteligência artificial discordaram dele na época, e a discussão continua aberta.
+
+Quase sessenta anos depois, as máquinas ficaram muito mais convincentes, e o efeito ficou muito mais forte. Uma pesquisa da organização americana Common Sense Media, divulgada em julho de dois mil e vinte e cinco, entrevistou mil e sessenta adolescentes de treze a dezessete anos nos Estados Unidos. Segundo a pesquisa, setenta e dois por cento já tinham usado um companheiro de inteligência artificial, e cinquenta e dois por cento usavam com regularidade. Um terço dos que usavam disse ter se sentido desconfortável com algo que o robô disse ou fez, e a própria organização recomendou que menores de dezoito anos não usem esses produtos. É um retrato dos Estados Unidos, e não do Brasil, mas indica o tamanho do fenômeno.
+
+[B-ROLL: o rosto de um adolescente iluminado pela tela do celular, sem mostrar a identidade]
+
+[TELA: Common Sense Media, 2025: 72% já usaram · 52% usam com regularidade]
+
+[SAÍDA: bloco de números | cada número vem com a fonte e a imagem muda, e a frase “não é o Brasil” mantém a honestidade]
+
+[TEASER]
+
+A carta dos Enamorados guarda uma pergunta que quase nunca aparece nesse debate, e ela não é sobre sentimento. Já chego lá.
+
+[SOM: um acorde suave que muda de tom no meio]
+
+A carta é a de número seis dos arcanos maiores. Nos baralhos antigos, como os de Marselha, ela mostra um jovem entre duas mulheres, e os estudiosos costumam ler essa imagem como a de uma escolha. Nos baralhos modernos, como o Rider-Waite, de mil novecentos e nove, a cena mostra um homem e uma mulher sob a figura de um anjo, e a interpretação passa a ser a da união e dos valores que a sustentam. Em qualquer versão, os Enamorados são menos sobre o romance e mais sobre decidir com quem, e com que valores, você escolhe se ligar.
+
+[B-ROLL: a carta dos Enamorados do baralho de Marselha, e ao lado a do Rider-Waite]
+
+Agora, uma ideia ainda mais velha. No fim do século quinze, o filósofo Marsilio Ficino, o mesmo da tradução de Hermes, comentou o Banquete de Platão e deu à tradição o nome de amor platônico. Para ele, o amor era um desejo que começa na beleza de uma pessoa e sobe, passo a passo, em direção à beleza e ao bem maiores. O amor, nessa visão, é um caminho que leva alguém para além de si.
+
+[TELA: Ficino · o amor como subida]
+
+É aqui que as duas imagens se encontram. Amar uma pessoa é encontrar alguém que também tem vontade, que pode discordar, ir embora, mudar, e que precisa de você também. Nenhuma dessas coisas é garantida por um sistema que responde. Os críticos desse tipo de companhia dizem que a máquina foi projetada para agradar e manter o usuário engajado, e que uma relação sem atrito pode atrapalhar a prática da convivência real. É uma preocupação razoável, porque as empresas ganham quando as pessoas voltam.
+
+[B-ROLL: duas mãos que se aproximam e uma tela que brilha entre elas]
+
+Há ainda um detalhe técnico que ajuda a entender o espelho. Pesquisas sobre modelos de linguagem descrevem uma tendência chamada bajulação, em que o sistema, treinado para ser bem avaliado por pessoas, tende a concordar com o usuário e a elogiar o que ele diz. Não é uma intenção, é um efeito do treinamento. Uma companhia que tende a concordar com você por construção é diferente de uma pessoa que, por amor, às vezes precisa dizer o que você não quer ouvir.
+
+Existe o outro lado, e ele merece ser ouvido. Para muita gente isolada, idosa ou com dificuldade de conversar, uma companhia que escuta sem julgar traz conforto, e alguns pesquisadores sugerem que ela pode servir de ensaio para conversas reais. O mesmo estudo da Common Sense Media, por exemplo, registra que a maioria dos adolescentes que usam esses robôs diz passar mais tempo com amigos de verdade do que com eles. Os dados ainda são poucos, e quem afirma com certeza que isso faz bem ou faz mal está indo além da pesquisa.
+
+[QUEBRA: a tela se divide ao meio, de um lado uma pessoa sorrindo com o celular, do outro uma cadeira vazia na mesa de jantar]
+
+[SAÍDA: debate em que parece que alguém tem de ganhar | as duas imagens mostram que os dois lados têm algo verdadeiro, e a pergunta final fica aberta]
+
+O cinema já imaginou isso. No filme Ela, de dois mil e treze, um homem se apaixona por um sistema operacional de voz, e o filme é cuidadoso em não dizer se isso é bom ou ruim. É um retrato de solidão e de ternura que ainda parece atual. E no vídeo anterior, vimos com Jung que a projeção é uma mecânica humana: colocamos no outro, ou na coisa, o que não reconhecemos em nós. Uma máquina que responde fala com a nossa voz, só que mais polida, e por isso o espelho é perfeito.
+
+[B-ROLL: um espelho de moldura antiga em que o reflexo mostra uma tela de conversa com um coração]
+
+A minha tese é que o problema não é amar uma máquina, e sim o que a máquina devolve. Ela não nos ama nem deixa de nos amar, porque devolve, com fluência, o que a gente traz. O encontro com outra pessoa exige o risco de ser contrariado, e a carta dos Enamorados é, no fundo, uma carta sobre esse risco. A pergunta honesta não é se a máquina sente alguma coisa, e sim o que estamos escolhendo quando preferimos a conversa em que nunca somos contrariados.
+
+[SOM: o acorde do começo, agora mais calmo]
+
+Este vídeo não é aconselhamento psicológico nem julgamento de ninguém. Se você ou alguém que você conhece está sofrendo, procure um profissional de saúde mental, que pode ajudar de um jeito que um vídeo não consegue.
+
+[B-ROLL: uma janela aberta ao amanhecer, uma xícara na mesa]
+
+No próximo vídeo, vamos a uma pergunta ainda maior: se tanta gente já fala de transformar o corpo e a mente com a tecnologia, o transumanismo é uma religião?
+
+[TELA: próximo vídeo: Transumanismo é uma religião?]

@@ -1,0 +1,69 @@
+{
+ "8": {
+  "origem": "Escrito pelo Claude com pesquisa (valores de contratos variam entre fontes)",
+  "tese": "A Palantir não inventou a vigilância: vendeu uma forma eficiente de ligar bases de dados que já existiam; o risco está em quem decide o uso e com que controle externo (Bentham e Foucault como lente).",
+  "fontes": [
+   "Wikipedia e fontes secundárias (fundação em 2003, fundadores, In-Q-Tel, produtos Gotham e Foundry)",
+   "Gizmodo (receita recorde com o governo dos EUA em 2025, cerca de 1,855 bilhão de dólares, com base no balanço)",
+   "Statista e Gizmodo (Maven: de cerca de 480 milhões a cerca de 1,3 bilhão de dólares até 2029)",
+   "AFSC (acordo-quadro do Exército de até 10 bilhões de dólares, 2025 a 2035)",
+   "Reportagens de 2025 (ICE, ImmigrationOS: cerca de 30 milhões em abril e cerca de 60 milhões após renovação em setembro)",
+   "Anistia Internacional (documento de 2025 sobre o ImmigrationOS) e EFF (abril de 2026)",
+   "TechCrunch (abril de 2025: Ted Mabrey defende o trabalho e cita o livro A República Tecnológica)",
+   "The Register (questionamentos ao contrato da NHS England)",
+   "Jeremy Bentham (panóptico) e Michel Foucault, Vigiar e Punir, 1975"
+  ],
+  "incertezas": [
+   "Os valores dos contratos (ICE, Maven, Exército) vêm de reportagens e levantamentos que divergem: confirme em fonte primária (contratos públicos ou balanços) antes de gravar.",
+   "A origem da ideia no combate à fraude do PayPal é o relato mais comum da história da empresa, mas não foi confirmada em fonte primária nesta pesquisa.",
+   "O valor da In-Q-Tel (cerca de 2 milhões de dólares) varia entre fontes.",
+   "O trecho sobre a NHS está resumido de manchetes: confirme o estado atual do contrato.",
+   "As falas da Palantir (nega banco de dados mestre e lista de manifestantes; diz que os contratos são com a divisão de investigações criminais) vêm de reportagens sobre a resposta da empresa à Anistia: confirme a redação exata.",
+   "Pessoas vivas e empresa: o roteiro atribui afirmações e traz a resposta da empresa; mantenha a atribuição se editar."
+  ]
+ },
+ "9": {
+  "origem": "Escrito pelo Claude com pesquisa (comparações de comentaristas, não fatos)",
+  "tese": "O príncipe de hoje não é um homem só, é um sistema que decide o que você vê; lido nas duas metades (O Príncipe e os Discursos), Maquiavel mostra que o poder sem legitimidade é perigoso e frágil.",
+  "fontes": [
+   "Maquiavel, O Príncipe (escrito em 1513, dedicado a Lorenzo de Médici; impresso em 1532 com permissão do papa Clemente Sétimo), capítulos 17, 19 e 25",
+   "National Geographic (a máxima de ser temido descreve o que o governante precisa fazer para se manter)",
+   "Maquiavel, Discursos sobre a Primeira Década de Tito Lívio",
+   "Reportagens sobre os Facebook Files (2021, Frances Haugen; mudança do feed em 2018; contestação da empresa)",
+   "UnHerd (dezembro de 2025, sobre Giuliano da Empoli, virtù e César Bórgia)",
+   "Transnational Institute (citando perfil da New Yorker sobre Curtis Yarvin)",
+   "Jeff Giesea (ensaio sobre legitimidade)",
+   "Regulamento de Serviços Digitais da União Europeia"
+  ],
+  "incertezas": [
+   "A leitura de Rousseau (O Príncipe como livro dos republicanos) e os Discursos não foram confirmados nesta pesquisa: confirme antes de gravar.",
+   "O artigo de Empoli e o perfil da New Yorker foram citados por fontes secundárias (UnHerd e TNI): confira a fonte original e a data.",
+   "A imagem do rio e dos diques (capítulo 25) e o capítulo 19 (evitar ser odiado) estão de memória do texto: confira na tradução que for citar.",
+   "O detalhe de Maquiavel preso e mandado ao campo em 1512 e 1513 é da biografia padrão: confirme.",
+   "O Regulamento de Serviços Digitais é citado de forma geral, sem artigo ou data: confirme se quiser detalhar.",
+   "Pessoas vivas (Haugen, Yarvin, Empoli, Giesea): só atribuição pública com fonte."
+  ]
+ },
+ "10": {
+  "origem": "Escrito pelo Claude com pesquisa",
+  "tese": "O Golem não é a primeira inteligência artificial, e sim a primeira grande história sobre o problema de controlar o que criamos: quem responde pelo dano e se o criador sempre terá a letra que desliga.",
+  "fontes": [
+   "Talmude, Sanhedrin 65b (Rava cria um homem; Rabino Zeira) e Rashi (nomes do Sefer Yetzirah)",
+   "Tradição cabalística tardia: emet e met (não está no Talmude)",
+   "Shnayer Leiman (lenda impressa em 1837) e Dekel e Gurley, Jewish Quarterly Review (versão quase canônica em 1847, na antologia Sippurim, de Leopold Weisel)",
+   "Yudl Rosenberg, 1909, e a avaliação de Gershom Scholem (ficção moderna)",
+   "Gustav Meyrink, O Golem, 1915",
+   "Karel Čapek, R.U.R. (publicada em 1920; estreia em 2 de janeiro de 1921 em Hradec Králové); palavra robô criada por Josef Čapek",
+   "Norbert Wiener, God and Golem, Inc., 1964",
+   "Gershom Scholem em 1965 no Instituto Weizmann (Golem Aleph), segundo o blog da Biblioteca Nacional de Israel",
+   "Goethe, O Aprendiz de Feiticeiro, 1797"
+  ],
+  "incertezas": [
+   "Confirme a data de 1797 da balada de Goethe e o ano de 1915 do romance de Meyrink em obra de referência.",
+   "O libelo de sangue como contexto da lenda aparece em muitas versões, sobretudo a de Rosenberg: confirme antes de afirmar como regra.",
+   "A frase de Scholem sobre o Golem de Praga e a correção de erros vem de um blog da Biblioteca Nacional de Israel que reproduz um relato de 1965: confirme a redação.",
+   "O papel de Rodolfo Segundo e a ligação com o imperador não entram no roteiro porque não foram confirmados.",
+   "O ano de publicação do ensaio de Scholem (1971 na coletânea) difere da data da palestra (1965): o roteiro usa 1965 só para a inauguração do computador."
+  ]
+ }
+}

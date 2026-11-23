@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "base_model": "flux1-schnell-fp8",
+  "lora": null,
+  "params": {
+    "width": 1344,
+    "height": 768,
+    "steps": 4,
+    "cfg": 1.0,
+    "sampler": "euler",
+    "scheduler": "simple",
+    "seed": "per_scene_random"
+  },
+  "negative_prompt": "",
+  "negative_note": "FLUX schnell ignora prompt negativo; restrições vão no prompt positivo.",
+  "motion": {
+    "default": "ken_burns",
+    "animated_ratio": 0.35,
+    "clip_engine": "wan"
+  },
+  "id": "gravura-alquimica",
+  "name": "Gravura alquímica",
+  "description": "Manuscrito hermético: tinta e aquarela sobre pergaminho, símbolos, sépia e dourado. Ocultismo e filosofia clássica.",
+  "style_prompt": "medieval alchemical manuscript illustration, ink and watercolor on aged parchment, fine engraved linework, hermetic symbols, sepia and gold leaf tones, flat symbolic composition",
+  "finishing": {
+    "grade": "sepia_warm",
+    "grain": 0.15,
+    "vignette": 0.25,
+    "transition": "crossfade"
+  },
+  "captions": {
+    "font": "serif",
+    "color": "#F3E3B8",
+    "position": "bottom"
+  },
+  "preview": "previews/gravura-alquimica.jpg"
+}

@@ -1,0 +1,57 @@
+[SOM: motor distante que acelera e se mistura a um zumbido de servidores]
+
+[B-ROLL: a carta O Carro do tarô, um condutor sob um dossel de estrelas, duas esfinges, uma preta e outra branca]
+
+Na carta do tarô chamada O Carro, o condutor está de pé numa carruagem. Há um detalhe curioso: no baralho Rider-Waite, ele não segura as rédeas. Ele controla as duas esfinges só com a vontade. Neste vídeo você vai ver o que as maiores empresas de inteligência artificial chamam de corrida para a superinteligência, quem pede que ela seja freada, quem acha que isso seria um erro e por que a carta ajuda a formular a pergunta certa.
+
+[TELA: O Carro · a corrida pela superinteligência · dados de 22 de novembro de 2026]
+
+[SAÍDA: o espectador pode achar que o tema é ficção científica | o gancho liga a corrida a decisões reais de empresas e governos e promete as duas posições]
+
+Primeiro, o conceito. A ideia de uma máquina mais inteligente que qualquer pessoa não é nova. Em mil novecentos e sessenta e cinco, o matemático britânico Irving John Good escreveu que uma máquina ultrainteligente poderia projetar máquinas ainda melhores, e que a primeira delas seria a última invenção que a humanidade precisaria fazer, desde que fosse dócil o bastante para dizer como mantê-la sob controle. Em dois mil e catorze, o filósofo Nick Bostrom publicou o livro Superinteligência, que popularizou o debate sobre o risco de criar algo que supere o ser humano em quase tudo. Repare na ressalva de Good, escrita sessenta anos atrás: desde que dócil. A discussão de hoje continua sendo sobre essa condição.
+
+[B-ROLL: página amarelada de um artigo científico antigo, com a frase marcada à mão]
+
+[TELA: I. J. Good, 1965 · Nick Bostrom, 2014]
+
+Agora o presente. Segundo um ranking independente de modelos citado pela Visual Capitalist, em novembro de dois mil e vinte e seis a Anthropic lidera, à frente da OpenAI, e a diferença entre as duas é de poucos pontos. O ritmo de lançamentos aumentou: a mesma fonte fala em um modelo de ponta a cada vinte e cinco dias, em média, neste ano. A Meta criou um laboratório de superinteligência e, segundo uma linha do tempo de lançamentos, apresentou seu primeiro modelo de ponta em outubro. A Google DeepMind, a xAI de Elon Musk e a empresa Safe Superintelligence, do cientista Ilya Sutskever, também aparecem entre os competidores. Os valores são enormes: a OpenAI teria sido avaliada em oitocentos e cinquenta e dois bilhões de dólares numa rodada de março de dois mil e vinte e seis, segundo reportagens, e, no vídeo sobre A Torre, vimos que as grandes empresas devem investir centenas de bilhões em infraestrutura neste ano.
+
+[QUEBRA: corte seco para uma pista de corrida vazia, com a linha de largada e um cronômetro zerado]
+
+[SOM: cronômetro, três bipes e o silêncio]
+
+[TEASER]
+
+Mas ninguém, nem as empresas, sabe se essa linha de chegada existe, e muito menos quando. E há quem peça que a corrida seja proibida. Já chego nisso.
+
+Primeiro, o que as empresas dizem. Os líderes dessas empresas afirmam em público que sistemas de nível humano estão cada vez mais perto e que a tecnologia pode trazer avanços em medicina e ciência. Parte deles argumenta também que, se os laboratórios das democracias pararem, outros países não vão parar, e que ceder a liderança seria um risco maior. Esse é o argumento da corrida: quem frear sozinho perde a influência sobre como a tecnologia será usada. Vale notar que isso é o que eles dizem, e que nem sempre há como conferir de fora.
+
+[B-ROLL: mapa do mundo com setas luminosas disputando posições]
+
+Do outro lado, em outubro de dois mil e vinte e cinco, o Instituto Futuro da Vida, uma organização americana, divulgou a Declaração sobre Superinteligência, que pede a proibição do desenvolvimento de superinteligência até haver amplo consenso científico de que ela pode ser feita com segurança e de forma controlável, e forte apoio público. Entre os signatários estão os cientistas Yoshua Bengio e Geoffrey Hinton, o cofundador da Apple Steve Wozniak, a ex-assessora de segurança nacional americana Susan Rice, o empresário Richard Branson e figuras de campos políticos opostos, como o comentarista Steve Bannon. A própria organização afirma que a maioria dos americanos não quer uma corrida pela superinteligência, mas esse número é uma pesquisa e uma afirmação dela, e não uma medição independente. As datas de divulgação variam entre as fontes, e o número de assinaturas continua crescendo.
+
+[TELA: Declaração sobre Superinteligência · Instituto Futuro da Vida · outubro de 2025]
+
+[SAÍDA: trecho com muitos nomes de pessoas e organizações | a imagem de uma lista de assinaturas que rola na tela mostra a diversidade política, e o fio é a pergunta sobre quem pode frear]
+
+E o que já existe de regra? Em vinte e nove de setembro de dois mil e vinte e cinco, o governador da Califórnia, Gavin Newsom, sancionou a lei de transparência para inteligência artificial de ponta, conhecida como SB cinquenta e três. Ela obriga os grandes desenvolvedores a publicar um plano de segurança, que explique como avaliam e reduzem riscos catastróficos, e a revisá-lo todo ano. A lei prevê multas de até um milhão de dólares por violação, proteção para funcionários que denunciam perigos e a comunicação de incidentes de segurança. Ela vale para modelos treinados acima de uma certa potência de cálculo. Os defensores da lei dizem que ela cria um mínimo de transparência sem frear a inovação. Os críticos, de um lado, dizem que um plano publicado pela própria empresa não é um freio de verdade, e, de outro, que qualquer exigência atrasa quem compete com concorrentes de fora. A discussão da União Europeia segue linha parecida, com limites de potência de cálculo, mas os documentos de segurança lá vão a uma autoridade, e não ao público.
+
+[B-ROLL: documento oficial com carimbo, e uma balança de dois pratos, um com a palavra transparência]
+
+[TELA: SB 53 · Califórnia · 29 de setembro de 2025 · multas de até US$ 1 milhão]
+
+Existe ainda uma terceira posição, a dos céticos. Alguns cientistas da computação acham que os sistemas atuais, baseados em modelos de linguagem, não bastam para chegar a uma inteligência geral, e dizem em público que faltam ingredientes que ninguém sabe como criar. Se eles estiverem certos, a corrida pode estar indo na direção errada. Se estiverem errados, o risco é maior do que parece. O fato honesto é que as previsões de especialistas sobre prazos variam muito, de poucos anos a décadas ou nunca, e eu não faço previsão alguma.
+
+[QUEBRA: relógio que mostra três horários diferentes ao mesmo tempo]
+
+Voltemos à carta. O condutor de O Carro, no baralho de mil novecentos e nove, não tem rédeas. Os intérpretes tradicionais leem aí a vitória pela vontade e pela disciplina: duas forças opostas, uma branca e outra preta, puxam na mesma direção, porque o condutor sabe aonde quer chegar. A imagem pode ser lida como uma advertência. Um carro sem rédeas só chega ao destino se a vontade de quem conduz for clara e firme, e, quando as esfinges são muito mais fortes do que o condutor, a vontade pode não bastar.
+
+Eu penso que a discussão sobre a corrida costuma tratar de velocidade, e a pergunta mais útil é sobre direção. Quem decide para onde vai? Que instituição tem o poder de dizer pare? Como saberemos que algo é seguro? Essas perguntas não têm resposta técnica pronta, porque são políticas, e quem as responde decide muito sobre o século. A corrida não vai ser decidida só por engenheiros.
+
+[B-ROLL: um volante sem carro, flutuando sobre uma estrada vazia ao amanhecer]
+
+[SOM: o motor desacelera e termina em silêncio]
+
+No próximo vídeo, uma pergunta que fica entre a tecnologia e a fé: o que acontece quando as pessoas começam a tratar a inteligência artificial como um oráculo.
+
+[TELA: próximo vídeo: Deus em uma máquina, quando a IA vira oráculo]

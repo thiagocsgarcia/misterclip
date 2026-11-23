@@ -1,0 +1,67 @@
+[SOM: uma marcha distante e abafada, que se mistura ao zumbido de máquinas]
+
+[B-ROLL: fotografia em preto e branco de uma fábrica dos anos mil novecentos e trinta, esteiras, engrenagens, nenhuma pessoa identificável]
+
+Em mil novecentos e nove, um poeta italiano publicou um manifesto dizendo que um automóvel de corrida era mais belo do que uma estátua clássica. Esse manifesto fundou o futurismo, e muitos dos seus autores se aproximaram do fascismo de Mussolini. Hoje, a palavra tecnofascismo aparece em debates sobre o poder das empresas de tecnologia. Neste vídeo você vai ver de onde vem a ligação entre máquina e fascismo, o que os historiadores dizem sobre ela, o que o termo explica e o que ele exagera, sem aplicar o rótulo a nenhuma pessoa viva.
+
+[TELA: tecnofascismo · conceito, não acusação]
+
+[SAÍDA: o espectador espera uma acusação contra bilionários | a frase “sem aplicar o rótulo a nenhuma pessoa viva” e a promessa de mostrar os dois lados aparecem já no primeiro minuto]
+
+Comecemos pelo aviso, porque a palavra fascismo é pesada e perde sentido quando é usada como xingamento. Aqui ela será tratada como conceito de história política, com definições de estudiosos, e não como insulto. Isso quer dizer duas coisas. Eu não vou dizer que nenhuma pessoa viva é fascista, nem que nenhuma empresa é, e vou mostrar também o que os críticos do termo dizem. O objetivo é que você saia do vídeo com ferramentas para julgar sozinho, e não com uma conclusão pronta.
+
+[B-ROLL: um dicionário aberto, a palavra fascismo sublinhada a lápis, uma lupa por cima]
+
+O que é fascismo, então? Os estudiosos não concordam sobre uma definição única, e essa discordância já é parte da resposta. O historiador americano Robert Paxton, no livro A Anatomia do Fascismo, de dois mil e quatro, definiu o fascismo como uma forma de comportamento político marcada pela obsessão com a decadência da comunidade, com a humilhação e com a vitimização, e por cultos compensatórios de unidade, de energia e de pureza. Em mil novecentos e noventa e cinco, o escritor italiano Umberto Eco publicou o ensaio Fascismo Eterno, em que listou quatorze traços típicos, e disse que nenhum deles basta sozinho, mas que basta que um se cristalize para o fascismo se formar em volta.
+
+[TELA: Paxton, 2004 · obsessão com decadência, humilhação e vitimização · Eco, 1995 · quatorze traços]
+
+Agora, onde entra a tecnologia? Existe um conceito acadêmico bem estabelecido, e ele não nasceu para falar de hoje. O historiador americano Jeffrey Herf, no livro Modernismo Reacionário, de mil novecentos e oitenta e quatro, mostrou que os nazistas e outros movimentos de direita radical alemães não eram contra a tecnologia: eles a abraçavam, enquanto rejeitavam o iluminismo e a democracia liberal. Em outras palavras, a combinação de máquina com autoritarismo não é uma invenção de comentaristas recentes, e foi um fato histórico. Isso é o que o termo tecnofascismo tem de mais sólido.
+
+[B-ROLL: o manifesto futurista de mil novecentos e nove, em fac-símile, ao lado de um automóvel de corrida da época]
+
+[QUEBRA: corte seco para um quadro negro com a palavra “modernismo reacionário” e a data de 1984 escrita em giz]
+
+[TEASER]
+
+Mas a pergunta de fundo é outra, e ela divide os estudiosos: o que existe hoje se parece com aquilo, ou só usa a mesma estética? Já chego lá, depois de mostrar o primeiro dado histórico que o futurismo de Marinetti nos deixa.
+
+[SOM: um relógio de parede, em contagem lenta]
+
+O poeta se chamava Filippo Tommaso Marinetti, e o Manifesto do Futurismo foi publicado no jornal francês Le Figaro, em mil novecentos e nove. Ele exaltava a velocidade, as máquinas, a juventude e a violência, e dizia querer destruir museus e bibliotecas. Marinetti participou do movimento fascista italiano desde o começo, mas os historiadores lembram que o futurismo nunca foi a arte oficial do regime de Mussolini, e que o fascismo acabou preferindo uma estética de grandeza clássica. O que o caso mostra é que uma estética de tecnologia e de velocidade pode conviver com projetos autoritários, mas não os define.
+
+Esse nome voltou ao debate em outubro de dois mil e vinte e três. O Manifesto Tecno-Otimista, do investidor Marc Andreessen, cita Marinetti entre os que chama de santos padroeiros, e a revista Vice apontou que ele também foi coautor do manifesto fascista de mil novecentos e dezenove. Uma análise de dois mil e vinte e cinco encontrou no texto de Andreessen um trecho muito próximo da sétima máxima do manifesto futurista. É importante o que essa mesma análise não afirma: ela não diz que o autor adote as ideias políticas de Marinetti, e este vídeo também não diz. Citar um nome, e mesmo parte de um texto, não é aderir a um projeto político, e só o autor pode dizer o que quis dizer.
+
+[B-ROLL: gravura de uma multidão em marcha ao lado de uma locomotiva, em tom de fotografia antiga]
+
+[TELA: Marinetti · 1909 · velocidade, máquinas e violência · nunca foi a arte oficial do regime]
+
+Voltemos ao presente. O filósofo da tecnologia Mark Coeckelbergh, da Universidade de Viena, usa o termo tecnofascismo, em artigo de dois mil e vinte e seis na revista AI & Society, para descrever uma forma de autoritarismo que combina a própria tecnologia, o contexto de negócios e um contexto político. Segundo a Al Jazeera, em abril de dois mil e vinte e seis, ele e o economista Yanis Varoufakis usaram a palavra para criticar o manifesto público de uma empresa de dados e defesa. Eu apenas registro que o termo foi usado, e não o endosso para ninguém. O que o conceito de Herf permite fazer é uma pergunta de método: um movimento que usa tecnologia e rejeita a democracia está fazendo o que os modernistas reacionários faziam?
+
+[B-ROLL: uma lupa passando sobre uma lista de palavras, três delas em destaque: vigilância, líder, atalho]
+
+[SAÍDA: trecho teórico | a lupa sobre as três palavras e a pergunta de método mantêm o foco no raciocínio]
+
+Os críticos do termo têm argumentos fortes, e eles precisam de espaço. A historiadora Margaret O'Mara argumentou, em dois mil e vinte e cinco, que a política do setor de tecnologia é antiburocrática demais para ser tecnofascismo, já que o fascismo histórico dependia de instituições do Estado, e propôs o termo tecno-otimismo, a fé de que a tecnologia resolve problemas melhor do que o governo. Em primeiro lugar, fascismo, no sentido histórico, envolve partido único, violência paramilitar organizada, culto do líder e destruição das instituições democráticas, e muitos historiadores dizem que usar a palavra para fenômenos que não têm esses elementos esvazia o conceito. Em segundo, o rótulo costuma encerrar a conversa, porque a pessoa chamada de fascista deixa de ser interlocutora. Em terceiro, a analogia pode distrair do que é novo: o poder das plataformas é de um tipo inédito, e compará-lo a regimes do passado pode impedir que se olhe para ele como ele é.
+
+[TELA: três objeções · o conceito se esvazia · o rótulo encerra a conversa · a analogia distrai do que é novo]
+
+E os defensores do uso da palavra também têm o que dizer. Eles lembram que os historiadores dos anos trinta também viram, em retrospecto, sinais que muitos contemporâneos preferiram ignorar, e que esperar que todos os elementos históricos se repitam para dar um nome é esperar tarde demais. Eles notam que o conceito de Eco foi pensado justamente para identificar traços, e não regimes completos, de modo que um traço isolado pode merecer atenção. Do ponto de vista deles, o risco de calar é maior do que o risco de exagerar.
+
+[B-ROLL: duas pessoas de costas diante de um mapa histórico, apontando para pontos diferentes]
+
+[QUEBRA: tela dividida entre uma balança com um peso “banalizar” de um lado e outro “ignorar” do outro]
+
+Para ajudar você a julgar, deixo uma lista de perguntas que servem para qualquer caso, e que vêm da tradição de Paxton e de Eco. Há um movimento organizado de massas que se apresenta como regeneração de uma comunidade humilhada? Há culto de um líder acima das instituições? Há violência política como método, e não como acidente? Há desprezo declarado por eleições, tribunais e imprensa livre? E há tolerância a tudo isso por parte de elites econômicas? Quanto mais respostas sim, mais o conceito se aplica, e a resposta a cada pergunta precisa de fatos e de fontes, e não de impressão.
+
+[TELA: cinco perguntas · movimento de massas · culto do líder · violência como método · desprezo por eleições, tribunais e imprensa · tolerância das elites]
+
+A minha tese é que o termo tecnofascismo é útil como pergunta de método e perigoso como rótulo. Como pergunta, ele aponta para uma coisa que a história confirma: tecnologia e autoritarismo já caminharam juntos, e a modernidade técnica não vacina ninguém contra a tentação de poder sem freios. Como rótulo, ele atropela os fatos que cada caso exige, e perde a força que a palavra deveria ter quando for necessária. O cuidado com a palavra é um modo de respeitar a história e quem a sofreu.
+
+[SOM: nota longa que se afasta]
+
+[B-ROLL: um livro de história aberto sobre uma mesa, duas mãos virando a página devagar]
+
+No próximo vídeo, um livro de mil novecentos e noventa e oito que muita gente cita para entender poder e que divide opiniões: as quarenta e oito leis do poder, o que ele ensina e o que a crítica diz dele.
+
+[TELA: próximo vídeo: As 48 leis do poder]

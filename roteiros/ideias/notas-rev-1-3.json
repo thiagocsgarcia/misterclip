@@ -1,0 +1,77 @@
+{
+ "1": {
+  "origem": "Escrito pelo Claude com pesquisa. Revisado em 22/11/2026: fatos conferidos em buscas (Reason, Fortune, The Week, CBS/OpenSecrets, POGO, NYT); corrigidos a atribuição sobre o departamento de eficiência (Wired) e a frase final sobre Tolkien; acrescentados o contraponto da Reason e o episódio de Roma. A narração aprovada foi mantida.",
+  "tese": "A pergunta sobre ocultismo é a errada: o que importa é como uma visão de mundo que trata a regulação da tecnologia como sinal do fim dos tempos se encontra com um governo que depende dessa tecnologia.",
+  "fontes": [
+   "Revista Reason, 14/10/2025 (relato de mais de sete horas de gravação das palestras: “surpreendentemente libertárias”)",
+   "The Week, Gizmodo e Newser (a expressão “legionários do Anticristo”; Washington Post revisou gravações)",
+   "Fortune, 2/9/2025 (quatro palestras no Commonwealth Club, a convite do Acts 17 Collective)",
+   "The Guardian, coluna de Adrian Daub (a plateia parecia confusa)",
+   "CBS News e OpenSecrets (cerca de 15 milhões de dólares ao comitê pró-Vance)",
+   "New York Times, via reportagens (Thiel levou Vance a Trump em Mar-a-Lago em 2021)",
+   "Washington Post, via reportagens (ligações de Thiel e outros a Trump pedindo Vance como vice)",
+   "Fortune, 7/12/2024 (rede de Thiel no governo; Kratsios, ex-chefe de gabinete da Thiel Capital)",
+   "Wired, 2025 (pelo menos três pessoas ligadas à Palantir ou a Thiel no recrutamento do DOGE)",
+   "POGO, “ICE Inc.” (Palantir: 81,1 milhões de dólares, alta de 297%)",
+   "Fortune/CTV/NCR, março de 2026 (palestras em Roma; Angelicum e Universidade Católica da América se distanciam)",
+   "TechCrunch, 3/3/2017 (Kratsios foi chefe de gabinete da Thiel Capital)"
+  ],
+  "incertezas": [
+   "A coluna do Guardian (Adrian Daub) foi conferida só por trecho de busca: leia o texto e confirme que “a plateia parecia perplexa” está na coluna.",
+   "A frase sobre o recrutamento do DOGE agora se apoia na Wired (2025): confira o texto original, que fala em “pelo menos três pessoas ligadas à Palantir ou a Thiel”.",
+   "A data do encontro em Mar-a-Lago aparece como fevereiro ou primavera de 2021 conforme a fonte: o roteiro diz só “em dois mil e vinte e um”.",
+   "Valor da POGO (81,1 milhões, primeiro ano): confirmado. Um relatório liderado pela Mijente cita 97 milhões em 2026; atualize se quiser o dado mais novo.",
+   "Roma: não encontrei posição oficial do Vaticano; confira de novo antes de gravar, porque o assunto está em andamento.",
+   "A leitura “libertária” é do jornalista da Reason, e o roteiro a apresenta assim, como interpretação dele.",
+   "Pessoas vivas (Thiel, Trump, Vance): o roteiro só atribui fatos públicos com fonte; mantenha a atribuição se editar."
+  ]
+ },
+ "2": {
+  "origem": "Escrito pelo Claude com pesquisa. Revisado em 22/11/2026: datas de Ficino e Casaubon e a datação do Corpus Hermeticum conferidas; acrescentadas a crítica à tese de Yates, a comparação de Chapel e Horowitz sobre O Caibalion, o Asclépio e uma indicação de leitura.",
+  "tese": "O hermetismo nunca foi um texto fixo, e sim uma conversa que atravessou épocas (Alexandria, Bagdá, Florença, Chicago); cada época pediu ao nome de Hermes o que queria ouvir.",
+  "fontes": [
+   "Corpus Hermeticum (Poimandres, Asclépio), textos gregos do Egito romano, datados em geral entre cerca de 100 e 300 d.C.",
+   "Marsilio Ficino, tradução concluída em abril de 1463 a pedido de Cosimo de Médici (impressa em 1471): Renaissance Quarterly e reportagens de referência",
+   "Isaac Casaubon, 1614, mostra que os textos são tardios",
+   "Sirr al-Khaliqa (atribuído a Balinus/Apolônio de Tiana), fim do século VIII ou IX: mais antiga fonte conhecida da Tábua de Esmeralda",
+   "Frances Yates, Giordano Bruno e a Tradição Hermética, 1964",
+   "Brian Copenhaver (crítica à tese de Yates: o centro de Ficino era neoplatônico e escolástico) e Robert Westman (“The Yates Thesis Reconsidered”, 1977), segundo sínteses acadêmicas",
+   "O Caibalion, Yogi Publication Society, Chicago, 1908 (atribuído a William Walker Atkinson)",
+   "Mitch Horowitz (autoria de Atkinson e Who's Who in America, 1912; mentalismo inspirado nos textos gregos)",
+   "Nicholas Chapel (2013, Journal of the Western Mystery Tradition: O Caibalion é preso ao Novo Pensamento)"
+  ],
+  "incertezas": [
+   "Chapel (2013) e a posição de Copenhaver e de Westman vêm de sínteses e resumos de busca: confira os textos originais antes de atribuir.",
+   "A frase do Asclépio (o ser humano como “grande milagre” em que se misturam o mortal e o divino) é de memória: confirme na tradução que você usar.",
+   "A indicação da tradução de Brian Copenhaver (Cambridge, 1992) é de memória: confirme editora e ano.",
+   "A datação do Sirr al-Khaliqa varia entre as fontes (fim do século VIII ao IX, com proposta de data mais antiga).",
+   "A autoria de Atkinson é a hipótese mais aceita, não é unânime (há quem proponha coautores, como Paul Foster Case e Elias Gewurz)."
+  ]
+ },
+ "3": {
+  "origem": "Escrito pelo Claude com pesquisa. Revisado em 22/11/2026 com os números da temporada de resultados do terceiro trimestre de 2026, o relatório do FMI de outubro de 2026, o estado do acordo Nvidia–OpenAI e os dados de dívida. Números sujeitos a mudança.",
+  "tese": "A Torre não conta a história de um fim, e sim a de uma estrutura que cresceu mais depressa do que o alicerce; nas bolhas do passado o raio destruiu a certeza de que a tecnologia valia qualquer preço, não a tecnologia.",
+  "fontes": [
+   "Resultados do terceiro trimestre de 2026 (21 a 29/10/2026): Meta 135 a 145 bi, Alphabet 195 a 205 bi, Amazon cerca de 220 bi, Microsoft cerca de 170 bi em ano civil (levantamentos e imprensa financeira)",
+   "UBS: investimento de cerca de 102% da receita de nuvem (Amazon, Alphabet, Microsoft)",
+   "Nvidia–OpenAI: carta de intenção de 22/9/2025; Fortune, 2/2/2026 (Jensen Huang: nunca foi compromisso firme)",
+   "Análises de mercado e Fortune (março de 2026) sobre emissão de dívida das grandes empresas; FactSet sobre caixa livre",
+   "Banco da Inglaterra, Comitê de Política Financeira, outubro de 2025",
+   "FMI, Global Financial Stability Report, 13/10/2026 (via reportagens)",
+   "Sam Altman, declarações a jornalistas em agosto de 2025 (CNBC, Fortune)",
+   "Goldman Sachs: ciclo “mais saudável” que as bolhas anteriores",
+   "MIT, relatório de 2025 sobre projetos-piloto de IA (metodologia criticada)",
+   "Agência Internacional de Energia, “Energy and AI” (2025): 415 TWh em 2024 e cerca de 945 TWh em 2030",
+   "Dados históricos do Nasdaq, 2000 a 2002"
+  ],
+  "incertezas": [
+   "Dados coletados em 22/11/2026. O valor da Microsoft (cerca de 170 bilhões) vem de fontes secundárias: confira no relatório da empresa.",
+   "O relatório do FMI foi conferido só por reportagens, não pelo documento: confirme “riscos elevados”, a correção de IA entre os gatilhos e o impacto de cerca de 0,4 ponto percentual no crescimento global.",
+   "Os números de emissão de dívida (cerca de 28 bi por ano, 121 bi em 2025, 159 bi até maio de 2026) vêm de uma análise de mercado: confirme em fonte primária ou corte os números.",
+   "A projeção de caixa livre da FactSet é de meados de 2026 e não inclui os resultados do terceiro trimestre.",
+   "O estado do acordo Nvidia–OpenAI é o de fevereiro de 2026; verifique se algo mudou depois.",
+   "Confirme a queda de cerca de 78% do Nasdaq (março de 2000 a outubro de 2002) e a pesquisa do MIT.",
+   "O vídeo não dá recomendação de investimento: mantenha o aviso."
+  ]
+ }
+}

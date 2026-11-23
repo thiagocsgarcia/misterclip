@@ -1,0 +1,71 @@
+[SOM: passos pesados sobre pedra e um cetro batendo no chão, em eco]
+
+[B-ROLL: a carta do Imperador do tarô, um homem sentado num trono de pedra com cabeças de carneiro, montanhas áridas atrás]
+
+Na carta do Imperador, o homem mais poderoso do baralho está sentado numa cadeira de pedra, e quase ninguém repara de onde veio a pedra. Neste vídeo você vai ver quem manda na inteligência artificial, e a resposta não é uma pessoa nem uma empresa, e sim uma pilha de poderes em que cada camada depende da outra. Quem entende essa pilha entende por que tão poucos têm tanto poder, e por que esse poder é menos firme do que parece.
+
+[TELA: O Imperador · quem manda na inteligência artificial?]
+
+[SAÍDA: o espectador espera um vilão com nome e sobrenome | a promessa de uma pilha de poderes, e não de uma pessoa, deixa claro desde o começo que o vídeo evita teorias de conspiração]
+
+A carta número quatro do tarô, o Imperador, representa autoridade, ordem e estrutura. Nas versões clássicas, ele aparece num trono de pedra, com cabeças de carneiro, símbolo de força, e nas costas uma paisagem seca. A leitura tradicional é de um poder que organiza, que impõe regras e que protege o que construiu. Mas essa imagem também sugere o que o poder do Imperador depende de uma base que não se vê: o trono, a pedra, os que a cortaram. É essa pergunta que vamos fazer à inteligência artificial.
+
+[B-ROLL: o trono do Imperador se transformando camada por camada em uma pilha de blocos rotulados]
+
+[TELA: chips · fábricas · nuvem · modelos · dinheiro · regras]
+
+Vamos de baixo para cima. A primeira camada são os chips. Segundo estimativas citadas em análises de mercado, a Nvidia respondeu por cerca de oitenta e seis por cento das vendas de aceleradores de inteligência artificial em dois mil e vinte e cinco, e outras fontes falam em algo entre oitenta e noventa por cento no começo de dois mil e vinte e seis. Os números variam, mas o ponto é o mesmo: uma empresa domina a peça de que quase todo sistema depende. Na China, o quadro é diferente. Dados divulgados em outubro de dois mil e vinte e seis indicam que a fatia da Nvidia no país caiu para cerca de trinta e quatro por cento, enquanto a Huawei chegou a vinte e oito por cento.
+
+[B-ROLL: uma placa de chip em close, com uma etiqueta “quem fabrica” aparecendo e depois “quem desenha”]
+
+[TELA: Nvidia · cerca de 86% das vendas de aceleradores em 2025 · China: Nvidia 34% e Huawei 28% no primeiro semestre de 2026 · fontes: Bloomberg e IDC, via imprensa]
+
+A segunda camada é a fabricação. Quem desenha um chip nem sempre o fabrica, e os chips mais avançados são feitos principalmente em Taiwan, pela TSMC. E as máquinas que permitem fabricar esses chips, de litografia por ultravioleta extremo, são produzidas por uma única empresa, a ASML, nos Países Baixos. Isso significa que o Imperador da inteligência artificial senta num trono cuja pedra vem de poucos lugares do mundo, alguns deles em zonas de tensão geopolítica, como vimos no vídeo sobre Taiwan.
+
+[QUEBRA: um mapa-múndi escurece e só três pontos se acendem: Taiwan, Países Baixos e Estados Unidos]
+
+[SAÍDA: bloco técnico sobre fábricas e máquinas | o mapa que acende apenas três pontos mostra a ideia em um segundo]
+
+A terceira camada é a nuvem, os grandes centros de dados. Três empresas dominam esse mercado: Amazon, Microsoft e Google. Elas alugam o poder de computação para quase todo mundo, inclusive para os laboratórios que treinam modelos. A quarta camada são os próprios modelos, e aí há mais gente: OpenAI, Google, Anthropic, Meta e várias empresas chinesas. Alguns modelos são abertos e qualquer um pode baixar, o que reduz a concentração. E a quinta camada é o dinheiro. Como vimos no vídeo da Torre, as quatro maiores empresas de tecnologia devem investir algo entre setecentos e vinte e setecentos e quarenta bilhões de dólares em infraestrutura em dois mil e vinte e seis, e poucos países ou fundos têm essa capacidade.
+
+[B-ROLL: pilha de blocos iluminando cada camada enquanto os nomes passam]
+
+[TELA: nuvem: Amazon, Microsoft e Google · modelos: OpenAI, Google, Anthropic, Meta e laboratórios chineses · investimento 2026: de 720 a 740 bilhões de dólares]
+
+Para ver como um gargalo vira poder de verdade, basta olhar o que aconteceu quando ele falhou. Em dois mil e vinte e um, a falta de chips parou linhas de montagem de automóveis no mundo inteiro, e a consultoria AlixPartners estimou que a indústria perdeu cerca de duzentos e dez bilhões de dólares em receita naquele ano. Nenhuma montadora fabricava chips, e todas dependiam deles. Governos aprenderam a lição e passaram a usar a mesma lógica como instrumento. Desde outubro de dois mil e vinte e dois, os Estados Unidos restringem a venda de chips avançados à China, e os Países Baixos limitaram a exportação das máquinas mais sofisticadas da ASML. Em resposta, a China passou a controlar a exportação de materiais como gálio e germânio, usados na fabricação de semicondutores, a partir de agosto de dois mil e vinte e três.
+
+[B-ROLL: uma linha de montagem de carros parada, esteiras vazias e luzes apagadas, depois um mapa com setas de restrição de exportação]
+
+[TELA: 2021 · falta de chips · perda estimada de 210 bilhões de dólares na indústria de automóveis · fonte: AlixPartners]
+
+[SAÍDA: trecho com datas e restrições comerciais | o exemplo da fábrica parada traduz o conceito de gargalo em algo que o espectador consegue imaginar]
+
+[TEASER]
+
+Até aqui falei de empresas, mas ainda falta a camada que pode derrubar todas as outras: as regras. E nela o Imperador não é só um, são vários, e eles discordam. Já chego lá.
+
+[SOM: acorde grave que sobe e se suspende]
+
+Na Europa, a lei de inteligência artificial entrou em vigor em etapas. Em dois mil e vinte e seis, uma nova norma europeia, o chamado Digital Omnibus, adiou para dezembro de dois mil e vinte e sete as obrigações para sistemas de alto risco, porque os padrões técnicos ainda não estavam prontos, segundo escritórios de advocacia que acompanham o tema. Na China, o governo regula a inteligência artificial generativa desde dois mil e vinte e três, com regras de controle de conteúdo. Nos Estados Unidos, o caminho tem sido de menos regras federais e mais estímulo ao setor, com disputas sobre o que cabe aos estados. E o Brasil, como vimos no vídeo anterior, ainda discute o projeto na Câmara.
+
+[B-ROLL: quatro bandeiras diferentes aparecendo ao lado de quatro documentos, cada um com um ritmo diferente de animação]
+
+[TELA: União Europeia · China · Estados Unidos · Brasil: quatro caminhos para a mesma tecnologia]
+
+Há dois lados fortes nessa discussão. O primeiro diz que a concentração é perigosa: poucas empresas decidem o que a tecnologia faz, quem a usa e o preço, e uma falha em uma camada pode afetar todo mundo. Quem pensa assim defende regras mais firmes, transparência e alternativas públicas. O segundo lado responde que a concentração existe por causa do custo gigantesco de construir essa infraestrutura, que a concorrência é real, com modelos abertos e laboratórios na China, e que regras pesadas podem acabar protegendo as empresas que já são grandes, porque só elas conseguem pagar para cumprir. Os dois têm parte da razão.
+
+[QUEBRA: duas balanças lado a lado, uma com “risco da concentração” e outra com “risco da regulação”, as duas em equilíbrio instável]
+
+Voltando ao Imperador. A imagem da carta mostra um trono de pedra, mas a pedra não nasce no palácio. Com a inteligência artificial é igual. Quem desenha o chip precisa de quem o fabrica, quem fabrica precisa de máquinas que só uma empresa faz, o laboratório precisa de nuvem e de dinheiro, e todos precisam de regras que cada país escreve de um jeito. Ninguém controla tudo, e quase ninguém está livre de depender de alguém.
+
+[SAÍDA: comparação entre camadas, longa para quem tem pressa | a volta à imagem da carta amarra tudo em uma cena só]
+
+A minha tese é que quem manda na inteligência artificial é quem controla os gargalos, os pontos onde pouca gente decide e muita gente depende. Hoje esses gargalos estão nos chips, nas fábricas, na nuvem e no dinheiro, e quem entender onde ficam consegue perguntar o que importa: quem pode ser substituído, quem não pode, e o que acontece quando um ponto falha. Esse é um poder real, mas que não se parece com os mapas de conspiração, em que um grupo oculto controla o mundo. É um poder de cadeia, feito de contratos, de fábricas e de leis, e por isso pode ser visto, medido e discutido.
+
+[B-ROLL: o trono do Imperador com uma rachadura de luz entre dois blocos, e a pergunta “quem pode substituir esta pedra?”]
+
+[TELA: gargalo = ponto onde poucos decidem e muitos dependem]
+
+No próximo vídeo, uma pergunta que sempre acompanha as perguntas sobre quem manda: a Maçonaria controla o poder, ou isso é lenda? Vamos separar o que a história confirma do que se conta.
+
+[TELA: próximo vídeo: A Maçonaria e o poder: o que a história confirma]

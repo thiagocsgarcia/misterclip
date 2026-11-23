@@ -1,0 +1,137 @@
+{
+ "30": {
+  "origem": "Escrito pelo Claude com pesquisa",
+  "tese": "A corrente do Diabo é frouxa, mas isso não torna a prisão imaginária: o desenho do feed e a escolha pessoal explicam juntos a atenção capturada; culpar só um lado fracassa.",
+  "fontes": [
+   "Carta XV, Le Diable, tarô de Marselha (Jean Dodal, início do século XVIII) e Rider-Waite-Smith (Pamela Colman Smith, 1909-1910)",
+   "Herbert Simon, 1971: riqueza de informação e pobreza de atenção",
+   "Aza Raskin e a rolagem infinita (2006); NPR, abril de 2026 (depoimento em processo contra a Meta)",
+   "Levantamento da Bain citado pela imprensa em 2025 (≈ 3 h 37 min por dia em redes no Brasil)",
+   "B. F. Skinner e Charles Ferster, Schedules of Reinforcement, 1957; Natasha Dow Schüll, Addiction by Design, 2012",
+   "Alerta do cirurgião-geral dos EUA, maio de 2023; Jonathan Haidt, A Geração Ansiosa (2024); Candice Odgers, Nature (2024)",
+   "Agência Senado: ECA Digital em vigor em 17/3/2026; Austrália: menores de 16 anos, desde dezembro de 2025"
+  ],
+  "incertezas": [
+   "O tempo diário em redes varia muito por fonte (de cerca de 1h45 a 3h37): confira a origem antes de falar o número.",
+   "O alerta de Murthy (maio de 2023), o artigo de Odgers na Nature (2024), o livro de Haidt e a data do veto australiano estão escritos de memória: confirme.",
+   "A leitura de que a corrente frouxa significa prisão voluntária é de comentaristas; a intenção de Smith não é documentada.",
+   "O depoimento de Raskin e a acusação contra a Meta vêm de um resumo da NPR: confirme o teor exato."
+  ]
+ },
+ "31": {
+  "origem": "Escrito pelo Claude com pesquisa (números de 2026 mudam com a bolsa)",
+  "tese": "No Vale do Silício não manda uma pessoa, manda uma cadeia de dependências: cada um é forte numa camada (produto, capacidade, plataforma, capital) e frágil na ao lado.",
+  "fontes": [
+   "Anúncio do Stargate, janeiro de 2025 (OpenAI, SoftBank, Oracle)",
+   "Bloomberg Billionaires Index, perfil de Elon Musk atualizado em 20/11/2026 (≈ 809 bilhões de dólares)",
+   "Reportagens sobre a rodada de 122 bilhões da OpenAI (março de 2026, avaliação ≈ 852 bilhões) e a Microsoft com ≈ 27%",
+   "Wall Street Journal, 2025: contrato de capacidade de ≈ 300 bilhões entre OpenAI e Oracle",
+   "Deadline, janeiro de 2026: Oracle com 15% da nova empresa americana do TikTok",
+   "Data Center Dynamics (processo de detentores de títulos, janeiro de 2026) e CNBC, 19/10/2026 (crédito da Oracle)",
+   "NBC e Al Jazeera, maio de 2026: veredito do júri em Musk contra OpenAI (prazo vencido)"
+  ],
+  "incertezas": [
+   "Valores de avaliação, fortuna e participação vêm de reportagens e agregadores e oscilam: confirme em Bloomberg, filings ou resultados do trimestre.",
+   "A fala de Musk sobre o dinheiro da SoftBank (janeiro de 2025), a participação do Founders Fund na SpaceX e a sociedade de Thiel e Musk no PayPal estão de memória: confirme.",
+   "A fusão xAI-SpaceX (fevereiro de 2026) e a abertura de capital em junho aparecem em fontes que divergem no valor: confirme.",
+   "O desfecho do caso da Paramount com a Warner Bros. Discovery não foi confirmado, então o roteiro não o cita.",
+   "Só fatos públicos, com atribuição: nenhuma intenção é atribuída a ninguém."
+  ]
+ },
+ "32": {
+  "origem": "Escrito pelo Claude com pesquisa (dados de novembro de 2026)",
+  "tese": "A corrida EUA-China não tem linha de chegada com vencedor, tem gargalos (chips de um lado, minerais do outro); cada gargalo dá poder só até o outro achar um desvio.",
+  "fontes": [
+   "Imprensa financeira, 27/1/2025: queda da Nvidia após o DeepSeek R1 (≈ 560 a 593 bilhões)",
+   "Índice de IA de Stanford, 2026, segundo a cobertura: diferença de ≈ 2,7% em março de 2026; investimento privado em 2025 EUA ≈ 286 bi x China ≈ 12 bi; fundos governamentais chineses ≈ 184 bi (2000-2023)",
+   "BIS, regra de janeiro de 2026 (H200 caso a caso); dados da Comissão de Relações Exteriores da Câmara (CNBC, 19/11/2026): 879.868 chips licenciados até maio",
+   "Nvidia (17/11/2026) e Bessent (20/11/2026)",
+   "Bloomberg e reportagens: trégua das terras raras (Busan, outubro de 2025) e prorrogação até 10/1/2027",
+   "Graham Allison, armadilha de Tucídides"
+  ],
+  "incertezas": [
+   "As regras de exportação mudaram várias vezes em 2026: confira a situação na data da gravação.",
+   "O prazo da trégua das terras raras (10/1/2027) vem de reportagens e o texto legal chinês não estava confirmado.",
+   "O número de modelos notáveis variou entre coberturas e foi deixado de fora; a diferença de 2,7% e a razão de 23 para 1 são consistentes entre fontes, mas não li o relatório.",
+   "O custo de treino do DeepSeek é número declarado pela empresa e está tratado com ressalva.",
+   "As posições de Jensen Huang sobre as restrições estão de memória: confirme a citação.",
+   "Nomes de produtos (R1, H200) ficaram em dígitos e a voz pode lê-los de formas diferentes."
+  ]
+ },
+ "33": {
+  "origem": "Escrito pelo Claude com pesquisa",
+  "tese": "O poder do algoritmo é real, mas é delegado: quem escolhe a métrica responde pelo resultado, e os experimentos mostram efeitos que variam com a plataforma, o período e o jeito de medir.",
+  "fontes": [
+   "Neal Mohan, janeiro de 2018: ≈ 70% do tempo no YouTube vem de recomendações (via CNET e Tubefilter)",
+   "Gomez-Uribe e Hunt, 2015 (ACM TMIS): recomendação influencia ≈ 80% das horas na Netflix",
+   "Anúncio de Mark Zuckerberg sobre interações sociais significativas, janeiro de 2018",
+   "Huszár e colegas, PNAS, 2022 (amplificação no Twitter)",
+   "Guess e colegas, Science, 2023, e Nyhan e colegas, Nature, 2023 (estudos de 2020 com a Meta)",
+   "Estudo de 2026 na Nature sobre o feed da rede X (7 semanas; li só o resumo)",
+   "Comissão Europeia, 5/12/2025: multa de 120 milhões de euros à X; investigação sobre recomendação aberta em janeiro de 2026",
+   "Publicação do código do algoritmo de recomendação da X, janeiro de 2026"
+  ],
+  "incertezas": [
+   "O número do YouTube é de 2018 e o da Netflix é de 2015 (influência, não produção): o roteiro avisa, mas atualize se houver dado novo.",
+   "O estudo de 2026 sobre a rede X foi lido só pelo resumo: confirme os detalhes.",
+   "A data exata da publicação do código da X (19 ou 20 de janeiro) e o quanto dele é completo são discutidos.",
+   "O anúncio de Zuckerberg de 2018 está de memória: confirme a data e as palavras.",
+   "Os autores citados e as porcentagens dos estudos da Meta vêm de resumos: confirme."
+  ]
+ },
+ "34": {
+  "origem": "Escrito pelo Claude com pesquisa",
+  "tese": "Os 22 arcanos não têm origem oculta: têm origem de jogo e de desfile e uma vida de reinvenções; o canal os usa como vocabulário de imagens, não como prova de futuro escrito.",
+  "fontes": [
+   "Registro da corte de Ferrara, 1442, e baralhos Visconti-Sforza (meados do século XV), segundo sínteses históricas",
+   "Michael Dummett, The Game of Tarot (1980) e artigo de 1985; Dummett e Decker, A History of the Occult Tarot",
+   "Regras mais antigas detalhadas do jogo, 1637",
+   "Court de Gébelin, O Mundo Primitivo, 1781; Champollion, 1822",
+   "Jean-Baptiste Alliette (Etteilla): referência ao tarô divinatório em 1770 e baralho dos anos 1780",
+   "Baralho Rider-Waite (Pamela Colman Smith), 1909-1910"
+  ],
+  "incertezas": [
+   "O primeiro documento do tarô varia entre fontes (Florença, 1440; Ferrara, 1442): confirme em Dummett.",
+   "O volume VIII de Court de Gébelin e a anedota da mulher que jogava tarô estão de memória.",
+   "A data de 1770 para Etteilla e os indícios de Bolonha por volta de 1750 vêm de discussões de pesquisadores, não de fonte primária.",
+   "A associação entre o poema Trionfi, de Petrarca, e os trunfos é hipótese de estudiosos.",
+   "A popularização do termo arcanos no século XIX e a ligação de Lévi e da Aurora Dourada estão de memória."
+  ]
+ },
+ "35": {
+  "origem": "Escrito pelo Claude com pesquisa",
+  "tese": "O Vale do Silício não é uma seita, mas guarda hábitos de crença (profecia, credo, ritual, herege) que merecem lupa; a metáfora é útil como pergunta e inútil como acusação.",
+  "fontes": [
+   "Wired, 2017, e Axios e TechCrunch, 2021: igreja Way of the Future, de Anthony Levandowski (dissolvida no fim de 2020; cerca de 175 mil dólares doados à NAACP LDF; reabertura em 2023 segundo reportagens)",
+   "Ray Kurzweil, A Singularidade Está Próxima, 2005 (previsão de 2045); Universidade da Singularidade, 2008",
+   "Marc Andreessen, Manifesto Tecno-Otimista, 16/10/2023 (“nós acreditamos” mais de cem vezes, segundo análise republicada pela The Economist)",
+   "David Noble, The Religion of Technology, 1997; Robert Geraci, Apocalyptic AI, 2010"
+  ],
+  "incertezas": [
+   "As teses de Noble e de Geraci estão resumidas de memória: confirme em cada livro.",
+   "O número de ocorrências de “nós acreditamos” vem de uma análise republicada pela The Economist, não de contagem própria.",
+   "O lema do Google (2000) e o do Facebook estão de memória, e o papel de Kurzweil no Google não foi confirmado (não é citado).",
+   "O Burning Man como ritual do setor é observação corrente, não estudo citado.",
+   "A reabertura da igreja em 2023 e o que existe hoje são incertos."
+  ]
+ },
+ "36": {
+  "origem": "Escrito pelo Claude com pesquisa",
+  "tese": "Tecnofascismo é útil como pergunta de método (tecnologia e autoritarismo já caminharam juntos) e perigoso como rótulo; o conceito exige fatos de cada caso e nunca vira acusação a uma pessoa.",
+  "fontes": [
+   "Robert Paxton, A Anatomia do Fascismo, 2004; Umberto Eco, Fascismo Eterno, 1995",
+   "Jeffrey Herf, Modernismo Reacionário, 1984",
+   "Marinetti, Manifesto do Futurismo, Le Figaro, 1909",
+   "Vice, 2023: Marinetti entre os “santos padroeiros” no Manifesto Tecno-Otimista; análise de 2025 sobre o trecho da sétima máxima",
+   "Mark Coeckelbergh, AI & Society, 2026 (definição de tecnofascismo); Al Jazeera, 21/4/2026",
+   "Margaret O'Mara, 2025: política do setor “antiburocrática demais” para ser tecnofascismo"
+  ],
+  "incertezas": [
+   "As definições de Paxton e de Eco e o livro de Herf estão de memória: confirme a formulação exata.",
+   "Que o futurismo nunca foi a arte oficial do regime e que Marinetti participou do movimento fascista desde o começo são pontos de consenso, mas confirme em obra de referência.",
+   "A frase de O'Mara vem de um resumo: confira o texto original.",
+   "O vídeo não aplica o rótulo a nenhuma pessoa viva nem a empresa: mantenha assim se editar.",
+   "Não encontrei uma discussão formal de historiadores do fascismo sobre o termo: o roteiro não afirma que ela exista."
+  ]
+ }
+}

@@ -1,0 +1,12 @@
+# Desenvolvimento local (modo teste, sem GPU):  docker compose up --build  ->  http://localhost:8490
+services:
+  misterclip:
+    build: .
+    ports: ["8490:8490"]
+    environment:
+      MC_MODE: fake
+      MC_DATA: /data
+      MC_FAKE_DELAY: ${MC_FAKE_DELAY:-0}
+    volumes:
+      - ./data:/data
+      - ./web:/app/web:ro   # edição da interface sem rebuild

@@ -1,0 +1,59 @@
+[SOM: teclado digitando depressa, e por baixo um murmúrio de plenário]
+
+[B-ROLL: monitor antigo mostrando um blog de texto corrido, e a imagem se dissolvendo numa sala de reunião com bandeiras]
+
+Um blogueiro de software é citado por um vice-presidente e aparece em manchetes como inspiração de um governo. Quanto disso é fato, e quanto é fantasia? No vídeo sobre Yarvin e Nick Land, você ouviu o argumento dele nas palavras dele. Neste, a pergunta é outra e mais útil: como saber se uma ideia está de fato no poder, ou se é apenas um nome que a internet gosta de repetir? Vamos aprender um método de três provas, e depois aplicá-lo.
+
+[TELA: Curtis Yarvin · do blog ao poder]
+
+[SAÍDA: o espectador espera mais uma discussão sobre se a ideia é boa ou ruim | a promessa de um método para medir influência, aplicável a qualquer pessoa, aparece no primeiro minuto]
+
+Primeiro, uma advertência de método. Quando se fala de um pensador polêmico, há dois erros opostos. O primeiro é minimizar: dizer que é só um blogueiro, que ninguém liga. O segundo é inflar: dizer que ele controla tudo nos bastidores. Os dois erros têm a mesma origem, que é falar da influência sem medi-la. Para medir, proponho três tipos de prova, em ordem do mais fraco ao mais forte.
+
+[B-ROLL: três lupas alinhadas sobre uma mesa, cada uma sobre um documento diferente]
+
+[TELA: prova 1 · citação | prova 2 · pessoas | prova 3 · decisões]
+
+A primeira prova é a citação: alguém com poder diz em público que leu e que concorda. É fácil de verificar e é a mais fraca, porque citar não é obedecer. A segunda é a das pessoas: o pensador, ou gente do círculo dele, ocupa cargos, financia ou aconselha quem decide. É mais forte, mas exige documentos. A terceira é a das decisões: uma medida concreta, com data e texto, que se pode ligar diretamente à ideia e não a outras causas. É a mais forte e a mais difícil, porque decisões políticas quase sempre têm muitas causas ao mesmo tempo.
+
+[QUEBRA: a tela mostra três degraus, e uma figura subindo devagar, parando em cada um]
+
+Vamos aplicar. Na prova das citações, o resultado é consistente. Segundo reportagens, J. D. Vance citou Yarvin em público, e a versão em inglês da Wikipédia, que resume reportagens, afirma que o vice-presidente já o citou como influência. Em janeiro de dois mil e vinte e cinco, Yarvin esteve em uma festa de posse em Washington, e o jornal Politico, segundo essa mesma fonte, o descreveu como um convidado de honra informal. No mesmo mês, deu uma longa entrevista a um grande jornal americano. Como prova de visibilidade, é forte. Como prova de poder, é só o primeiro degrau.
+
+Na prova das pessoas, há um fato antigo e documentado: o dinheiro. Yarvin criou uma plataforma chamada Urbit, desenvolvida pela empresa Tlon, que propõe um sistema em que cada pessoa teria o seu próprio computador na nuvem, sem depender das grandes empresas. Segundo reportagens e a Wikipédia, a empresa recebeu investimento do fundo de Peter Thiel, o Founders Fund, e da firma Andreessen Horowitz, no total de cerca de um milhão e cem mil dólares, e Thiel teria dado cem mil dólares ao cofundador John Burnham em dois mil e onze. Isso mostra uma relação com uma parte influente do Vale do Silício. Mas repare no que não se encontra: não achei registro de que ele ocupe cargo no governo.
+
+[B-ROLL: diagrama simples de uma nuvem central sendo substituída por pequenos computadores pessoais conectados entre si]
+
+[TELA: Urbit · Tlon · investimento citado em reportagens]
+
+[TEASER]
+
+A terceira prova é onde o debate pega fogo. E antes dela, vale conhecer uma ideia de um economista que explica por que Urbit e política têm tudo a ver. Já chego lá.
+
+[SOM: um relógio de pêndulo, um tique de cada vez]
+
+O economista é Albert Hirschman, e o livro, de mil novecentos e setenta, se chama Saída, Voz e Lealdade. A ideia é simples: quando você está insatisfeito com uma organização, há duas reações. Você pode usar a voz, reclamar e tentar mudar por dentro, ou pode usar a saída, ir embora. Um estudo acadêmico de dois mil e vinte e um, de Smith e Burrows, sobre soberania de software e política de saída, analisa o projeto Urbit justamente por essa lente: se não dá para mudar as instituições, constrói-se um sistema paralelo e sai-se. É a mesma ideia dos territórios flutuantes de que falamos no vídeo sobre Peter Thiel. E ela ajuda a entender por que, para essa corrente, a democracia, que é o regime da voz, parece lenta: ela prefere a saída.
+
+[B-ROLL: porta de saída iluminada em um corredor comprido, e do outro lado uma sala de reunião com gente falando]
+
+[TELA: Hirschman · 1970 · saída · voz · lealdade]
+
+Agora a prova das decisões. Aqui há duas leituras, e as duas têm defensores. Alguns veículos escreveram que ações do governo americano em dois mil e vinte e cinco, como a redução radical de pessoal federal, encaixam com o plano que Yarvin descreveu anos antes, e há quem chame isso de fascismo tecnológico. Do outro lado, uma análise da revista The Bulwark argumenta que ele não criou um plano mestre que estivesse sendo executado, e que aproximar coisas parecidas não prova que uma causou a outra. Uma pesquisa acadêmica de dois mil e vinte e seis, por outro lado, o trata como um dos intelectuais mais influentes da direita americana. A conclusão honesta é que a terceira prova ainda não foi feita: há coincidências de vocabulário, mas não achei documento que ligue uma medida específica diretamente a um texto dele.
+
+[SAÍDA: debate sobre interpretações opostas | a imagem de duas colunas de provas, uma cheia e outra vazia, deixa claro o que se sabe e o que falta]
+
+E o que ele diz de si mesmo? Críticos o chamam de fascista tecnológico, e ele rejeita esse rótulo, preferindo termos como monarquista ou jacobita, uma referência histórica aos partidários da dinastia deposta no Reino Unido. Cada um escolhe a palavra que prefere, e o papel de quem informa é dizer quem disse o quê, e com que base, sem tomar um rótulo por fato.
+
+[B-ROLL: colunas de duas cores num quadro, uma preenchida até o alto e a outra vazia]
+
+Antes da tese, um conselho prático para ler qualquer reportagem sobre influência. Desconfie de quatro expressões: controla, por trás das cortinas, plano mestre e ninguém fala disso. Elas prometem uma explicação total, e explicações totais quase nunca resistem às três provas. Já expressões como citou, financiou, nomeou e assinou são pequenas, e é nelas que está a informação. Um bom exercício é pegar uma manchete sobre qualquer pessoa poderosa, riscar os adjetivos e ver quanto resta de verbo com data. Se sobrar pouco, o texto está vendendo uma história, e não informando.
+
+[TELA: controla · por trás das cortinas · plano mestre · ninguém fala disso]
+
+A minha tese é que a influência de uma ideia costuma aparecer primeiro no vocabulário, e só depois, quando aparece, nas decisões. Palavras como Catedral, saída e diretor-executivo entram no debate público muito antes de qualquer lei. Por isso, a pergunta mais útil não é se o Yarvin controla o governo, e sim quais palavras dele passaram a ser normais, e quem as repete. Quando você ouvir alguém dizer que uma pessoa controla o mundo ou que uma pessoa não importa, aplique as três provas: houve citação? Há pessoas e dinheiro ligados? Existe uma decisão com texto e data? Se a resposta for não nas três, desconfie de quem afirma. Se for sim nas três, aí sim vale a conversa.
+
+[B-ROLL: mão riscando três palavras num caderno: citação, pessoas, decisões]
+
+No próximo vídeo, uma pergunta que todo mundo faz e quase ninguém responde com a história na mão: os Illuminati existiram?
+
+[TELA: próximo vídeo: os Illuminati]

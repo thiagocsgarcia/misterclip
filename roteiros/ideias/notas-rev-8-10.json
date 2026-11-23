@@ -1,0 +1,77 @@
+{
+ "8": {
+  "origem": "Revisado pelo Claude: fatos conferidos em busca na web e texto aprofundado",
+  "tese": "A Palantir não inventou a vigilância: vendeu uma forma eficiente de ligar bases de dados que já existiam. O risco está em quem decide o uso e com que controle externo (Bentham e Foucault como lente: quando um software enxerga tudo, quem enxerga o software?).",
+  "fontes": [
+   "Documentos da empresa à comissão de valores mobiliários dos EUA (registro em maio de 2003)",
+   "Resultados da Palantir, fevereiro de 2026 (receita com o governo dos EUA em 2025: 1,855 bilhão de dólares, alta de 55%; receita total: 4,475 bilhões)",
+   "Defense Scoop, 23 de maio de 2025 (Maven Smart System: teto de 480 milhões em 2024, aumento de cerca de 795 milhões, perto de 1,3 bilhão até 2029)",
+   "Reuters, março de 2026 (memorando que torna o Maven programa de longo prazo)",
+   "Exército dos EUA, 31 de julho de 2025 (acordo de até 10 bilhões de dólares em 10 anos, reunindo 75 contratos)",
+   "Reportagens de abril e setembro de 2025 (ICE, ImmigrationOS: cerca de 30 milhões e depois cerca de 60 milhões)",
+   "Anistia Internacional, relatório de agosto de 2025",
+   "Electronic Frontier Foundation, abril de 2026, e carta de resposta da Palantir de 6 de março de 2026",
+   "NHS England, aviso de contratação de novembro de 2023, e imprensa britânica (cerca de 330 milhões de libras)",
+   "Perfis de Alex Karp (doutorado em teoria social, Universidade Goethe, Frankfurt) e resenhas de A República Tecnológica (2025)",
+   "Jeremy Bentham (panóptico, 1791) e Michel Foucault, Vigiar e Punir (1975)"
+  ],
+  "incertezas": [
+   "Valores de contratos são tetos ou estimativas de reportagens, não pagamentos: confirme em fontes primárias antes de gravar.",
+   "O valor do contrato do NHS varia entre a imprensa (cerca de 330 milhões de libras) e o aviso oficial (valor menor): confirme e atualize, e confirme o que o governo decidiu em 2026.",
+   "A origem da ideia no combate à fraude do PayPal foi retirada: não foi confirmada.",
+   "O valor de 2 milhões de dólares da In-Q-Tel varia entre fontes.",
+   "Os detalhes do que Habermas fez no colóquio de Karp são debatidos: o roteiro diz só que ele o frequentou.",
+   "A frase da carta da Palantir ao ICE/Anistia (julho de 2025) não foi usada porque não foi confirmada: use só o que a EFF reproduz da carta de março de 2026.",
+   "Pessoas vivas e empresa: o texto só atribui afirmações a fontes e traz a resposta da empresa; mantenha assim se editar."
+  ]
+ },
+ "9": {
+  "origem": "Revisado pelo Claude: fatos conferidos em busca na web e texto aprofundado",
+  "tese": "O príncipe de hoje não é um homem só, é um sistema que decide o que você vê; lido nas duas metades (O Príncipe e os Discursos), Maquiavel mostra que o poder sem legitimidade é perigoso e frágil.",
+  "fontes": [
+   "Maquiavel, carta a Francesco Vettori de 10 de dezembro de 1513",
+   "Maquiavel, O Príncipe (capítulos 7, 17, 19 e 25), escrito em 1513, impresso em 1532 com permissão do papa Clemente VII",
+   "Maquiavel, Discursos sobre a Primeira Década de Tito Lívio",
+   "Rousseau, Do Contrato Social: “O Príncipe de Maquiavel é o livro dos republicanos”",
+   "National Geographic (a máxima de ser temido descreve o que o governante precisa fazer)",
+   "Depoimento de Frances Haugen ao Senado dos EUA, 5 de outubro de 2021 (NPR, TechCrunch e MIT Technology Review)",
+   "Anúncio de Mark Zuckerberg sobre interações sociais significativas, janeiro de 2018",
+   "Giuliano da Empoli, A Hora dos Predadores (2025), segundo UnHerd",
+   "Transnational Institute, citando perfil da New Yorker sobre Curtis Yarvin",
+   "Richard Christie e Florence Geis, Studies in Machiavellianism (1970), escala Mach-IV",
+   "Lei de Serviços Digitais da União Europeia (2022)"
+  ],
+  "incertezas": [
+   "A frase de Rousseau sobre “ensinar aos povos” é do texto do Contrato Social, livro 3: a busca confirmou só a nota “o livro dos republicanos”; confira a redação na edição que for citar.",
+   "Os capítulos 7, 17, 19 e 25 estão resumidos de memória do texto: confira na tradução escolhida.",
+   "O papel dos detalhes de 1513 (prisão e tortura) segue a biografia padrão: a busca confirmou a tortura e a suspeita de conspiração, mas não o nome do conspirador.",
+   "As falas de Zuckerberg e do perfil da New Yorker vêm de fontes secundárias: confira os originais e as datas.",
+   "Pessoas vivas (Haugen, Zuckerberg, Yarvin, Empoli): só atribuição pública com fonte; a comparação com César Bórgia no capítulo 7 está marcada como opinião do canal."
+  ]
+ },
+ "10": {
+  "origem": "Revisado pelo Claude: fatos conferidos em busca na web e texto aprofundado",
+  "tese": "O Golem não é a primeira inteligência artificial, e sim a primeira grande história sobre o problema de controlar o que criamos: quem responde pelo dano e se o criador sempre terá a letra que desliga.",
+  "fontes": [
+   "Talmude, Sanhedrin 65b (Rava cria um homem; rabino Zeira)",
+   "Eleazar de Worms, Sodei Razayya (receita medieval de golem), e tradição medieval de emet e met",
+   "Gershom Scholem: avaliação do livro de Yudl Rosenberg (1909) como ficção moderna",
+   "Dekel e Gurley, Jewish Quarterly Review 103 (versões de 1841 a 1847; Weisel, em Sippurim, de Wolf Pascheles, como versão quase canônica)",
+   "Registros do Maharal: morte em 17 de setembro de 1609; audiência com Rodolfo II em 23 de fevereiro de 1592",
+   "Shnayer Leiman (análise da tradição ortodoxa sobre o golem do Maharal)",
+   "Gustav Meyrink, O Golem (capítulos em Die Weißen Blätter de dezembro de 1913 a agosto de 1914; livro em 1915)",
+   "Karel Čapek, R.U.R. (1920; estreia amadora em Hradec Králové em 2 de janeiro de 1921; Teatro Nacional em 25 de janeiro de 1921); texto de 1933 sobre Josef Čapek e a palavra robô",
+   "Norbert Wiener, God and Golem, Inc., 1964",
+   "Gershom Scholem, inauguração do computador WEIZAC do Instituto Weizmann, 17 de junho de 1965 (Biblioteca Nacional de Israel e Commentary)",
+   "Goethe, O Aprendiz de Feiticeiro (1797); Isaac Asimov, as três leis da robótica (1942)"
+  ],
+  "incertezas": [
+   "As datas de Goethe (1797) e de Asimov (1942) são de conhecimento geral e não foram conferidas nesta rodada: confirme em obra de referência.",
+   "A frase de Scholem em 1965 vem do relato da Biblioteca Nacional de Israel: confirme a redação no texto original (Commentary, 1966).",
+   "A relação entre R.U.R. e o Golem é só interpretação de comentaristas: o roteiro marca isso, e a busca não achou fala de Čapek sobre o assunto.",
+   "O papel de Leiman foi resumido com cuidado (análise da tradição ortodoxa): confirme a conclusão dele antes de atribuir qualquer posição.",
+   "A data de nascimento do Maharal é incerta (1512 a 1526) e o roteiro diz isso.",
+   "Tema religioso e de libelo de sangue: o texto trata a acusação como falsa e não faz afirmação sobre nenhum grupo; mantenha esse cuidado se editar."
+  ]
+ }
+}

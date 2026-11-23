@@ -1,0 +1,73 @@
+[SOM: zumbido grave de servidores, com um pulso lento por baixo]
+
+[B-ROLL: esfera de vidro escura sobre uma mesa, refletindo linhas de dados que se ligam umas às outras]
+
+Uma empresa escolheu como nome uma pedra que, na ficção, deixava o dono ver tudo e podia ser dominada por outra vontade. Hoje essa empresa, a Palantir, vende software a exércitos, polícias e hospitais, e o presidente-executivo dela é doutor em filosofia pela Universidade de Frankfurt. Neste vídeo você vai ver o que a Palantir faz de verdade, quanto dinheiro público ela recebe, o que dizem os críticos e o que respondem a empresa e os defensores, e por que a pergunta mais importante talvez não seja sobre a pedra, e sim sobre quem fiscaliza quem olha por ela.
+
+[TELA: Palantir · a pedra vidente que virou software]
+
+[SAÍDA: o espectador acha que vai ouvir só acusação | a promessa de mostrar os dois lados e de dar a fonte de cada número aparece no primeiro minuto]
+
+A Palantir foi registrada em maio de dois mil e três, segundo os documentos que a empresa entregou à comissão de valores mobiliários dos Estados Unidos. Entre os fundadores estão Peter Thiel, que já era conhecido como cofundador do PayPal, Stephen Cohen, Joe Lonsdale e Nathan Gettings, um engenheiro do PayPal. Segundo os relatos mais comuns, Thiel financiou um primeiro protótipo, e Alex Karp, que tinha estudado direito em Stanford, entrou como presidente-executivo em dois mil e quatro. Nos primeiros anos, a empresa recebeu dinheiro da In-Q-Tel, o braço de capital de risco da CIA, num valor que as fontes dão como cerca de dois milhões de dólares, com pequenas variações entre elas.
+
+[B-ROLL: gravura de uma esfera de cristal sobre uma torre, e depois um escritório moderno com telas]
+
+[TELA: 2003 · fundação · primeiro investidor externo: In-Q-Tel, o braço de capital de risco da CIA]
+
+Karp é uma figura improvável para o ramo. Segundo perfis publicados na imprensa, ele é doutor em teoria social pela Universidade Goethe, em Frankfurt, onde frequentou o colóquio do filósofo Jürgen Habermas. Em dois mil e vinte e cinco, publicou com Nicholas Zamiska o livro A República Tecnológica, que defende, segundo as resenhas, que o Vale do Silício deveria colocar mais do seu talento a serviço da defesa dos países democráticos. Guarde essa ideia, porque ela é o argumento mais forte dos defensores da empresa.
+
+[QUEBRA: corte seco para a tela escura de um computador, com um único ponto de luz que se divide em dezenas de linhas]
+
+O nome, claro, vem de Tolkien. No Senhor dos Anéis, as palantíri são pedras videntes que permitem enxergar lugares distantes e conversar com quem tem outra pedra. Só que elas podem ser dominadas por uma vontade mais forte, e quem olha por elas acaba sendo visto. Quem escolheu o nome sabia o que a imagem sugere, e a própria escolha já é uma pista de como a empresa se enxerga.
+
+O que o software faz é mais simples do que o mito. A Palantir não costuma recolher dados por conta própria: ela liga bases de dados que já existem e estão separadas, como registros de pessoas, documentos, localizações e transações, para que um analista consiga fazer perguntas ao conjunto inteiro. O produto chamado Gotham foi pensado para governos e forças de segurança, e o Foundry para empresas, como fábricas, bancos e hospitais. A promessa é transformar o caos de informação em decisão, e a pergunta política é quem decide o que entra nessa conta.
+
+[B-ROLL: painel com um mapa, pontos coloridos e linhas ligando documentos a pessoas]
+
+Segundo a própria empresa, boa parte do uso comercial é prosaica, como organizar estoques, linhas de produção e filas de hospitais. Essa face é menos debatida, mas mostra que o mesmo método de ligar dados serve a propósitos muito diferentes, e que a tecnologia, sozinha, não decide o que é certo ou errado: quem decide são as regras e as pessoas que a usam.
+
+[TEASER]
+
+A parte mais debatida ainda não apareceu. É o que aconteceu quando esse software entrou na guerra, na imigração e na saúde pública, e vale a pena ouvir os dois lados com calma, porque no meio dessa história há uma resposta da própria empresa que não costuma ser contada.
+
+[SOM: silêncio de dois segundos e uma nota curta]
+
+Comecemos pelo exército. Em dois mil e dezoito, milhares de funcionários do Google assinaram uma carta contra o projeto Maven, do Pentágono, que usa inteligência artificial para analisar imagens, e o Google decidiu não renovar o contrato. A discussão ficou famosa porque mostrou que a própria indústria de tecnologia estava dividida sobre ajudar os militares. Em dois mil e vinte e quatro, o Pentágono deu à Palantir um contrato de até quatrocentos e oitenta milhões de dólares para o Maven Smart System, e em maio de dois mil e vinte e cinco elevou o teto em cerca de oitocentos milhões, chegando perto de um bilhão e trezentos milhões de dólares até dois mil e vinte e nove, segundo o veículo especializado Defense Scoop. Em março de dois mil e vinte e seis, de acordo com a agência Reuters, um memorando do vice-secretário de Defesa transformou o Maven em programa oficial de longo prazo.
+
+[B-ROLL: mapa de satélite com quadrados de identificação, sem imagem de violência]
+
+[TELA: Maven · teto de 480 milhões de dólares em 2024 · cerca de 1,3 bilhão até 2029 · fonte: Defense Scoop]
+
+Outro número vem do próprio Exército americano, que anunciou em trinta e um de julho de dois mil e vinte e cinco um acordo de até dez bilhões de dólares em dez anos com a Palantir, juntando setenta e cinco contratos em um só. O Exército diz que o objetivo é reduzir custos e burocracia. Vale lembrar que dez bilhões é o teto do acordo, e não uma quantia já comprometida. Os defensores dizem que ferramentas assim aceleram decisões e podem reduzir erros. Os críticos respondem que acelerar a escolha de alvos reduz o tempo de reflexão humana, e é um debate legítimo.
+
+[SAÍDA: bloco de números e contratos | cada valor entra com a fonte na tela, e a frase “é um debate legítimo” devolve o raciocínio ao espectador]
+
+Em dois mil e vinte e cinco, o debate chegou à imigração. Segundo reportagens, em abril a agência americana ICE encomendou à Palantir cerca de trinta milhões de dólares para uma plataforma chamada ImmigrationOS, e o valor teria chegado perto de sessenta milhões depois de uma renovação em setembro. Em um relatório de agosto de dois mil e vinte e cinco, a Anistia Internacional afirmou que a plataforma tem recursos automatizados de monitoramento de fontes abertas que permitem vigilância constante. Em abril de dois mil e vinte e seis, a organização Electronic Frontier Foundation escreveu que o compromisso de direitos humanos da empresa não combina com o trabalho dela para o ICE.
+
+[QUEBRA: duas colunas na tela: “o que dizem os críticos” e “o que responde a empresa”, com a fonte de cada lado]
+
+E a Palantir? Em uma carta de seis de março de dois mil e vinte e seis, em resposta à EFF, a empresa negou ter construído um banco de dados mestre para o ICE e negou ter criado um banco de dados de manifestantes. A EFF respondeu que essas negativas deixam de lado o ponto central, que é o que as ferramentas realmente permitem fazer, e disse que nunca acusou a empresa de montar um banco de dados único. Na leitura da EFF, o desacordo é menos sobre o nome do banco de dados e mais sobre o que as ferramentas permitem fazer e sobre quem as fiscaliza.
+
+Há ainda o dinheiro. Segundo o balanço divulgado pela própria Palantir em fevereiro de dois mil e vinte e seis, a receita com o governo americano foi de um bilhão e oitocentos e cinquenta e cinco milhões de dólares em dois mil e vinte e cinco, alta de cinquenta e cinco por cento sobre o ano anterior, dentro de uma receita total de quatro bilhões e quatrocentos e setenta e cinco milhões. Para comparar, a receita total de dois mil e vinte e quatro foi de cerca de dois bilhões e oitocentos e setenta milhões.
+
+[TELA: receita com o governo dos EUA em 2025: 1,855 bilhão de dólares, alta de 55% · fonte: resultados da Palantir, fevereiro de 2026]
+
+[B-ROLL: edifícios públicos de Washington e de Londres ao entardecer]
+
+No Reino Unido, a empresa lidera desde novembro de dois mil e vinte e três um grupo que construiu a plataforma de dados federados do sistema público de saúde, num contrato que a imprensa britânica situa em cerca de trezentos e trinta milhões de libras. Parlamentares e organizações da sociedade civil fizeram críticas ao processo de contratação e ao acesso aos dados de saúde, e uma comissão parlamentar pediu ao governo que considerasse romper o contrato. As reportagens divergem sobre o que o governo vai decidir, e o desfecho precisa ser acompanhado.
+
+[SOM: nota longa e grave]
+
+Então como pensar nisso? Os defensores dizem que democracias precisam de boas ferramentas de defesa e de dados, e que é melhor que elas existam sob regras e fiscalização do que fora delas. Os críticos dizem que concentrar tanta capacidade de ligar informações numa empresa privada cria uma infraestrutura de vigilância sem debate público. As duas preocupações podem ser reais ao mesmo tempo, e duas perguntas ajudam a avaliar qualquer contrato desse tipo. A primeira é o que a lei autoriza que seja ligado: dados de saúde com dados de polícia, por exemplo, exigem limites claros. A segunda é quem pode auditar o uso, de fora da empresa e de fora do órgão que contrata, e tornar o resultado público.
+
+A minha tese é que a Palantir não inventou a vigilância: ela vendeu uma forma eficiente de ligar bases de dados que já existiam. O risco, então, não está só na tecnologia, e sim na decisão de quem a usa e com que controle. Em mil setecentos e noventa e um, o filósofo inglês Jeremy Bentham publicou o projeto do panóptico, uma prisão em que o vigia pode ver todos sem ser visto. Em mil novecentos e setenta e cinco, Michel Foucault, no livro Vigiar e Punir, usou essa imagem para explicar como o poder funciona quando as pessoas não sabem se estão sendo observadas. É por isso que a pergunta das pedras de Tolkien continua valendo: quando um software enxerga tudo, quem enxerga o software?
+
+[B-ROLL: gravura do panóptico de Bentham, com a torre central e as celas em volta]
+
+[TELA: Bentham, 1791 · Foucault, Vigiar e Punir, 1975]
+
+[SAÍDA: cenas políticas com muitos nomes | o fecho volta à pedra do começo e à pergunta de quem fiscaliza quem olha]
+
+No próximo vídeo, vamos para uma voz do século dezesseis que muita gente das grandes empresas de tecnologia cita sem ter lido: Maquiavel, e a pergunta se o príncipe de hoje é um algoritmo.
+
+[TELA: próximo vídeo: Maquiavel e os algoritmos]

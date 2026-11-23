@@ -1,0 +1,80 @@
+{
+ "4": {
+  "origem": "Escrito pelo Claude com pesquisa",
+  "tese": "A briga sobre o nome (novo sistema ou capitalismo concentrado) importa menos do que o que ela mostra: depender de um dono de território que cobra aluguel e muda as regras sozinho é uma relação de poder, e cada pessoa pode testar isso perguntando se poderia sair de um serviço sem perder o que construiu nele.",
+  "fontes": [
+   "Yanis Varoufakis, Tecnofeudalismo: o que matou o capitalismo (2023)",
+   "Jacobin (2023), crítica “We're still living under capitalism, not techno-feudalism”",
+   "Foreign Policy (junho de 2024), “Are we really toiling in Amazon's fields?”",
+   "Jacobin (agosto de 2026), “The Marxist Case for the Technofeudal Hypothesis”",
+   "Synergy Research Group (TechInsights), participação de AWS, Microsoft e Google na nuvem em 2026",
+   "Lei dos Mercados Digitais da União Europeia e a abertura de caminhos fora da loja da Apple"
+  ],
+  "incertezas": [
+   "A participação de mercado da nuvem varia por trimestre e por pesquisadora (a Synergy mostrou de 61% a 67% em 2026): atualize o número antes de gravar.",
+   "A comissão histórica de até 30% de Apple e Google em compras dentro de aplicativos é conhecimento corrente, mas não foi checada em fonte primária nesta rodada.",
+   "Não li o livro de Varoufakis: as ideias vêm de resenhas e críticas; confira os termos “capital na nuvem”, “vassalos” e “servos” na edição brasileira.",
+   "A resposta de Varoufakis às críticas (idealização do capitalismo do passado) vem de um resumo secundário.",
+   "Só o título do artigo da Jacobin de agosto de 2026 foi confirmado."
+  ]
+ },
+ "5": {
+  "origem": "Escrito pelo Claude com pesquisa",
+  "tese": "A alquimia não era nem uma ciência fracassada nem uma religião disfarçada: era uma prática única de laboratório, medicina e filosofia, cujo traço comum era a transformação (da matéria, do corpo e da pessoa). O ouro era o símbolo mais fácil de vender, e por isso virou a lenda.",
+  "fontes": [
+   "Zósimo de Panópolis, c. 300 d.C. (primeiros livros de alquimia conhecidos)",
+   "Enciclopédia Britânica (alquimia árabe, Jabir ibn Hayyan, al-iksir)",
+   "Paracelso (alquimia a serviço da medicina)",
+   "Isaac Newton: manuscritos alquímicos; John Maynard Keynes, “Newton, the Man”, sobre o último dos magos",
+   "William Newman e Lawrence Principe (chymistry)",
+   "Carl Jung, Psicologia e Alquimia (1944)",
+   "Geoffrey Chaucer, Conto do Criado do Cônego (século XIV)",
+   "Rutherford (1919) e Seaborg (1980): transmutação nuclear"
+  ],
+  "incertezas": [
+   "Não foram confirmadas nesta rodada: a data de 1944 de Psicologia e Alquimia, a frase de Keynes sobre Newton (e o leilão dos papéis), a 'quimia' de Newman e Principe, o conto de Chaucer e os feitos de Rutherford (1919) e Seaborg (1980). Confira em obras de referência antes de gravar.",
+   "As etapas de cor (negro, branco, vermelho) aparecem em muitos textos europeus, não em todos: o roteiro diz “muitos”.",
+   "Há pouca evidência de que a arte venha do Egito dos faraós: o roteiro diz isso e atribui a Zósimo a afirmação.",
+   "A identidade de Jabir ibn Hayyan é discutida: o roteiro o trata como figura quase lendária e como nome usado por vários autores."
+  ]
+ },
+ "6": {
+  "origem": "Escrito pelo Claude com pesquisa (relatos de imprensa e de um autor)",
+  "tese": "O bunker é menos um plano do que uma ideia: a de que dá para se separar do destino comum. A proteção que mais funciona na história é coletiva (abrigo público, defesa civil, comunidade), e a pergunta sobre manter a segurança depois do fim mostra um plano que depende de uma confiança que ele diz não existir.",
+  "fontes": [
+   "Douglas Rushkoff, Survival of the Richest (2022)",
+   "The Conversation (resenha: bunker como metáfora de um modo de vida desconectado)",
+   "Survival Condo (Kansas): Larry Hall, silo de mísseis comprado em 2008 por 300 mil dólares; KCUR (2017); Gulf News/NYT; Newsweek (2026)",
+   "Reportagens sobre Vivos e Rising S",
+   "Rebecca Solnit, Um Paraíso Construído no Inferno (2009)",
+   "Defesa civil suíça: abrigos para toda a população"
+  ],
+  "incertezas": [
+   "A cena do resort, os cinco homens, as perguntas sobre Nova Zelândia ou Alasca e o “Evento” vêm do relato do próprio Rushkoff: confira no livro os detalhes (sala de espera, perguntas).",
+   "A frase sobre Peter Thiel e o passaporte neozelandês é atribuída a Rushkoff: pessoa viva, mantenha a atribuição e o tom neutro.",
+   "Os valores do Survival Condo vêm de reportagens de datas diferentes (2012 a 2026); a Newsweek de 2026 não trouxe números de mercado, e o roteiro avisa isso.",
+   "A lei suíça de abrigos para toda a população não foi checada nesta rodada.",
+   "O que a Mentalidade (the Mindset) inclui, e a leitura de Solnit sobre cooperação em desastres, devem ser conferidos nos livros.",
+   "O roteiro não faz acusação nem julgamento de nenhuma pessoa viva: preparar-se é tratado como decisão pessoal e legal."
+  ]
+ },
+ "7": {
+  "origem": "Escrito pelo Claude com pesquisa",
+  "tese": "A Cabala é uma conversa de séculos entre texto, oração e imaginação, e entender a árvore exige separar a mística judaica, a Cabala cristã e a Qabalah hermética; a pergunta original (como o infinito vira mundo) e a resposta de Luria (o mundo está quebrado e cada ato pode repará-lo) merecem ser ouvidas sem mistura.",
+  "fontes": [
+   "Enciclopédia Britânica (Sefer Yetzirah, séculos 3 a 6)",
+   "World History Encyclopedia e outras fontes (Zohar, Espanha, 1270 a 1330)",
+   "Gershom Scholem (influência de Isaac Luria só superada pelo Zohar; atribuição a Moisés de León)",
+   "Westcott (tradução do Sefer Yetzirah, 1887) e a Ordem Hermética da Aurora Dourada",
+   "Eliphas Lévi e Papus (letras hebraicas e tarô)",
+   "Pico della Mirandola, Novecentas Teses (1486)"
+  ],
+  "incertezas": [
+   "Não foram confirmados nesta rodada: a autoria de Moisés de León (atribuição de Scholem), os detalhes de Luria (contração do Infinito, quebra dos vasos, tikkun olam) e a data de 1486 de Pico. Confira antes de gravar.",
+   "A datação do Sefer Yetzirah é muito discutida (há quem proponha desde o século II a.C. até o século VII): o roteiro cita a Britannica e avisa que há debate.",
+   "A frase sobre a tradição de estudar a Cabala só depois de maduro e versado na Torá é uma tradição frequente, não uma regra única: confira com fonte.",
+   "A parte sobre como judeus estudiosos e ocultistas veem a Qabalah hermética é uma generalização respeitosa: se quiser citar alguém, acrescente a fonte.",
+   "Por tratar de religião, o roteiro evita estereótipos: mantenha esse cuidado ao editar."
+  ]
+ }
+}

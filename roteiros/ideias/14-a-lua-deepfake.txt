@@ -1,0 +1,65 @@
+[SOM: uivo distante de um cão e, depois, o de um lobo]
+
+[B-ROLL: a carta da Lua do tarô: duas torres, um caminho, um cão e um lobo uivando, um lagostim saindo da água sob uma lua com rosto]
+
+Na carta da Lua, um cão e um lobo uivam para um céu cuja luz é apenas reflexo. Entre eles, um caminho segue em direção a duas torres, e, no escuro, tudo parece o que não é. Hoje, essa imagem ganhou um sentido literal: vídeos, vozes e fotos podem ser fabricados com inteligência artificial, e a eleição de dois mil e vinte e seis foi a primeira no Brasil sob regras específicas para isso. Neste vídeo você vai ver o que as regras dizem, o que aconteceu em outras eleições, e por que o perigo maior talvez não seja a mentira que parece verdade, e sim a verdade que ninguém mais acredita.
+
+[TELA: A Lua · deepfake e eleições]
+
+[SAÍDA: o espectador espera um vídeo alarmista sobre fake news | o gancho promete olhar também o caso contrário, a verdade que ninguém acredita, e a carta do tarô dá um primeiro ponto de curiosidade visual]
+
+Vamos à carta. A Lua é o arcano dezoito. Na imagem clássica, a lua ilumina um caminho entre duas torres, um cão e um lobo uivam, e do fundo de uma poça surge um lagostim. Os intérpretes tradicionais leem ali o território da ilusão e da incerteza: é a hora em que as sombras enganam, e em que os medos ocupam o lugar dos fatos. Há um detalhe bonito: a lua não tem luz própria, e o que a gente vê dela é um reflexo. Guarde essa imagem, porque ela vai voltar.
+
+[B-ROLL: lua cheia atrás de nuvens, o reflexo trêmulo em uma poça de água]
+
+Agora, os fatos. Um deepfake é um conteúdo criado ou alterado por inteligência artificial para parecer real: o rosto, a voz ou o gesto de uma pessoa que nunca disse ou fez aquilo. Em janeiro de dois mil e vinte e quatro, dias antes das primárias de New Hampshire, nos Estados Unidos, eleitores receberam ligações automáticas com uma voz que imitava o presidente Joe Biden e os orientava a não votar. A autoridade de telecomunicações dos Estados Unidos, a FCC, decidiu em oito de fevereiro de dois mil e vinte e quatro, por unanimidade, que vozes geradas por inteligência artificial em ligações automáticas são ilegais. Uma empresa de telecomunicações que transmitiu as ligações foi depois condenada a pagar um milhão de dólares à FCC, segundo a imprensa americana.
+
+[TELA: janeiro de 2024 · voz falsa de Biden · FCC decide que é ilegal]
+
+[QUEBRA: a tela escurece e uma onda sonora de voz se separa em duas, uma azul e outra vermelha, sem dizer qual é a verdadeira]
+
+[SAÍDA: trecho de caso e norma estrangeira | a pergunta “e no Brasil?” entra logo depois para trazer o espectador de volta]
+
+E no Brasil? O Tribunal Superior Eleitoral aprovou, para as eleições de dois mil e vinte e seis, regras sobre o uso de inteligência artificial na propaganda. Conteúdo criado ou alterado por inteligência artificial precisa trazer um aviso claro, e as regras vedam a recomendação de candidatos por sistemas de inteligência artificial. Entre setenta e duas horas antes e vinte e quatro horas depois da votação, a publicação de conteúdo sintético com imagem ou voz de candidatos é vedada, mesmo com aviso. As multas ficam entre cinco mil e trinta mil reais, com possível remoção imediata do conteúdo e, em casos graves, cassação.
+
+[B-ROLL: urna eletrônica e uma tela de celular com o rótulo “conteúdo gerado por IA”]
+
+[TEASER]
+
+Mas as regras tiveram um teste difícil em setembro. E o caso mostra um problema que as leis ainda não resolvem.
+
+[SOM: um relógio de parede, três batidas]
+
+Em primeiro de setembro de dois mil e vinte e seis, o Tribunal Superior Eleitoral fixou uma tese sobre o que conta como deepfake. A discussão nasceu de um vídeo feito com inteligência artificial do ex-presidente Jair Bolsonaro, exibido na convenção do PL, e o tribunal rejeitou a multa contra Flávio Bolsonaro. Por maioria, a corte decidiu que a proibição de deepfake só vale quando o conteúdo é usado como propaganda eleitoral. Os veículos divergem sobre o placar, entre quatro a três e cinco a dois, então vale conferir a decisão no site do tribunal.
+
+[TELA: 1 de setembro de 2026 · tese do TSE sobre deepfake]
+
+Quem concorda com a decisão argumenta que a proibição precisa ter limite claro, para não alcançar homenagens, sátiras ou usos que ninguém confundiria com um fato. Quem discorda teme que um conceito mais estreito deixe passar conteúdos enganosos, e aponta uma lacuna já notada por veículos de imprensa: um documento falso feito por inteligência artificial, que não reproduz o rosto nem a voz de ninguém, não se enquadra no conceito literal de deepfake. As duas preocupações são legítimas, e é por isso que a regra é um trabalho em andamento.
+
+[B-ROLL: balança de papel com dois pesos, um escrito “liberdade de expressão” e outro “proteção do eleitor”]
+
+[SAÍDA: trecho jurídico denso | a balança com dois pesos e a frase “as duas preocupações são legítimas” simplificam o conflito para quem não é do direito]
+
+Agora, o ponto que eu considero o mais importante. Em dois mil e dezoito, os professores de direito Robert Chesney e Danielle Citron, em um artigo na California Law Review, descreveram o chamado dividendo do mentiroso. A ideia é simples: quando a sociedade já sabe que vídeos e áudios podem ser fabricados, quem é flagrado em algo verdadeiro ganha uma desculpa nova, a de dizer que aquilo é um deepfake. A prova real passa a valer menos, e quem mente, mais. A Lua de novo: não basta temer a luz falsa, é preciso temer que ninguém mais acredite na luz verdadeira.
+
+[QUEBRA: um vídeo comum se divide em duas metades idênticas, e uma legenda pergunta: “qual é a verdadeira?”]
+
+Há, porém, um cuidado a tomar com essa tese. Pesquisas sobre o assunto não chegam a uma resposta única. Um estudo citado pela Brookings Institution encontrou, na maioria dos casos, nenhuma evidência de dividendo do mentiroso quando o escândalo era mostrado em vídeo, mas um efeito maior quando o escândalo vinha em texto. Outro estudo, citado em várias fontes, concluiu que o efeito cresce conforme as pessoas se familiarizam com os deepfakes. Ou seja, a ciência ainda não fechou essa conta, e quem afirma que o fim do ver para crer já chegou está dizendo mais do que os dados mostram.
+
+[B-ROLL: gráfico simples com duas barras, uma menor e outra maior, sem eixos conclusivos, e a palavra “ainda em estudo”]
+
+Uma saída em estudo é registrar a origem do conteúdo no momento em que ele é criado. Um padrão chamado C dois P A, desenvolvido por empresas como Adobe e Microsoft, permite anexar a um arquivo um histórico verificável de quem o criou e de como foi editado. Isso não resolve tudo, porque quem não usa o padrão fica sem selo, mas muda a pergunta de “isso é falso?” para “de onde isso vem?”, que é uma pergunta mais fácil de responder.
+
+[TELA: origem verificável do arquivo · padrão C2PA]
+
+O que fazer, então, na prática? Existem hábitos simples, que ajudam sem exigir ferramenta nenhuma. Primeiro, desconfiar da pressa: o conteúdo feito para enganar costuma pedir que você compartilhe antes de pensar. Segundo, procurar a origem: de que canal veio, quando foi publicado, se algum veículo sério confirmou. Terceiro, esperar: quase sempre, em poucas horas, jornalistas e checadores já apontaram o que é verdadeiro. E quarto, lembrar que a dúvida é uma ferramenta, mas a dúvida sem fim também é um problema: quem passa a duvidar de tudo acaba tão enganado quanto quem acredita em tudo.
+
+[TELA: pare · procure a origem · espere · duvide com método]
+
+A minha tese é que a carta da Lua não conta apenas o perigo da ilusão: ela conta o perigo de perder a confiança no que é real. O tempo em que ver bastava para crer talvez esteja acabando, e o que o substitui não é a desconfiança total, e sim o hábito de confirmar. Isso exige trabalho, mas é o trabalho que cada eleitor consegue fazer, e que nenhuma regra faz por ele. E, como a lua, o que parece luz própria, às vezes, é só reflexo.
+
+[B-ROLL: um dedo parando sobre o botão de compartilhar de uma tela de celular, e a tela escurecendo]
+
+No próximo vídeo, uma pergunta parecida, mas sobre território: o Brasil será um quintal de centros de dados de empresas estrangeiras, ou conseguirá ter soberania sobre a própria tecnologia?
+
+[TELA: próximo vídeo: soberania digital e o Brasil]

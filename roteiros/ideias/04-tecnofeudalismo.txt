@@ -1,0 +1,73 @@
+[SOM: zumbido grave de servidores, como uma colmeia]
+
+[B-ROLL: tela de celular com uma loja de aplicativos, vitrine cheia de ícones, o dedo rolando devagar]
+
+Quando você abre um aplicativo de compras, quem decide o que aparece primeiro na tela não é a loja, e sim a plataforma. Um economista grego diz que isso muda tudo, e outros economistas dizem que ele está errado. Neste vídeo você vai ouvir os dois lados, conferir os números mais recentes e ficar com uma pergunta que ninguém consegue responder com certeza: quem, hoje, manda no mercado?
+
+[TELA: Tecnofeudalismo: servos da nuvem?]
+
+[SAÍDA: o espectador espera uma tese pronta, de um lado só | a promessa de ouvir os dois lados aparece já no primeiro minuto, e a pergunta fica em aberto até o fim]
+
+O economista é Yanis Varoufakis, ex-ministro das Finanças da Grécia, que publicou em dois mil e vinte e três o livro Tecnofeudalismo: o que matou o capitalismo. A tese é forte: o capitalismo teria sido substituído por outro sistema. No capitalismo, o motor é o lucro, que vem de competir num mercado. No tecnofeudalismo, segundo ele, o motor é a renda, que vem de cobrar pelo acesso a um território que você controla, como o senhor feudal cobrava dos camponeses.
+
+[B-ROLL: gravura medieval de um castelo e de camponeses trabalhando a terra ao redor]
+
+[TELA: lucro (competir) × renda (cobrar o acesso)]
+
+Vale lembrar o que era o feudalismo. Na Europa medieval, um senhor entregava um pedaço de terra, o feudo, a um vassalo em troca de lealdade e serviço, e os camponeses que viviam ali trabalhavam e pagavam ao dono do território. Ninguém ali precisava competir com o vizinho por clientes: o dono da terra cobrava, e quem queria viver naquele lugar pagava. É essa lógica de território e renda que Varoufakis vê voltando, agora em versão digital.
+
+Para ele, o território é o que chama de capital na nuvem: plataformas, aplicativos e serviços digitais que não vendem só produtos, e sim o espaço onde a compra e a venda acontecem. Os vassalos, nessa leitura, são as empresas que dependem dessas plataformas para vender e que pagam taxas e aceitam regras. E os servos da nuvem somos nós, que produzimos de graça os dados, as postagens e as buscas que alimentam o sistema.
+
+Segundo o livro, duas coisas aceleraram isso. A primeira foi a privatização da internet, que deixou a infraestrutura nas mãos de empresas. A segunda foi a política de dinheiro barato dos bancos centrais depois da crise de dois mil e oito, que, na leitura dele, financiou o crescimento dessas empresas em vez de investimentos que gerassem empregos e produtos.
+
+[QUEBRA: corte seco para uma vitrine de loja de rua apagando, enquanto a tela do celular acende]
+
+Os números ajudam a entender por que a ideia chamou atenção. Segundo a Synergy Research, hoje parte da TechInsights, no terceiro trimestre de dois mil e vinte e seis o mundo gastou cerca de cento e sessenta e oito bilhões de dólares em serviços de infraestrutura de nuvem, um aumento de cinquenta e cinco por cento em um ano. Desse total, a Amazon ficou com vinte e seis por cento, a Microsoft com dezenove e o Google com dezesseis. Somadas, as três têm cerca de sessenta e um por cento, uma conta que é minha, a partir das três fatias. Isso significa que boa parte da internet que usamos roda em terrenos de três donos.
+
+[TELA: nuvem · 3º trimestre de 2026 · Amazon 26% + Microsoft 19% + Google 16% ≈ 61% · fonte: Synergy Research (TechInsights)]
+
+[B-ROLL: gráfico de barras com três blocos grandes e vários blocos pequenos]
+
+Há um detalhe que os defensores da tese costumam não destacar. No mesmo trimestre de dois mil e vinte e cinco, a soma das três era de sessenta e três por cento, ou seja, caiu um pouco, e a própria pesquisa registra que empresas novas, as chamadas neonuvens, ganham espaço. O território ainda é de poucos donos, mas não está parado.
+
+Há ainda a questão da vitrine. Em um mercado clássico, o comprador compara lojas e preços por conta própria. Numa plataforma, a vitrine é montada para cada pessoa por um algoritmo, e é a plataforma que decide o que você vê, em que ordem e a que custo para quem vende. É por isso que Varoufakis diz que o mercado virou uma espécie de vitrine privada, com um dono.
+
+Pense num exemplo do dia a dia. Um pequeno vendedor que usa o mesmo aplicativo para vender todos os dias depende de regras que ele não escreveu: se a plataforma muda a taxa ou muda o jeito de ordenar os resultados, o negócio dele pode mudar de um dia para o outro, sem que ele tenha a quem recorrer. Na linguagem do livro, ele é um vassalo, que mantém a terra enquanto o senhor deixa.
+
+E o servo? Quando você escreve uma avaliação, publica um vídeo ou faz uma busca, produz algo que a plataforma usa para atrair mais gente e vender anúncios, e você, na maior parte dos casos, não recebe por isso. Existem criadores que ganham com programas de receita, e a leitura de Varoufakis não nega isso, mas ele lembra que a maioria dos usuários trabalha de graça, sem nem notar que é trabalho.
+
+[SAÍDA: trecho de exemplos que parece repetir o anterior | a ideia do vassalo e a do servo ganham rosto, e a pergunta “e o servo?” puxa a atenção]
+
+[TEASER]
+
+A parte mais interessante vem agora. Os críticos de Varoufakis não negam esses números: eles discordam da conclusão. E dois acontecimentos recentes, mexendo justamente no aluguel das lojas de aplicativos, são usados pelos dois lados do debate, cada um a seu favor.
+
+[SOM: pausa de dois segundos e uma nota baixa]
+
+Uma crítica publicada na revista Jacobin, em outubro de dois mil e vinte e três, argumenta que o livro enxerga bem a ascensão do capital na nuvem, mas erra ao dizer que isso inaugura um sistema novo. Para esse crítico, as plataformas continuam acumulando capital, contratando trabalhadores e disputando lucro, e portanto continuam dentro do capitalismo, só que numa forma mais concentrada. Uma resenha na Foreign Policy, em junho de dois mil e vinte e quatro, sustenta que a crítica ao tecnofeudalismo perde o fio da meada. E um artigo de Nicholas Gane, no Journal of Classical Sociology, em dois mil e vinte e cinco, argumenta que o capitalismo não foi substituído por um feudalismo de volta, e sim ganhou formas novas, cada vez mais fora do alcance dos Estados.
+
+[B-ROLL: dois pesos numa balança, um com o rótulo “novo sistema” e outro com o rótulo “capitalismo concentrado”]
+
+Agora, os dois acontecimentos. O primeiro está na Europa: desde dois mil e vinte e quatro, a Lei dos Mercados Digitais obrigou a Apple a permitir lojas de aplicativos alternativas no continente. O segundo está nos Estados Unidos: em março de dois mil e vinte e seis, o Google fechou um acordo com a Epic Games, a empresa do jogo Fortnite, e passou a reduzir a taxa da sua loja. Segundo reportagens, as novas faixas ficam entre dez e vinte e cinco por cento, dependendo do tipo de compra, e entram em vigor em etapas, com o mundo todo até setembro de dois mil e vinte e sete. A Apple, por sua vez, mantém a taxa padrão de trinta por cento, e de quinze por cento para quem fatura até um milhão de dólares por ano, segundo a própria empresa, e a disputa judicial com a Epic continua.
+
+[TELA: taxa padrão da Apple: 30% · pequenos desenvolvedores: 15% · Google, após o acordo de 2026: de 10% a 25% (segundo reportagens)]
+
+[QUEBRA: a imagem de um portão de castelo se abrindo uma fresta, e depois travando de novo]
+
+Quem duvida do tecnofeudalismo diz que esses fatos mostram que o território não é tão fechado quanto o de um feudo: leis e processos conseguem mexer no aluguel. Quem defende a tese responde que mexeram na taxa, não no fato de que quase todo desenvolvedor precisa estar nas duas lojas, e que quem baixou o aluguel foram a lei e a Justiça, e não a concorrência, o que mostraria que o mercado sozinho não corrige o poder do dono. Os dois argumentos têm base nos fatos, e cada um enxerga um lado da mesma porta.
+
+[SAÍDA: debate com muitos rótulos e datas | a imagem do portão que abre uma fresta e trava de novo resume os dois argumentos sem precisar de jargão]
+
+Como Varoufakis responde? Em entrevista à Jacobin, em dois mil e vinte e quatro, ele afirmou que dá para continuar chamando isso de capitalismo se a pessoa redefinir o capitalismo, mas que o sistema já não é o capitalismo como o conhecemos. E no artigo que ele próprio publicou na Jacobin em agosto de dois mil e vinte e seis, com o título O caso marxista para a hipótese tecnofeudal, insiste em dois pontos: que a tese não diz que a história andou para trás, e que a renda não é novidade no capitalismo, e o novo seria um tipo de capital, o da nuvem, que gera renda sem produzir mercadorias. Há quem responda que essa leitura idealiza o capitalismo do passado, e ele diz que essa crítica está mal colocada. As duas leituras podem conter parte da verdade.
+
+[B-ROLL: capa do livro sobre uma mesa, ao lado de um celular com a tela acesa]
+
+A minha tese é que a briga sobre o nome importa menos do que o que ela mostra: depender de um dono de terreno que cobra aluguel e muda as regras sozinho é uma relação de poder, e relações de poder merecem ser vistas com clareza, seja qual for o rótulo. E existe um teste prático que cada um pode fazer com qualquer serviço digital que usa. Primeiro, pergunte se você poderia sair dele sem perder o que construiu ali, como contatos, histórico e público. Segundo, pergunte quem define o preço e se essa regra pode mudar sem aviso. Terceiro, pergunte se existe uma alternativa de verdade ou só uma alternativa no papel. Quanto mais as respostas dizem que você está preso, mais aquele serviço se parece com um território, e menos com uma loja.
+
+[B-ROLL: porta de um castelo digital feita de linhas de código, aberta de um lado e fechada do outro]
+
+[TELA: sair sem perder o que construí? · quem define o preço? · existe alternativa?]
+
+No próximo vídeo, saímos do futuro para uma tradição de mais de mil anos: a alquimia. Vamos ver o que os alquimistas realmente buscavam, e por que a resposta quase nunca era transformar chumbo em ouro.
+
+[TELA: próximo vídeo: Alquimia, o que buscavam (não era ouro)]

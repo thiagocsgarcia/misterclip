@@ -1,0 +1,57 @@
+[SOM: respiração lenta e um tique-taque que desacelera]
+
+[B-ROLL: tela de celular à noite com uma conversa de mensagens, o cursor piscando, e uma foto de rua molhada]
+
+Em dois mil e quinze, um jovem de Moscou morreu atropelado, e a melhor amiga dele resolveu conversar com ele de novo. Ela não tinha um médium. Tinha milhares de mensagens de texto que ele havia deixado e conhecimentos de programação. Neste vídeo você vai ver o que ela construiu, onde a tecnologia hoje promete vencer a morte, o que os pesquisadores dizem sobre isso, e por que a carta da Morte, no tarô, talvez diga algo que as máquinas ainda não aprenderam.
+
+[TELA: A Morte · imortalidade digital]
+
+[SAÍDA: o espectador teme um vídeo sobre luto que seja pesado | o tom é de curiosidade e respeito, e a promessa de falar também do que o tarô diz aparece no primeiro minuto]
+
+A amiga é Eugenia Kuyda, fundadora de uma empresa de programas de conversa chamada Luka. O amigo, Roman Mazurenko, morreu em Moscou, atropelado ao atravessar a rua, e ela usou as mensagens que ele deixou para criar um programa que respondia no estilo dele. Esse programa, segundo reportagens da época, serviu como uma espécie de memorial, e as pessoas que o conheciam conversaram com ele. Ela contou que a experiência ajudou algumas delas. A partir dessa ideia, a empresa mudou de rumo e criou o aplicativo Replika, um companheiro de conversa para qualquer pessoa. Esta é a origem de uma indústria inteira: a de recriar os mortos em forma de máquina.
+
+[B-ROLL: telas de aplicativos de conversa, mensagens em balões, sem rosto de pessoa real]
+
+[TELA: 2015 · Roman Mazurenko · Eugenia Kuyda · Luka · Replika]
+
+Antes de ver o que a ciência diz, vale lembrar que a vontade de vencer a morte não nasceu no Vale do Silício. Uma das obras literárias mais antigas que se conhece, a Epopeia de Gilgamesh, conta a história de um rei que, depois da morte de um amigo querido, parte em busca da imortalidade e volta de mãos vazias. Mais de quatro mil anos depois, o desejo é o mesmo. O que mudou foi a ferramenta.
+
+[QUEBRA: corte seco da tela de um celular para uma tábua de argila com escrita cuneiforme]
+
+Hoje há pelo menos três caminhos. O primeiro é o da conservação do corpo. Em janeiro de mil novecentos e sessenta e sete, o professor James Bedford, que morrera de câncer, foi o primeiro ser humano a ser congelado depois da morte, na esperança de que a medicina do futuro pudesse reanimá-lo. O corpo dele continua preservado. Até hoje ninguém reanimou ninguém, e a criônica é vista pela maioria dos cientistas como uma aposta sem comprovação.
+
+O segundo caminho é o da longevidade. Ray Kurzweil, o autor de que falamos no vídeo sobre a singularidade, propõe a ideia de velocidade de escape da longevidade: um ponto em que a medicina adiciona mais de um ano de vida a cada ano que passa. Em dois mil e vinte e quatro, ele disse que isso poderia ocorrer por volta de dois mil e vinte e nove, e reportagens posteriores falam em torno de dois mil e trinta e dois. Ele não promete imortalidade, e sim a possibilidade de continuar sem envelhecer. Os críticos notam que os maiores ganhos de expectativa de vida do século vinte vieram de vacinas, saneamento e redução da mortalidade infantil, não de uma solução para o envelhecimento, e que por enquanto isso continua sendo uma previsão.
+
+[B-ROLL: laboratório com pipetas e telas, sem rosto de pessoa real, e um gráfico de expectativa de vida subindo ao longo do século]
+
+[TELA: 1967 · primeira criopreservação | Kurzweil · velocidade de escape da longevidade]
+
+[TEASER]
+
+O terceiro caminho é o que mais interessa aqui, porque ele já está disponível: a imortalidade digital, a ideia de continuar existindo como dados. E é nele que uma pesquisa de uma universidade britânica fez um alerta que muita gente ainda não ouviu.
+
+[SOM: nota baixa e prolongada]
+
+Em dois mil e vinte e quatro, dois pesquisadores da Universidade de Cambridge, Tomasz Hollanek e Katarzyna Nowaczyk-Basińska, publicaram um estudo sobre o que eles chamam de griefbots ou deadbots, programas que simulam pessoas mortas. Eles descreveram cenários de risco. Uma empresa poderia usar a voz de um avô falecido para anunciar produtos à família. Um programa poderia insistir, diante de uma criança, que o pai morto continua presente. E, como as pessoas criam laços emocionais fortes com essas simulações, ficam mais vulneráveis à manipulação. Os autores propõem consentimento da pessoa antes de morrer, transparência de que se trata de uma máquina, restrição de idade e até um ritual de despedida para desligar o programa, uma espécie de funeral digital.
+
+[B-ROLL: mesa de jantar com uma cadeira vazia e, sobre a mesa, um alto-falante pequeno aceso]
+
+[SAÍDA: trecho de alertas e riscos | a imagem da cadeira vazia e a ideia de um funeral para uma máquina mantêm o interesse humano]
+
+O outro lado também precisa ser ouvido. Há pessoas que relatam conforto ao conversar com a lembrança digital de alguém que perderam, e a própria história de Kuyda mostra isso. A questão não é proibir, e os autores do estudo dizem que uma proibição geral seria inviável. É saber quem controla o programa, com que fim, e o que acontece com quem não sabe a hora de parar. Nada disso é aconselhamento de saúde ou de luto: quem está em sofrimento deve procurar apoio profissional.
+
+Agora a pergunta filosófica, que o tarô faz há séculos. Se uma máquina imita você tão bem que quem te amava não nota a diferença, você continua existindo? Há um argumento simples contra: uma cópia que acredita ser você não impede que você, o original, tenha deixado de existir. É como fotografar alguém. A foto é ótima, mas a pessoa não está nela. Já os defensores da imortalidade digital respondem que identidade é padrão, e não matéria, e que se o padrão continua, a pessoa continua. É um debate sem solução científica, porque depende do que se chama de eu.
+
+[QUEBRA: a tela se divide em duas, uma com a foto de uma folha, outra com a própria folha]
+
+Aqui entra a carta. A Morte é o arcano número treze do tarô. Nas imagens clássicas, como a do baralho Rider-Waite, de mil novecentos e nove, ela aparece como um esqueleto de armadura montado num cavalo branco. Mas a maioria dos autores de tarô afirma que a carta raramente significa morte literal. Ela quer dizer fim de um ciclo e transformação: algo precisa terminar para que outra coisa comece. É uma das cartas em que a imagem assusta e a interpretação costuma consolar.
+
+Os estoicos tinham um nome para a prática de olhar de frente para o fim: memento mori, lembre-se de que você vai morrer. E o filósofo grego Epicuro escreveu que a morte não é nada para nós, porque quando existimos ela não está presente, e quando ela chega, nós já não existimos. São duas atitudes diferentes diante do mesmo fato, e nenhuma delas pede um servidor.
+
+[B-ROLL: ampulheta e, ao lado, um celular com tela apagada]
+
+A minha tese é que a tecnologia pode prolongar a vida e preservar a memória, e talvez faça as duas coisas cada vez melhor, mas ela não responde à pergunta que a carta da Morte faz: o que fazemos com o fim. A promessa de imortalidade digital tenta saltar a transformação, e o risco é que, ao recusar o fim, percamos também o que o fim ensina. Preservar a voz de quem amamos pode ser um gesto bonito. Confundir a voz com a pessoa é o ponto em que a tecnologia deixa de consolar e começa a vender.
+
+No próximo vídeo, uma carta que aponta para o lado oposto, a Estrela, e a pergunta de se o futuro ainda é algo que podemos escolher.
+
+[TELA: próximo vídeo: A Estrela]

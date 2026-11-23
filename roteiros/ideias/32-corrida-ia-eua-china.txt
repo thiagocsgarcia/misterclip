@@ -1,0 +1,67 @@
+[SOM: um estrondo seco, seguido do som de um pregão de bolsa se calando]
+
+[B-ROLL: painel de bolsa de valores com uma linha vermelha despencando, números borrados]
+
+Num só dia de janeiro de dois mil e vinte e cinco, a Nvidia perdeu cerca de seiscentos bilhões de dólares em valor. Foi no dia vinte e sete, e a causa foi um modelo de inteligência artificial chinês, o DeepSeek R1, que parecia funcionar tão bem quanto os americanos com muito menos recursos. Desde então, muita gente chama a disputa entre Estados Unidos e China de nova guerra fria. Neste vídeo você vai ver o placar atual, com números e datas, os dois pontos de estrangulamento em que cada lado segura o outro, e por que a comparação com a guerra fria de verdade ajuda e atrapalha ao mesmo tempo.
+
+[TELA: 27 de janeiro de 2025 · Nvidia: perda estimada entre 560 e 593 bilhões de dólares em um dia · fontes: imprensa financeira]
+
+[SAÍDA: o espectador acha que será um vídeo de torcida por um dos lados | a promessa de números e de dois pontos de vista aparece já no primeiro minuto]
+
+Vamos ao susto. O DeepSeek R1 é um modelo de código aberto, de uma empresa chinesa pouco conhecida na época, e a divulgação dizia que ele rendia em testes algo próximo do que os modelos americanos de ponta entregavam. Os números de custo que a empresa divulgou foram muito menores do que o que se supunha necessário, e é preciso cuidado com eles, porque costumam deixar de fora a pesquisa anterior e os equipamentos já comprados. O efeito na bolsa foi imediato: a Nvidia, que vende os chips de que todo mundo precisa, caiu cerca de dezessete por cento naquele dia. O recado dos investidores foi simples: se dá para fazer com menos chips, talvez a corrida não seja a que estavam precificando.
+
+[B-ROLL: um chip de silício sob luz fria, e ao lado dele um servidor muito menor]
+
+[QUEBRA: corte para um mapa-múndi em duas cores, Estados Unidos e China, com uma linha tracejada entre os dois]
+
+E como está o placar hoje? O relatório de dois mil e vinte e seis do Índice de Inteligência Artificial da Universidade de Stanford, divulgado em abril, mostra duas coisas que parecem contradição, e não são. Primeiro, a distância de desempenho entre os melhores modelos dos dois países ficou pequena: segundo a cobertura do relatório, cerca de dois vírgula sete por cento em março de dois mil e vinte e seis, medido em placares de comparação, com os dois países alternando a liderança desde o início de dois mil e vinte e cinco. Segundo, o dinheiro privado é muito desigual: os Estados Unidos teriam investido, em dois mil e vinte e cinco, cerca de duzentos e oitenta e seis bilhões de dólares em empresas de inteligência artificial, perto de vinte e três vezes os cerca de doze bilhões da China.
+
+[TELA: diferença de desempenho ≈ 2,7% (março de 2026) · investimento privado em 2025: EUA ≈ 286 bi, China ≈ 12 bi · fonte: Índice de IA de Stanford, 2026, segundo a cobertura]
+
+[B-ROLL: duas barras de gráfico de alturas muito diferentes, e ao lado delas dois pódios de altura quase igual]
+
+Esse contraste tem uma explicação que os analistas repetem: o número da China não conta o dinheiro do Estado. Estimativas citadas na mesma cobertura falam de cerca de cento e oitenta e quatro bilhões de dólares em fundos de orientação governamental, aplicados em empresas de inteligência artificial entre dois mil e dois mil e vinte e três, fora da conta do investimento privado. Ou seja, os dois países correm com combustíveis diferentes: capital privado nos Estados Unidos, capital privado mais dinheiro público na China. E isso nos leva ao primeiro ponto de estrangulamento.
+
+[SOM: um relógio de parede em contagem lenta]
+
+O primeiro ponto são os chips. Desde outubro de dois mil e vinte e dois, os Estados Unidos restringem a venda à China de chips avançados e de máquinas para fabricá-los, e as regras mudaram várias vezes. Em janeiro de dois mil e vinte e seis, o Departamento de Comércio passou a analisar caso a caso os pedidos para vender à China os chips H200, da Nvidia, e outros equivalentes. Segundo dados da Comissão de Relações Exteriores da Câmara, divulgados em dezenove de novembro de dois mil e vinte e seis, foram aprovadas licenças para mais de oitocentas e setenta e nove mil unidades até maio. Mas os envios não seguiram o ritmo: a própria Nvidia disse, em dezessete de novembro, que deixou de enviar esses produtos para a China, e analistas citam o limite que Pequim colocou à entrada deles. No dia vinte, o secretário do Tesouro dos Estados Unidos, Scott Bessent, disse que as regras atuais vão ficar como estão.
+
+[B-ROLL: caixas de chips numa esteira de aeroporto, e uma alfândega com uma cancela abaixada]
+
+[TELA: licenças para 879.868 chips até maio de 2026 · Nvidia deixou de enviar em 17/11/2026 · fonte: dados da Câmara dos EUA divulgados em 19/11 e a Nvidia]
+
+[TEASER]
+
+Mas o segundo ponto de estrangulamento é o que faz Washington hesitar. Ele não é de silício, é de pedra, e quem o segura é a China. Já chego lá, depois de mostrar por que a regra dos chips é tão discutida dentro dos próprios Estados Unidos.
+
+[QUEBRA: tela dividida: um engenheiro de bancada e um político num púlpito, cada um com uma frase]
+
+Aqui entra a briga entre os dois lados, e os dois têm argumentos sérios. Os que defendem a restrição dizem que chip avançado vira capacidade militar e de vigilância, e que vender para a China acelera quem pode se tornar adversária. Os que criticam dizem que a restrição empurra a China para produzir os próprios chips, como a Huawei tenta fazer, e tira receita das empresas americanas que financiam a pesquisa. Jensen Huang, presidente da Nvidia, já defendeu em público esse segundo ponto de vista. Note que o critério de quem acerta é empírico, e ainda não está decidido: a pergunta é se a restrição atrasa a China mais do que acelera a independência dela.
+
+[B-ROLL: duas pilhas de documentos de alturas diferentes, uma com a palavra “segurança”, outra com a palavra “mercado”]
+
+[SAÍDA: trecho político | a divisão em duas pilhas com o mesmo peso deixa claro que o vídeo não escolhe um lado antes das evidências]
+
+Agora a pedra. As terras raras são um grupo de elementos usados em ímãs, em motores e em muitos equipamentos de defesa e de inteligência artificial. A China domina o processamento deles, e usou isso como instrumento: em outubro de dois mil e vinte e cinco, ampliou os controles de exportação e, depois da reunião entre os presidentes em Busan, suspendeu parte deles. A suspensão deveria acabar em dez de novembro de dois mil e vinte e seis, e reportagens de setembro dizem que o prazo foi estendido até dez de janeiro de dois mil e vinte e sete, segundo o próprio Bessent, mas há quem aponte que o texto legal equivalente do lado chinês ainda não foi publicado. E há um limite: o regime de licenças de abril de dois mil e vinte e cinco, que cobre sete terras raras pesadas, nunca fez parte da suspensão.
+
+[B-ROLL: uma mina a céu aberto, um ímã de metal cinza e um motor de turbina em corte]
+
+[TELA: terras raras · suspensão até 10/1/2027, segundo reportagens · texto legal chinês ainda não confirmado · licenças de abril de 2025 seguem valendo]
+
+[QUEBRA: o mapa volta com as duas cores, agora com dois cadeados, um em cada lado]
+
+O que isso tem de guerra fria? A comparação ajuda em uma coisa: há dois blocos que se veem como rivais estratégicos, com corrida tecnológica e disputa de aliados. E atrapalha em outra: na guerra fria clássica, os dois lados quase não comerciavam, e hoje o comércio entre os dois países segue enorme, mesmo com tarifas. É por isso que analistas discutem se o termo cabe, e o historiador Graham Allison, de Harvard, prefere falar da armadilha de Tucídides, a tendência de choque entre uma potência estabelecida e outra em ascensão, assunto de um vídeo próximo deste canal. A minha leitura é que o termo guerra fria aponta o fenômeno certo, a rivalidade, e erra no mecanismo.
+
+[B-ROLL: gravura antiga de dois navios de guerra lado a lado, e por cima a imagem de dois contêineres sendo empilhados no mesmo porto]
+
+A minha tese é que essa corrida não tem uma linha de chegada com um vencedor, tem gargalos. A China depende de chips avançados e de máquinas que só poucos países fazem, e os Estados Unidos dependem de minerais que a China processa. Cada gargalo dá poder a quem o segura, mas só enquanto o outro não encontra um desvio, e os dois estão procurando o desvio ao mesmo tempo. É por isso que a política muda de mês para mês, e por isso que previsões firmes sobre quem ganha costumam envelhecer mal.
+
+[SOM: um acorde que sobe e não resolve]
+
+[B-ROLL: duas mãos segurando as pontas de uma mesma corda esticada, e a corda começando a fiar]
+
+Uma observação sobre este vídeo: os números de dois mil e vinte e seis vêm de coberturas e de dados que ainda podem ser revisados, e as regras de exportação mudaram várias vezes neste ano. Eu mostrei a situação de novembro, e ela pode ser outra quando você assistir. Por isso, confirme as datas nas fontes oficiais antes de usar qualquer número.
+
+Falamos de países e de chips, mas a disputa que mais mexe com a sua rotina é a que acontece dentro do seu celular. No próximo vídeo, a pergunta é quem decide o que você vê, e o que o algoritmo faz com o poder de escolher.
+
+[TELA: próximo vídeo: O poder do algoritmo: quem decide o que você vê]

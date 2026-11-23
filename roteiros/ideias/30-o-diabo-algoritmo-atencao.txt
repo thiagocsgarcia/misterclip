@@ -1,0 +1,67 @@
+[SOM: um acorde grave e, por cima, o som repetido de uma tela sendo deslizada com o dedo]
+
+[B-ROLL: a carta do Diabo, duas figuras acorrentadas a um pedestal, com a câmera se aproximando das correntes]
+
+Na carta do Diabo do baralho Rider-Waite, as duas figuras têm correntes no pescoço, mas as correntes estão frouxas o bastante para sair. Hoje, quase todo mundo carrega no bolso uma imagem parecida: um feed que não acaba, desenhado por engenheiros para você não largar. Neste vídeo você vai ver de onde vem essa carta, quem inventou a rolagem sem fim e depois pediu desculpas, o que a ciência diz com firmeza e o que ainda está em disputa, e por que a pergunta mais útil não é quem é o Diabo, e sim quem está segurando a corrente.
+
+[TELA: O Diabo · o feed que não acaba]
+
+[SAÍDA: o espectador espera um vídeo apocalíptico contra as redes sociais | a promessa de mostrar o que a ciência confirma e o que está em disputa já aparece no primeiro minuto]
+
+Vamos começar pela carta. O Diabo é o arcano número quinze do tarô. Em baralhos antigos, como o de Marselha do início do século dezoito, atribuído ao impressor Jean Dodal, ele aparece como uma figura híbrida, com chifres e asas, acima de duas criaturas menores. No baralho Rider-Waite, desenhado por Pamela Colman Smith e publicado entre mil novecentos e nove e mil novecentos e dez, a cena fica mais fácil de ler: um casal, parecido com o casal da carta dos Enamorados, está preso a um pedestal por correntes no pescoço, e os intérpretes modernos notam que elas estão soltas. Vale um cuidado de honestidade aqui: a ideia de que a corrente frouxa quer dizer prisão voluntária é uma leitura de comentaristas, e não uma intenção documentada da artista.
+
+[B-ROLL: a carta dos Enamorados e a carta do Diabo lado a lado, a imagem de uma espelhando a outra]
+
+[TELA: o Diabo como “inversão” dos Enamorados · leitura de intérpretes, não de Smith]
+
+Para a nossa conversa, essa leitura é um bom ponto de partida. Ela diz que há prisões que não precisam de cadeado, porque quem está preso colabora. Agora vamos ver se isso descreve o que acontece com a sua atenção, e a resposta começa com uma frase de mil novecentos e setenta e um. O economista e cientista Herbert Simon escreveu que uma riqueza de informação cria uma pobreza de atenção. Ou seja, quando há informação demais, o que fica escasso é a capacidade de prestar atenção a ela. Isso explica por que a atenção virou o recurso que as plataformas disputam: quem a captura vende anúncios, e o negócio cresce com o tempo que você passa ali.
+
+[B-ROLL: gráfico de barras com a palavra “atenção” crescendo, e um relógio de pulso ao lado]
+
+[QUEBRA: corte seco para uma tela de celular ligada num quarto escuro, de madrugada]
+
+Quanto tempo é esse? Depende da fonte, e os números mudam de um levantamento para outro. Um estudo da consultoria Bain, citado pela imprensa em dois mil e vinte e cinco, estimou que os brasileiros passam cerca de nove horas e treze minutos por dia conectados, e que cerca de três horas e trinta e sete minutos desse tempo vão para as redes sociais. Outros levantamentos dão cifras menores, porque medem de formas diferentes. O que todos mostram é que o Brasil está entre os países que mais usam redes sociais, e isso importa para tudo o que vem a seguir.
+
+[TELA: ≈ 3 h 37 min por dia em redes sociais · levantamento da Bain citado em 2025 · outras fontes dão números menores]
+
+Como se prende a atenção de alguém? Uma das ferramentas mais conhecidas é a rolagem infinita. Ela foi criada em dois mil e seis por Aza Raskin, na época um jovem designer, que pensava em facilitar a vida do usuário, sem precisar clicar em próxima página. Anos depois, ele disse publicamente que otimizar algo para ser fácil de usar não significa que seja o melhor para o usuário nem para a humanidade. Em dois mil e vinte e seis, a rádio pública americana NPR contou que Raskin depôs num processo contra a Meta, em que a empresa é acusada de tornar os aplicativos viciantes para crianças, e que ele defende devolver um pouco de atrito à experiência, ou seja, uma pausa pequena que lembre a pessoa de que ela pode parar.
+
+[B-ROLL: uma tira de imagens que sobe sem fim, e uma mão tentando alcançar o fim dela]
+
+[SOM: o som de uma máquina caça-níqueis, abafado e distante]
+
+[TEASER]
+
+Mas a peça mais curiosa desse mecanismo é outra, e ela vem de um laboratório de mil novecentos e cinquenta. Já chego lá, depois de mostrar o que a ciência diz sobre o efeito disso em crianças, onde existe uma briga séria entre pesquisadores.
+
+[QUEBRA: tela dividida entre uma gaiola de laboratório e um celular, cada um com um botão]
+
+A peça é a recompensa que chega de forma imprevisível. O psicólogo B. F. Skinner e o colega Charles Ferster mostraram, em experimentos com animais publicados no livro Esquemas de Reforço, em mil novecentos e cinquenta e sete, que um comportamento recompensado de forma irregular, às vezes sim e às vezes não, é mais difícil de interromper do que um recompensado sempre. A socióloga Natasha Dow Schüll, no livro Addiction by Design, de dois mil e doze, estudou como os caça-níqueis aproveitam esse princípio. Muitos comentaristas veem o mesmo desenho no ato de puxar a tela para atualizar o feed: você não sabe se vem algo bom, e por isso tenta de novo. É uma analogia, e não uma prova de que as redes funcionam como um caça-níqueis, mas ela explica por que o gesto é tão difícil de largar.
+
+[B-ROLL: a mão puxando a tela para atualizar, a roda de um caça-níqueis girando por cima]
+
+[TELA: recompensa irregular · Skinner e Ferster, 1957 · Schüll, 2012]
+
+Agora a parte em disputa. Em maio de dois mil e vinte e três, o cirurgião-geral dos Estados Unidos, Vivek Murthy, publicou um alerta dizendo que não havia evidência suficiente para concluir que as redes sociais são seguras para crianças e adolescentes. Note a formulação: ele não disse que fazem mal, disse que a segurança não está demonstrada. O psicólogo social Jonathan Haidt, no livro A Geração Ansiosa, de dois mil e vinte e quatro, defende que o celular com redes sociais é uma causa importante da piora da saúde mental de adolescentes. Do outro lado, a pesquisadora Candice Odgers escreveu na revista Nature, em dois mil e vinte e quatro, que os dados disponíveis mostram associações pequenas e inconsistentes, e que a ideia de uma causa única é exagerada. Os dois lados concordam que o assunto merece cuidado, e discordam do tamanho do efeito.
+
+[B-ROLL: duas pilhas de estudos de tamanhos diferentes sobre uma balança, sem peso final]
+
+[SAÍDA: trecho de nomes e datas | a balança sem peso final deixa claro que o vídeo não escolhe um lado antes das evidências]
+
+E o que os governos estão fazendo, enquanto os cientistas discutem? A Austrália decidiu proibir contas de redes sociais para menores de dezesseis anos, com a regra valendo desde dezembro de dois mil e vinte e cinco. No Brasil, o Estatuto Digital da Criança e do Adolescente, conhecido como ECA Digital, entrou em vigor em dezessete de março de dois mil e vinte e seis, segundo a Agência Senado, e a fiscalização ficou com a Autoridade Nacional de Proteção de Dados. As regras mudam as obrigações das empresas em relação a crianças, e os efeitos reais ainda estão sendo medidos.
+
+[TELA: Austrália: menores de 16 · Brasil: ECA Digital em vigor desde 17 de março de 2026]
+
+[SOM: nota longa que se afasta]
+
+Voltemos à carta. A minha tese é que o Diabo do tarô, lido pelos nossos olhos, ensina uma coisa que as discussões sobre algoritmo costumam esquecer: a corrente é frouxa, mas a frouxidão não torna a prisão imaginária. Dizer que você pode sair não significa que sair seja fácil quando tudo foi desenhado para que você fique. As duas coisas são verdade ao mesmo tempo, e é por isso que a conversa sobre atenção fracassa quando vira culpa. Culpar o indivíduo ignora o desenho, e culpar só o desenho ignora que há escolhas possíveis.
+
+[B-ROLL: as correntes frouxas da carta, uma delas sendo levantada devagar da mão da figura]
+
+O que fazer, então? Aqui eu falo como quem analisa, e não como médico ou psicólogo: o que digo não é recomendação de saúde. Mas as propostas mais citadas por quem estuda o tema são simples. Desligar as notificações que você não pediu, trocar o feed que escolhe por um feed cronológico quando o aplicativo permite, e colocar o seu próprio atrito, como deixar o celular em outro cômodo durante uma refeição. É o mesmo conselho de Raskin, aplicado por você.
+
+[TELA: três atritos · notificações · feed cronológico · celular fora do alcance · não é aconselhamento de saúde]
+
+Quem está segurando a corrente é uma pergunta que fica melhor quando a gente olha a lista de nomes por trás das plataformas. No próximo vídeo, vamos a Thiel, Musk, Altman e Ellison, para ver quem manda no Vale do Silício e o que se sabe, com fonte, sobre cada um.
+
+[TELA: próximo vídeo: Quem manda no Vale do Silício?]

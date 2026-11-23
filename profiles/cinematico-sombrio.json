@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "base_model": "flux1-schnell-fp8",
+  "lora": null,
+  "params": {
+    "width": 1344,
+    "height": 768,
+    "steps": 4,
+    "cfg": 1.0,
+    "sampler": "euler",
+    "scheduler": "simple",
+    "seed": "per_scene_random"
+  },
+  "negative_prompt": "",
+  "negative_note": "FLUX schnell ignora prompt negativo; restrições vão no prompt positivo.",
+  "motion": {
+    "default": "ken_burns",
+    "animated_ratio": 0.35,
+    "clip_engine": "wan"
+  },
+  "id": "cinematico-sombrio",
+  "name": "Cinemático sombrio",
+  "description": "Fotograma de cinema: claro-escuro, velas, neblina, preto e âmbar. Perfil base, serve a todos os temas.",
+  "style_prompt": "cinematic film still, dramatic chiaroscuro lighting, candlelight and deep shadows, volumetric haze, 35mm anamorphic lens, subtle film grain, dark moody palette of black and amber, photorealistic",
+  "finishing": {
+    "grade": "teal_amber",
+    "grain": 0.3,
+    "vignette": 0.4,
+    "transition": "fade_black"
+  },
+  "captions": {
+    "font": "sans",
+    "color": "#FFFFFF",
+    "position": "bottom"
+  },
+  "preview": "previews/cinematico-sombrio.jpg"
+}
