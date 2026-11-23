@@ -372,3 +372,21 @@ button.mini { min-height: 36px; padding: 4px 10px; font-size: 13px; } .pf textar
 .chklist .check { display: flex; gap: 8px; align-items: flex-start; }
 .chklist input[type=checkbox] { margin-top: 3px; flex: none; }
 .tag.okk { background: color-mix(in srgb, var(--ok, #2e9d5b) 25%, var(--bg)); border-color: var(--ok, #2e9d5b); }
+
+/* modal de roteiro: fontes no topo, conferência à esquerda, edição à direita */
+.editor.scriptmodal { width: min(1280px, 100%); max-height: 96vh; display: flex; flex-direction: column; gap: 10px; }
+.scriptmodal .sources { margin: 0; max-height: 24vh; overflow: auto; }
+.scriptmodal .srclist { margin: 6px 0 0; padding-left: 20px; columns: 2 320px; column-gap: 28px; font-size: 13px; }
+.scriptmodal .srclist li { break-inside: avoid; margin-bottom: 4px; }
+.scgrid { display: grid; grid-template-columns: minmax(280px, 2fr) minmax(0, 3fr); gap: 12px; align-items: start; min-height: 0; }
+.scgrid .conferir-box { margin: 0; max-height: 58vh; overflow: auto; position: sticky; top: 0; }
+.scgrid .chklist li { padding: 8px 10px; border: 1px solid var(--line); border-radius: 8px; }
+.scgrid .chklist li.done { opacity: .55; }
+.scgrid .chklist .check { cursor: pointer; line-height: 1.4; }
+.scgrid .chklist input[type=checkbox] { width: 20px; height: 20px; }
+.scedit textarea { width: 100%; min-height: 48vh; height: 52vh; resize: vertical; font-size: 15px; line-height: 1.55; }
+.scedit .checks { max-height: 16vh; overflow: auto; }
+.bar { height: 6px; background: var(--line); border-radius: 3px; margin: 4px 0 8px; overflow: hidden; }
+.bar i { display: block; height: 100%; background: var(--ok); }
+.scactions { position: sticky; bottom: -1px; background: var(--panel); padding: 10px 0 2px; border-top: 1px solid var(--line); flex-wrap: wrap; }
+@media (max-width: 860px) { .scgrid { grid-template-columns: 1fr; } .scgrid .conferir-box { position: static; max-height: 34vh; } .scedit textarea { min-height: 40vh; } }

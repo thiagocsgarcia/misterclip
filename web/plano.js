@@ -234,28 +234,40 @@ export const IdeasList = {
         <h2 id="sc-t">Roteiro: {{ ed.titulo }}</h2>
         <p v-if="ed.loading" class="muted">Carregando…</p><p v-if="ed.err" class="error" role="alert">{{ ed.err }}</p>
         <template v-if="ed.info">
-          <div v-if="ed.info.rascunho" class="card rulecheck draftinfo">
-            <strong>📝 Rascunho da IA, ainda não revisado</strong>
-            <p class="hint">Tese: {{ ed.info.rascunho.tese }}</p>
-            <p v-if="(ed.info.rascunho.incertezas || []).length" class="hint"><b>Confira antes de gravar:</b> {{ ed.info.rascunho.incertezas.join(' · ') }}</p>
-            <p v-if="(ed.info.rascunho.fontes || []).length" class="hint"><b>Fontes que o modelo disse conhecer (confirme que existem):</b> {{ ed.info.rascunho.fontes.join(' · ') }}</p>
+          <section v-if="ed.info.rascunho || ed.info.notas" class="card rulecheck draftinfo sources" aria-label="Fontes e tese">
+            <template v-if="ed.info.notas">
+              <strong>🔎 Fontes · {{ ed.info.notas.origem || 'Roteiro com pesquisa' }}</strong>
+              <p class="hint"><b>Tese:</b> {{ ed.info.notas.tese }}</p>
+              <ul v-if="(ed.info.notas.fontes || []).length" class="srclist"><li v-for="(x, k) in ed.info.notas.fontes" :key="k">{{ x }}</li></ul>
+            </template>
+            <template v-else>
+              <strong>📝 Rascunho da IA, ainda não revisado</strong>
+              <p class="hint"><b>Tese:</b> {{ ed.info.rascunho.tese }}</p>
+              <p v-if="(ed.info.rascunho.fontes || []).length" class="hint"><b>Fontes que o modelo disse conhecer (confirme que existem):</b></p>
+              <ul v-if="(ed.info.rascunho.fontes || []).length" class="srclist"><li v-for="(x, k) in ed.info.rascunho.fontes" :key="k">{{ x }}</li></ul>
+              <p v-if="(ed.info.rascunho.incertezas || []).length" class="hint"><b>Confira antes de gravar:</b> {{ ed.info.rascunho.incertezas.join(' · ') }}</p>
+            </template>
+          </section>
+          <div class="scgrid">
+            <section class="card rulecheck conferir-box" aria-label="O que conferir">
+              <template v-if="(ed.info.conferir || []).length">
+                <strong>✅ O que conferir antes de gerar o vídeo</strong>
+                <p class="hint">{{ ed.info.conferir.length - pend }} de {{ ed.info.conferir.length }} conferidos</p>
+                <div class="bar" aria-hidden="true"><i :style="{ width: Math.round(100 * (ed.info.conferir.length - pend) / ed.info.conferir.length) + '%' }"></i></div>
+                <ul class="chklist"><li v-for="it in ed.info.conferir" :key="it.id" :class="{ done: it.feito }"><label class="check"><input type="checkbox" :checked="it.feito" @change="toggleCheck(ed.n, it, $event.target.checked)"> <span><small class="tag">{{ it.origem === 'regras' ? 'regras do canal' : 'pesquisa' }}</small> {{ it.texto }}</span></label></li></ul>
+              </template>
+              <p v-else class="muted">Nada a conferir neste roteiro.</p>
+            </section>
+            <section class="scedit" aria-label="Edição do roteiro">
+              <label>Roteiro marcado (edite à vontade)
+                <textarea v-model="ed.text" spellcheck="true" :disabled="ed.busy" @input="ed.dirty = true"></textarea>
+                <small class="hint">{{ nf(words) }} palavras de fala ≈ {{ (words / 125).toFixed(1) }} min (o canal pede de 8 a 12 e aceita até 30 quando o tema pede). Linhas como [B-ROLL: …], [TELA: …], [SOM: …], [QUEBRA: …], [TEASER] e [SAÍDA: risco | solução] são marcações de produção e não são narradas.</small></label>
+              <ul v-if="(ed.info.achados || []).length && !ed.dirty" class="checks"><li v-for="(a, k) in ed.info.achados" :key="k" :class="'lv-' + a.nivel"><span>{{ a.nivel === 'ok' ? '✅' : a.nivel === 'erro' ? '⛔' : '⚠️' }}</span> {{ a.mensagem }}</li></ul>
+              <p v-if="ed.dirty" class="hint">Salve para conferir de novo este texto nas regras do canal.</p>
+            </section>
           </div>
-          <div v-if="ed.info.notas" class="card rulecheck draftinfo">
-            <strong>🔎 {{ ed.info.notas.origem || 'Roteiro com pesquisa' }}</strong>
-            <p class="hint">Tese: {{ ed.info.notas.tese }}</p>
-            <details v-if="(ed.info.notas.fontes || []).length"><summary>Fontes ({{ ed.info.notas.fontes.length }})</summary><ul><li v-for="(x, k) in ed.info.notas.fontes" :key="k">{{ x }}</li></ul></details>
-          </div>
-          <div v-if="(ed.info.conferir || []).length" class="card rulecheck conferir-box">
-            <strong>✅ O que conferir antes de gerar o vídeo ({{ ed.info.conferir.length - pend }} de {{ ed.info.conferir.length }})</strong>
-            <ul class="chklist"><li v-for="it in ed.info.conferir" :key="it.id"><label class="check"><input type="checkbox" :checked="it.feito" @change="toggleCheck(ed.n, it, $event.target.checked)"> <span><small class="tag">{{ it.origem === 'regras' ? 'regras do canal' : 'pesquisa' }}</small> {{ it.texto }}</span></label></li></ul>
-          </div>
-          <label>Roteiro marcado (edite à vontade)
-            <textarea rows="18" v-model="ed.text" spellcheck="true" :disabled="ed.busy" @input="ed.dirty = true"></textarea>
-            <small class="hint">{{ nf(words) }} palavras de fala ≈ {{ (words / 125).toFixed(1) }} min (o canal pede de 8 a 12 e aceita até 30 quando o tema pede). Linhas como [B-ROLL: …], [TELA: …], [SOM: …], [QUEBRA: …], [TEASER] e [SAÍDA: risco | solução] são marcações de produção e não são narradas.</small></label>
-          <ul v-if="(ed.info.achados || []).length && !ed.dirty" class="checks"><li v-for="(a, k) in ed.info.achados" :key="k" :class="'lv-' + a.nivel"><span>{{ a.nivel === 'ok' ? '✅' : a.nivel === 'erro' ? '⛔' : '⚠️' }}</span> {{ a.mensagem }}</li></ul>
-          <p v-if="ed.dirty" class="hint">Salve para conferir de novo este texto nas regras do canal.</p>
         </template>
-        <div class="actions">
+        <div class="actions scactions">
           <button type="button" class="primary" :disabled="ed.busy || !ed.info || !ed.dirty" @click="saveEdit(false)">Salvar</button>
           <button v-if="ed.info && ed.info.rascunho" type="button" :disabled="ed.busy" @click="saveEdit(true)">Salvar e marcar como revisado</button>
           <button type="button" :disabled="!ed.info" @click="copyNarr">Copiar a narração</button>
